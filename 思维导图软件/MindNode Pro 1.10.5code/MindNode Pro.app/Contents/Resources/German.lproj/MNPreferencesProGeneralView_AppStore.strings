@@ -1,0 +1,27 @@
+/* Class = "NSButtonCell"; title = "Animate changes"; ObjectID = "26"; */
+"Animate changes" = "Änderungen animieren";
+
+/* Class = "NSButtonCell"; title = "Create a new document"; ObjectID = "43"; */
+"Create a new document" = "Ein neues Dokument erstellen";
+
+/* Class = "NSTextFieldCell"; title = "Starting:"; ObjectID = "45"; */
+"Starting:" = "Beim Start:";
+
+/* Class = "NSTextFieldCell"; title = "General:"; ObjectID = "77"; */
+"General:" = "Allgemein:";
+
+/* Class = "NSButtonCell"; title = "Active hyperlinks"; ObjectID = "97"; */
+"Active hyperlinks" = "Aktive Links";
+
+/* Class = "NSButtonCell"; title = "Restore Defaults"; ObjectID = "105"; */
+"Restore Defaults" = "Standardeinstellungen";
+
+/* Class = "NSButtonCell"; title = "Smart link detection"; ObjectID = "109"; */
+"Smart link detection" = "Intelligente Links";
+
+/* Class = "NSButtonCell"; title = "Enable smart layout for new documents"; ObjectID = "132"; */
+"Enable smart layout for new documents" = "Automatisch anordnen für neue Dokumente aktivieren.";
+
+/* Class = "NSButtonCell"; title = "Inherit style when reconnecting"; ObjectID = "141"; */
+"Inherit style when reconnecting" = "Stil beim Neuverbinden übernehmen";
+

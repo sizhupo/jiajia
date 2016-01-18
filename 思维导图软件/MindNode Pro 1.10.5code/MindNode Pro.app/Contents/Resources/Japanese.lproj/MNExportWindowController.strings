@@ -1,0 +1,42 @@
+/* Class = "NSPanel"; title = "Window"; ObjectID = "1"; */
+"Window" = "ウインドウ";
+
+/* Class = "NSToolbarItem"; label = "PDF"; ObjectID = "11"; */
+"PDF" = "PDF";
+
+/* Class = "NSToolbarItem"; paletteLabel = "PDF"; ObjectID = "11"; */
+"PDF" = "PDF";
+
+/* Class = "NSToolbarItem"; label = "OPML"; ObjectID = "12"; */
+"OPML" = "OPML";
+
+/* Class = "NSToolbarItem"; paletteLabel = "OPML"; ObjectID = "12"; */
+"OPML" = "OPML";
+
+/* Class = "NSToolbarItem"; label = "Freemind"; ObjectID = "13"; */
+"Freemind" = "Freemind";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Freemind"; ObjectID = "13"; */
+"Freemind" = "Freemind";
+
+/* Class = "NSToolbarItem"; label = "Image"; ObjectID = "14"; */
+"Image" = "イメージ";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Image"; ObjectID = "14"; */
+"Image" = "イメージ";
+
+/* Class = "NSToolbarItem"; label = "Text"; ObjectID = "16"; */
+"Text" = "テキスト";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Text"; ObjectID = "16"; */
+"Text" = "テキスト";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "71"; */
+"Cancel" = "キャンセル";
+
+/* Class = "NSButtonCell"; title = "Next…"; ObjectID = "72"; */
+"Next…" = "次へ…";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "75"; */
+"Box" = "Box";
+

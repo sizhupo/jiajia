@@ -1,0 +1,18 @@
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "5"; */
+"OtherViews" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "6"; */
+"Item 1" = "Item 1";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "7"; */
+"Item 2" = "Item 2";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "8"; */
+"Item 3" = "Item 3";
+
+/* Class = "NSButtonCell"; title = "Transparent Background"; ObjectID = "10"; */
+"Transparent Background" = "Fondo transparente";
+
+/* Class = "NSTextFieldCell"; title = "Format:"; ObjectID = "12"; */
+"Format:" = "Formato:";
+

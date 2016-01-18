@@ -1,0 +1,20 @@
+﻿/* Class = "NSTextFieldCell"; title = "Comments:"; ObjectID = "16"; */
+"Comments:" = "Kommentare:";
+
+/* Class = "NSTextFieldCell"; title = "Keywords:"; ObjectID = "19"; */
+"Keywords:" = "Schlagwörter:";
+
+/* Class = "NSTextFieldCell"; title = "Title:"; ObjectID = "20"; */
+"Title:" = "Titel:";
+
+/* Class = "NSTextFieldCell"; title = "Author:"; ObjectID = "22"; */
+"Author:" = "Autor:";
+
+/* Class = "NSTextFieldCell"; title = "Info"; ObjectID = "23"; */
+"Info" = "Information";
+
+/* Class = "NSTextFieldCell"; title = "Background Color:"; ObjectID = "24"; */
+"Background Color:" = "Hintergrundfarbe:";
+
+/* Class = "NSTextFieldCell"; title = "Document"; ObjectID = "25"; */
+"Document" = "Dokument";

@@ -1,0 +1,18 @@
+/* Class = "NSButtonCell"; title = "Center Mind Map"; ObjectID = "4"; */
+"Center Mind Map" = "Mind Map zentrieren";
+
+/* Class = "NSButtonCell"; title = "Scale:"; ObjectID = "15"; */
+"Scale:" = "Größe:";
+
+/* Class = "NSButtonCell"; title = "Scale To Fit"; ObjectID = "16"; */
+"Scale To Fit" = "Größe anpassen";
+
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "17"; */
+"Radio" = "Radio";
+
+/* Class = "NSButtonCell"; title = "Print Headers and Footers"; ObjectID = "21"; */
+"Print Headers and Footers" = "Kopf- und Fußzeilen drucken";
+
+/* Class = "NSButtonCell"; title = "Print Canvas Background"; ObjectID = "58"; */
+"Print Canvas Background" = "Hintergrund drucken";
+

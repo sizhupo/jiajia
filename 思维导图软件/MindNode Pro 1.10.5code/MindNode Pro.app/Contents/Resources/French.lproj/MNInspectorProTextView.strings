@@ -1,0 +1,18 @@
+/* Class = "NSTextFieldCell"; title = "Text Alignment"; ObjectID = "11"; */
+"Text Alignment" = "Alignement du texte";
+
+/* Class = "NSTextFieldCell"; title = "Width"; ObjectID = "20"; */
+"Width" = "Largeur";
+
+/* Class = "NSButtonCell"; title = "Shrink Width To Fit"; ObjectID = "26"; */
+"Shrink Width To Fit" = "Ajuster la largeur au contenu";
+
+/* Class = "NSTextFieldCell"; title = "Weblink"; ObjectID = "74"; */
+"Weblink" = "Lien web";
+
+/* Class = "NSTextFieldCell"; title = "URL:"; ObjectID = "81"; */
+"URL:" = "URL :";
+
+/* Class = "NSButtonCell"; title = "Enable as hyperlink"; ObjectID = "84"; */
+"Enable as hyperlink" = "Définir comme lien hypertexte";
+

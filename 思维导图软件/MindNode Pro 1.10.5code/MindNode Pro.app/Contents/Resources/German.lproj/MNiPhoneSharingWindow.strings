@@ -1,0 +1,12 @@
+/* Class = "NSPanel"; title = "iPhone Sharing"; ObjectID = "1"; */
+"iPhone Sharing" = "iPhone-Übertragung";
+
+/* Class = "NSSegmentedCell"; 93.ibShadowedLabels[0] = "Mobile Device"; ObjectID = "93"; */
+"Mobile Device" = "Mobiles Gerät";
+
+/* Class = "NSSegmentedCell"; 93.ibShadowedLabels[1] = "Mac (open documents)"; ObjectID = "93"; */
+"Mac (open documents)" = "Mac (Offene Dokumente)";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "143"; */
+"Text Cell" = "Text Cell";
+

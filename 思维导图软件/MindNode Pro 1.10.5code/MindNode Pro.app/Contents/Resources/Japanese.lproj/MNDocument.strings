@@ -1,0 +1,35 @@
+﻿/* Class = "NSWindow"; title = "MindNode"; ObjectID = "5"; */
+"MindNode" = "MindNode";
+
+/* Class = "NSToolbarItem"; label = "Inspector"; ObjectID = "154"; */
+"Inspector" = "Inspector";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Inspector"; ObjectID = "154"; */
+"Inspector" = "インスペクタ";
+
+/* Class = "NSToolbarItem"; toolTip = "Show Inspector Panel"; ObjectID = "154"; */
+"Show Inspector Panel" = "インスペクタパネルを表示";
+
+/* Class = "NSToolbarItem"; label = "Node"; ObjectID = "195"; */
+"Node" = "Node";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Node"; ObjectID = "195"; */
+"Node" = "ノード";
+
+/* Class = "NSToolbarItem"; label = "Colors"; ObjectID = "225"; */
+"Colors" = "Colors";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Colors"; ObjectID = "225"; */
+"Colors" = "カラー";
+
+/* Class = "NSToolbarItem"; toolTip = "Show Color Panel"; ObjectID = "225"; */
+"Show Color Panel" = "カラーパネルを表示";
+
+/* Class = "NSToolbarItem"; label = "Fonts"; ObjectID = "227"; */
+"Fonts" = "Fonts";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Fonts"; ObjectID = "227"; */
+"Fonts" = "フォント";
+
+/* Class = "NSToolbarItem"; toolTip = "Show Font Panel"; ObjectID = "227"; */
+"Show Font Panel" = "フォントパネルを表示";

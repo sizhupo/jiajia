@@ -1,0 +1,486 @@
+/* Class = "NSMenu"; title = "MainMenu"; ObjectID = "29"; */
+"MainMenu" = "MainMenu";
+
+/* Class = "NSMenuItem"; title = "MindNode Pro"; ObjectID = "56"; */
+"MindNode Pro" = "MindNode Pro";
+
+/* Class = "NSMenu"; title = "MindNode Pro"; ObjectID = "57"; */
+"MindNode Pro" = "MindNode Pro";
+
+/* Class = "NSMenuItem"; title = "About MindNode Pro"; ObjectID = "58"; */
+"About MindNode Pro" = "关于 MindNode Pro";
+
+/* Class = "NSMenuItem"; title = "Open…"; ObjectID = "72"; */
+"Open…" = "打开...";
+
+/* Class = "NSMenuItem"; title = "Close"; ObjectID = "73"; */
+"Close" = "关闭";
+
+/* Class = "NSMenuItem"; title = "Save"; ObjectID = "75"; */
+"Save" = "储存";
+
+/* Class = "NSMenuItem"; title = "Print…"; ObjectID = "78"; */
+"Print…" = "打印...";
+
+/* Class = "NSMenuItem"; title = "Save As…"; ObjectID = "80"; */
+"Save As…" = "储存为...";
+
+/* Class = "NSMenu"; title = "File"; ObjectID = "81"; */
+"File" = "文件";
+
+/* Class = "NSMenuItem"; title = "New"; ObjectID = "82"; */
+"New" = "新建";
+
+/* Class = "NSMenuItem"; title = "File"; ObjectID = "83"; */
+"File" = "文件";
+
+/* Class = "NSMenuItem"; title = "Help"; ObjectID = "103"; */
+"Help" = "帮助";
+
+/* Class = "NSMenu"; title = "Help"; ObjectID = "106"; */
+"Help" = "帮助";
+
+/* Class = "NSMenuItem"; title = "MindNode Pro Help"; ObjectID = "111"; */
+"MindNode Pro Help" = "MindNode Pro 帮助";
+
+/* Class = "NSMenuItem"; title = "Revert to Saved"; ObjectID = "112"; */
+"Revert to Saved" = "恢复为未储存的";
+
+/* Class = "NSMenuItem"; title = "Open Recent"; ObjectID = "124"; */
+"Open Recent" = "最近打开的";
+
+/* Class = "NSMenu"; title = "Open Recent"; ObjectID = "125"; */
+"Open Recent" = "最近打开的";
+
+/* Class = "NSMenuItem"; title = "Clear Menu"; ObjectID = "126"; */
+"Clear Menu" = "清除菜单";
+
+/* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "129"; */
+"Preferences…" = "偏好设置...";
+
+/* Class = "NSMenu"; title = "Services"; ObjectID = "130"; */
+"Services" = "服务";
+
+/* Class = "NSMenuItem"; title = "Services"; ObjectID = "131"; */
+"Services" = "服务";
+
+/* Class = "NSMenuItem"; title = "Hide MindNode Pro"; ObjectID = "134"; */
+"Hide MindNode Pro" = "隐藏 MindNode Pro";
+
+/* Class = "NSMenuItem"; title = "Quit MindNode Pro"; ObjectID = "136"; */
+"Quit MindNode Pro" = "退出 MindNode Pro";
+
+/* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "145"; */
+"Hide Others" = "隐藏其他";
+
+/* Class = "NSMenuItem"; title = "Show All"; ObjectID = "150"; */
+"Show All" = "全部显示";
+
+/* Class = "NSMenuItem"; title = "Copy"; ObjectID = "157"; */
+"Copy" = "拷贝";
+
+/* Class = "NSMenuItem"; title = "Undo"; ObjectID = "158"; */
+"Undo" = "撤销";
+
+/* Class = "NSMenuItem"; title = "Cut"; ObjectID = "160"; */
+"Cut" = "剪切";
+
+/* Class = "NSMenuItem"; title = "Edit"; ObjectID = "163"; */
+"Edit" = "编辑";
+
+/* Class = "NSMenuItem"; title = "Delete"; ObjectID = "164"; */
+"Delete" = "删除";
+
+/* Class = "NSMenu"; title = "Edit"; ObjectID = "169"; */
+"Edit" = "编辑";
+
+/* Class = "NSMenuItem"; title = "Paste"; ObjectID = "171"; */
+"Paste" = "粘贴";
+
+/* Class = "NSMenuItem"; title = "Select All"; ObjectID = "172"; */
+"Select All" = "全部选择";
+
+/* Class = "NSMenuItem"; title = "Redo"; ObjectID = "173"; */
+"Redo" = "重做";
+
+/* Class = "NSMenuItem"; title = "Spelling and Grammar"; ObjectID = "184"; */
+"Spelling and Grammar" = "拼写与语法";
+
+/* Class = "NSMenu"; title = "Spelling and Grammar"; ObjectID = "185"; */
+"Spelling and Grammar" = "拼写与语法";
+
+/* Class = "NSMenuItem"; title = "Show Spelling"; ObjectID = "187"; */
+"Show Spelling" = "显示拼写";
+
+/* Class = "NSMenuItem"; title = "Check Spelling"; ObjectID = "189"; */
+"Check Spelling" = "检查拼写";
+
+/* Class = "NSMenuItem"; title = "Check Spelling While Typing"; ObjectID = "191"; */
+"Check Spelling While Typing" = "输入时检查拼写";
+
+/* Class = "NSMenuItem"; title = "Speech"; ObjectID = "220"; */
+"Speech" = "语音";
+
+/* Class = "NSMenu"; title = "Speech"; ObjectID = "221"; */
+"Speech" = "语音";
+
+/* Class = "NSMenuItem"; title = "Start Speaking"; ObjectID = "222"; */
+"Start Speaking" = "开始语音";
+
+/* Class = "NSMenuItem"; title = "Stop Speaking"; ObjectID = "223"; */
+"Stop Speaking" = "停止语音";
+
+/* Class = "NSMenuItem"; title = "Check Grammar With Spelling"; ObjectID = "228"; */
+"Check Grammar With Spelling" = "检查拼写时也检查语法";
+
+/* Class = "NSMenuItem"; title = "Window"; ObjectID = "239"; */
+"Window" = "窗口";
+
+/* Class = "NSMenu"; title = "Window"; ObjectID = "240"; */
+"Window" = "窗口";
+
+/* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "241"; */
+"Minimize" = "最小化";
+
+/* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "243"; */
+"Bring All to Front" = "前置全部窗口";
+
+/* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "244"; */
+"Zoom" = "缩放";
+
+/* Class = "NSMenuItem"; title = "View"; ObjectID = "330"; */
+"View" = "视图";
+
+/* Class = "NSMenu"; title = "View"; ObjectID = "331"; */
+"View" = "视图";
+
+/* Class = "NSMenuItem"; title = "Show Toolbar"; ObjectID = "334"; */
+"Show Toolbar" = "显示工具栏";
+
+/* Class = "NSMenuItem"; title = "Customize Toolbar…"; ObjectID = "336"; */
+"Customize Toolbar…" = "自定义工具栏...";
+
+/* Class = "NSMenuItem"; title = "Export..."; ObjectID = "425"; */
+"Export..." = "导出...";
+
+/* Class = "NSMenuItem"; title = "Node"; ObjectID = "443"; */
+"Node" = "节点";
+
+/* Class = "NSMenu"; title = "Node"; ObjectID = "444"; */
+"Node" = "节点";
+
+/* Class = "NSMenuItem"; title = "New Child Node"; ObjectID = "445"; */
+"New Child Node" = "新建子结点";
+
+/* Class = "NSMenuItem"; title = "New Sibling Node"; ObjectID = "462"; */
+"New Sibling Node" = "新建附属节点";
+
+/* Class = "NSMenuItem"; title = "Center Main Node"; ObjectID = "469"; */
+"Center Main Node" = "居中主节点";
+
+/* Class = "NSMenuItem"; title = "Paste And Match Style"; ObjectID = "496"; */
+"Paste And Match Style" = "粘贴并匹配样式";
+
+/* Class = "NSMenuItem"; title = "Visit Website"; ObjectID = "498"; */
+"Visit Website" = "访问网站";
+
+/* Class = "NSMenuItem"; title = "Send Feedback"; ObjectID = "499"; */
+"Send Feedback" = "发送反馈";
+
+/* Class = "NSMenuItem"; title = "Debug"; ObjectID = "513"; */
+"Debug" = "调试";
+
+/* Class = "NSMenu"; title = "Debug"; ObjectID = "514"; */
+"Debug" = "调试";
+
+/* Class = "NSMenuItem"; title = "Show Debug Window"; ObjectID = "515"; */
+"Show Debug Window" = "显示调试窗口";
+
+/* Class = "NSMenuItem"; title = "New Main Node"; ObjectID = "519"; */
+"New Main Node" = "新建主节点";
+
+/* Class = "NSMenuItem"; title = "Next Main Nodes"; ObjectID = "532"; */
+"Next Main Nodes" = "下一个主节点";
+
+/* Class = "NSMenuItem"; title = "Previous Main Nodes"; ObjectID = "533"; */
+"Previous Main Nodes" = "上一个主节点";
+
+/* Class = "NSMenuItem"; title = "Deselect All"; ObjectID = "536"; */
+"Deselect All" = "全不选";
+
+/* Class = "NSMenuItem"; title = "Duplicate"; ObjectID = "539"; */
+"Duplicate" = "重复";
+
+/* Class = "NSMenuItem"; ibShadowedToolTip = "Reorder the selected nodes to balance the subbranch"; ObjectID = "547"; */
+"Reorder the selected nodes to balance the subbranch" = "重排选中的节点来平衡子分支";
+
+/* Class = "NSMenuItem"; title = "Reorganize Nodes"; ObjectID = "547"; */
+"Reorganize Nodes" = "重组节点";
+
+/* Class = "NSMenuItem"; title = "Fold Nodes"; ObjectID = "567"; */
+"Fold Nodes" = "折叠节点";
+
+/* Class = "NSMenuItem"; title = "Unfold Nodes"; ObjectID = "569"; */
+"Unfold Nodes" = "展开节点";
+
+/* Class = "NSMenuItem"; title = "Fold All Nodes"; ObjectID = "577"; */
+"Fold All Nodes" = "折叠所有节点";
+
+/* Class = "NSMenuItem"; title = "Unfold All Nodes"; ObjectID = "579"; */
+"Unfold All Nodes" = "展开所有节点";
+
+/* Class = "NSMenuItem"; title = "Detach Nodes"; ObjectID = "583"; */
+"Detach Nodes" = "分离节点";
+
+/* Class = "NSMenuItem"; title = "Page Setup…"; ObjectID = "672"; */
+"Page Setup…" = "页面设置...";
+
+/* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "678"; */
+"Zoom" = "缩放";
+
+/* Class = "NSMenu"; title = "Zoom"; ObjectID = "679"; */
+"Zoom" = "缩放";
+
+/* Class = "NSMenuItem"; title = "Zoom In"; ObjectID = "680"; */
+"Zoom In" = "放大";
+
+/* Class = "NSMenuItem"; title = "Zoom Out"; ObjectID = "681"; */
+"Zoom Out" = "缩小";
+
+/* Class = "NSMenuItem"; title = "Actual Size"; ObjectID = "682"; */
+"Actual Size" = "真实大小";
+
+/* Class = "NSMenuItem"; title = "Fit Mind Map"; ObjectID = "683"; */
+"Fit Mind Map" = "适应思维导图";
+
+/* Class = "NSMenuItem"; title = "Fit Selection"; ObjectID = "690"; */
+"Fit Selection" = "适应选中内容";
+
+/* Class = "NSMenuItem"; title = "Create Connection"; ObjectID = "693"; */
+"Create Connection" = "建立连接";
+
+/* Class = "NSMenuItem"; title = "Acknowledgments"; ObjectID = "700"; */
+"Acknowledgments" = "致谢";
+
+/* Class = "NSMenuItem"; title = "Copy MindMap As Image"; ObjectID = "705"; */
+"Copy MindMap As Image" = "拷贝思维导图为图片";
+
+/* Class = "NSMenuItem"; title = "Insert New Parent Node"; ObjectID = "723"; */
+"Insert New Parent Node" = "插入新的上级节点";
+
+/* Class = "NSMenuItem"; title = "Smart Layout"; ObjectID = "733"; */
+"Smart Layout" = "智能板式";
+
+/* Class = "NSMenuItem"; title = "Show Quick Look"; ObjectID = "761"; */
+"Show Quick Look" = "显示 Quick Look";
+
+/* Class = "NSMenuItem"; title = "Show Inspector"; ObjectID = "771"; */
+"Show Inspector" = "显示检查器";
+
+/* Class = "NSMenuItem"; title = "Document Inspector"; ObjectID = "772"; */
+"Document Inspector" = "文档检查器";
+
+/* Class = "NSMenuItem"; title = "Style Inspector"; ObjectID = "773"; */
+"Style Inspector" = "样式检查器";
+
+/* Class = "NSMenuItem"; title = "Text Inspector"; ObjectID = "774"; */
+"Text Inspector" = "文本检查器";
+
+/* Class = "NSMenuItem"; title = "Show in Finder"; ObjectID = "780"; */
+"Show in Finder" = "在Finder中显示";
+
+/* Class = "NSMenuItem"; title = "Add Text Link…"; ObjectID = "789"; */
+"Add Text Link…" = "添加文字链接...";
+
+/* Class = "NSMenuItem"; title = "Unfold One Level"; ObjectID = "792"; */
+"Unfold One Level" = "展开一层";
+
+/* Class = "NSMenuItem"; title = "Enter Full Screen"; ObjectID = "794"; */
+"Enter Full Screen" = "进入全屏";
+
+/* Class = "NSMenuItem"; title = "MindNode Pro User Guide"; ObjectID = "796"; */
+"MindNode Pro User Guide" = "MindNode Pro 用户手册";
+
+/* Class = "NSMenuItem"; title = "Find"; ObjectID = "797"; */
+"Find" = "查找";
+
+/* Class = "NSMenu"; title = "Find"; ObjectID = "798"; */
+"Find" = "查找";
+
+/* Class = "NSMenuItem"; title = "Use Selection for Find"; ObjectID = "799"; */
+"Use Selection for Find" = "利用选项来查找";
+
+/* Class = "NSMenuItem"; title = "Find Previous"; ObjectID = "800"; */
+"Find Previous" = "查找上一个";
+
+/* Class = "NSMenuItem"; title = "Find Next"; ObjectID = "801"; */
+"Find Next" = "查找下一个";
+
+/* Class = "NSMenuItem"; title = "Find…"; ObjectID = "802"; */
+"Find…" = "查找...";
+
+/* Class = "NSMenuItem"; title = "Move to iCloud"; ObjectID = "850"; */
+"Move to iCloud" = "移到 iCloud";
+
+/* Class = "NSMenuItem"; title = "iCloud"; ObjectID = "863"; */
+"iCloud" = "iCloud";
+
+/* Class = "NSMenu"; title = "iCloud"; ObjectID = "864"; */
+"iCloud" = "iCloud";
+
+/* Class = "NSMenuItem"; title = "Open iCloud Document…"; ObjectID = "866"; */
+"Open iCloud Document…" = "打开icloud的文档...";
+
+/* Class = "NSMenuItem"; title = "iPhone Sharing…"; ObjectID = "871"; */
+"iPhone Sharing…" = "iPhone 共享...";
+
+/* Class = "NSMenuItem"; title = "Copy iCloud URL to Pasteboard"; ObjectID = "876"; */
+"Copy iCloud URL to Pasteboard" = "将iCloud的网址复制到剪贴板";
+
+/* Class = "NSMenuItem"; title = "Hide Status Bar"; ObjectID = "897"; */
+"Hide Status Bar" = "隐藏状态栏";
+
+/* Class = "NSMenuItem"; title = "Format"; ObjectID = "953"; */
+"Format" = "格式";
+
+/* Class = "NSMenu"; title = "Format"; ObjectID = "954"; */
+"Format" = "格式";
+
+/* Class = "NSMenuItem"; title = "Font"; ObjectID = "955"; */
+"Font" = "字体";
+
+/* Class = "NSMenuItem"; title = "Text"; ObjectID = "956"; */
+"Text" = "文本";
+
+/* Class = "NSMenu"; title = "Text"; ObjectID = "957"; */
+"Text" = "文本";
+
+/* Class = "NSMenuItem"; title = "Align Left"; ObjectID = "958"; */
+"Align Left" = "靠左对齐";
+
+/* Class = "NSMenuItem"; title = "Center"; ObjectID = "959"; */
+"Center" = "中心";
+
+/* Class = "NSMenuItem"; title = "Justify"; ObjectID = "960"; */
+"Justify" = "两端对齐";
+
+/* Class = "NSMenuItem"; title = "Align Right"; ObjectID = "961"; */
+"Align Right" = "靠右对齐";
+
+/* Class = "NSMenuItem"; title = "Writing Direction"; ObjectID = "963"; */
+"Writing Direction" = "书写方向";
+
+/* Class = "NSMenu"; title = "Writing Direction"; ObjectID = "968"; */
+"Writing Direction" = "书写方向";
+
+/* Class = "NSMenuItem"; title = "Paragraph"; ObjectID = "969"; */
+"Paragraph" = "段落";
+
+/* Class = "NSMenuItem"; title = "\tDefault"; ObjectID = "970"; */
+"\tDefault" = "\t默认";
+
+/* Class = "NSMenuItem"; title = "\tLeft to Right"; ObjectID = "971"; */
+"\tLeft to Right" = "\t从左至右";
+
+/* Class = "NSMenuItem"; title = "\tRight to Left"; ObjectID = "972"; */
+"\tRight to Left" = "\t从右到左";
+
+/* Class = "NSMenuItem"; title = "Selection"; ObjectID = "974"; */
+"Selection" = "选中内容";
+
+/* Class = "NSMenuItem"; title = "\tDefault"; ObjectID = "975"; */
+"\tDefault" = "\t默认";
+
+/* Class = "NSMenuItem"; title = "\tLeft to Right"; ObjectID = "976"; */
+"\tLeft to Right" = "\t从左至右";
+
+/* Class = "NSMenuItem"; title = "\tRight to Left"; ObjectID = "977"; */
+"\tRight to Left" = "\t从右到左";
+
+/* Class = "NSMenu"; title = "Font"; ObjectID = "978"; */
+"Font" = "字体";
+
+/* Class = "NSMenuItem"; title = "Show Fonts"; ObjectID = "979"; */
+"Show Fonts" = "显示字体";
+
+/* Class = "NSMenuItem"; title = "Bold"; ObjectID = "980"; */
+"Bold" = "粗体";
+
+/* Class = "NSMenuItem"; title = "Italic"; ObjectID = "981"; */
+"Italic" = "斜体";
+
+/* Class = "NSMenuItem"; title = "Underline"; ObjectID = "982"; */
+"Underline" = "下划线";
+
+/* Class = "NSMenuItem"; title = "Bigger"; ObjectID = "984"; */
+"Bigger" = "加大";
+
+/* Class = "NSMenuItem"; title = "Smaller"; ObjectID = "985"; */
+"Smaller" = "缩小";
+
+/* Class = "NSMenuItem"; title = "Kern"; ObjectID = "987"; */
+"Kern" = "字距调整";
+
+/* Class = "NSMenuItem"; title = "Ligatures"; ObjectID = "988"; */
+"Ligatures" = "连字";
+
+/* Class = "NSMenuItem"; title = "Baseline"; ObjectID = "989"; */
+"Baseline" = "基线";
+
+/* Class = "NSMenuItem"; title = "Show Colors"; ObjectID = "991"; */
+"Show Colors" = "显示颜色";
+
+/* Class = "NSMenuItem"; title = "Copy Style"; ObjectID = "993"; */
+"Copy Style" = "拷贝样式";
+
+/* Class = "NSMenuItem"; title = "Paste Style"; ObjectID = "994"; */
+"Paste Style" = "粘贴样式";
+
+/* Class = "NSMenu"; title = "Baseline"; ObjectID = "995"; */
+"Baseline" = "基线";
+
+/* Class = "NSMenuItem"; title = "Use Default"; ObjectID = "996"; */
+"Use Default" = "使用默认";
+
+/* Class = "NSMenuItem"; title = "Superscript"; ObjectID = "997"; */
+"Superscript" = "上标";
+
+/* Class = "NSMenuItem"; title = "Subscript"; ObjectID = "998"; */
+"Subscript" = "下标";
+
+/* Class = "NSMenuItem"; title = "Raise"; ObjectID = "999"; */
+"Raise" = "上升";
+
+/* Class = "NSMenuItem"; title = "Lower"; ObjectID = "1000"; */
+"Lower" = "下降";
+
+/* Class = "NSMenu"; title = "Ligatures"; ObjectID = "1001"; */
+"Ligatures" = "连字";
+
+/* Class = "NSMenuItem"; title = "Use Default"; ObjectID = "1002"; */
+"Use Default" = "使用默认";
+
+/* Class = "NSMenuItem"; title = "Use None"; ObjectID = "1003"; */
+"Use None" = "什么都不使用";
+
+/* Class = "NSMenuItem"; title = "Use All"; ObjectID = "1004"; */
+"Use All" = "使用全部";
+
+/* Class = "NSMenu"; title = "Kern"; ObjectID = "1005"; */
+"Kern" = "字距调整";
+
+/* Class = "NSMenuItem"; title = "Use Default"; ObjectID = "1006"; */
+"Use Default" = "使用默认";
+
+/* Class = "NSMenuItem"; title = "Use None"; ObjectID = "1007"; */
+"Use None" = "什么都不使用";
+
+/* Class = "NSMenuItem"; title = "Tighten"; ObjectID = "1008"; */
+"Tighten" = "紧缩";
+
+/* Class = "NSMenuItem"; title = "Loosen"; ObjectID = "1009"; */
+"Loosen" = "放松";
+
+/* Class = "NSMenuItem"; title = "Strikethrough"; ObjectID = "1044"; */
+"Strikethrough" = "删除线";
+

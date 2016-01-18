@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>    
+	<key>backgroundColor</key>
+	<string>{1.000, 0.961, 0.863, 1.000}</string>
+    <key>ColorVariations</key>
+    <true/>
+    
+    <key>mainNodes</key>
+    <array>
+        <dict>
+            <key>title</key>
+            <dict>
+                <key>name</key>
+                <string>Gill Sans</string>
+                <key>size</key>
+                <integer>14</integer>
+                <key>color</key>
+                <string>{0.400, 0.400, 0.400, 1.000}</string>
+            </dict>
+            <key>drawFilled</key>
+            <true/>
+            <key>fillStyle</key>
+            <dict>
+                <key>color</key>
+                <string>{1.000,1.000,1.000,1.000}</string>
+            </dict>
+            <key>strokeStyle</key>
+            <dict>
+                <key>dash</key>
+                <integer>0</integer>
+                <key>color</key>
+                <string>{0.400, 0.200, 0.000, 1.000}</string>
+                <key>width</key>
+                <integer>2</integer>
+            </dict>
+        </dict>
+    </array>
+    <key>subNodes</key>
+    <array>
+        <dict>
+            <key>title</key>
+            <dict>
+                <key>name</key>
+                <string>Gill Sans</string>
+                <key>size</key>
+                <integer>14</integer>
+                <key>color</key>
+                <string>{0.400, 0.400, 0.400, 1.000}</string>
+            </dict>
+            <key>drawFilled</key>
+            <false/>
+            <key>fillStyle</key>
+            <dict>
+                <key>color</key>
+				<string>{1.000, 0.961, 0.863, 1.000}</string>
+            </dict>
+            <key>strokeStyle</key>
+            <dict>
+                <key>dash</key>
+                <integer>0</integer>
+                <key>color</key>
+                <string>{1.000, 0.400, 0.000, 1.000}</string>
+                <key>width</key>
+                <integer>2</integer>
+            </dict>
+        </dict>
+        <dict>
+            <key>title</key>
+            <dict>
+                <key>name</key>
+                <string>Gill Sans</string>
+                <key>size</key>
+                <integer>14</integer>
+                <key>color</key>
+                <string>{0.400, 0.400, 0.400, 1.000}</string>
+            </dict>
+            <key>drawFilled</key>
+            <false/>
+            <key>fillStyle</key>
+            <dict>
+                <key>color</key>
+				<string>{1.000, 0.961, 0.863, 1.000}</string>
+            </dict>
+            <key>strokeStyle</key>
+            <dict>
+                <key>dash</key>
+                <integer>0</integer>
+                <key>color</key>
+                <string>{1.000, 0.800, 0.000, 1.000}</string>
+                <key>width</key>
+                <integer>2</integer>
+            </dict>
+        </dict>
+        <dict>
+            <key>title</key>
+            <dict>
+                <key>name</key>
+                <string>Gill Sans</string>
+                <key>size</key>
+                <integer>14</integer>
+                <key>color</key>
+                <string>{0.400, 0.400, 0.400, 1.000}</string>
+            </dict>
+            <key>drawFilled</key>
+            <false/>
+            <key>fillStyle</key>
+            <dict>
+                <key>color</key>
+				<string>{1.000, 0.961, 0.863, 1.000}</string>
+            </dict>
+            <key>strokeStyle</key>
+            <dict>
+                <key>dash</key>
+                <integer>0</integer>
+                <key>color</key>
+                <string>{0.600, 0.600, 0.000, 1.000}</string>
+                <key>width</key>
+                <integer>2</integer>
+            </dict>
+        </dict>
+        <dict>
+            <key>title</key>
+            <dict>
+                <key>name</key>
+                <string>Gill Sans</string>
+                <key>size</key>
+                <integer>14</integer>
+                <key>color</key>
+                <string>{0.400, 0.400, 0.400, 1.000}</string>
+            </dict>
+            <key>drawFilled</key>
+            <false/>
+            <key>fillStyle</key>
+            <dict>
+                <key>color</key>
+				<string>{1.000, 0.961, 0.863, 1.000}</string>
+            </dict>
+            <key>strokeStyle</key>
+            <dict>
+                <key>dash</key>
+                <integer>0</integer>
+                <key>color</key>
+                <string>{0.600, 0.800, 0.800, 1.000}</string>
+                <key>width</key>
+                <integer>2</integer>
+            </dict>
+        </dict>
+        <dict>
+            <key>title</key>
+            <dict>
+                <key>name</key>
+                <string>Gill Sans</string>
+                <key>size</key>
+                <integer>14</integer>
+                <key>color</key>
+                <string>{0.400, 0.400, 0.400, 1.000}</string>
+            </dict>
+            <key>drawFilled</key>
+            <false/>
+            <key>fillStyle</key>
+            <dict>
+                <key>color</key>
+				<string>{1.000, 0.961, 0.863, 1.000}</string>
+            </dict>
+            <key>strokeStyle</key>
+            <dict>
+                <key>dash</key>
+                <integer>0</integer>
+                <key>color</key>
+                <string>{0.000, 0.600, 0.600, 1.000}</string>
+                <key>width</key>
+                <integer>2</integer>
+            </dict>
+        </dict>
+        <dict>
+            <key>title</key>
+            <dict>
+                <key>name</key>
+                <string>Gill Sans</string>
+                <key>size</key>
+                <integer>14</integer>
+                <key>color</key>
+                <string>{0.400, 0.400, 0.400, 1.000}</string>
+            </dict>
+            <key>drawFilled</key>
+            <false/>
+            <key>fillStyle</key>
+            <dict>
+                <key>color</key>
+				<string>{1.000, 0.961, 0.863, 1.000}</string>
+            </dict>
+            <key>strokeStyle</key>
+            <dict>
+                <key>dash</key>
+                <integer>0</integer>
+                <key>color</key>
+                <string>{0.400, 0.200, 0.000, 1.000}</string>
+                <key>width</key>
+                <integer>2</integer>
+            </dict>
+        </dict>
+
+    </array>
+
+    <key>crossConnections</key>
+    <array>
+        <dict>
+            <key>strokeStyle</key>
+            <dict>
+                <key>dash</key>
+                    <integer>0</integer>
+                    <key>color</key>
+                    <string>{0.800, 0.800, 0.600, 1.000}</string>
+                    <key>width</key>
+                    <integer>1</integer>
+                </dict>
+                <key>startArrow</key>
+                <integer>0</integer>
+                <key>endArrow</key>
+                <integer>1</integer>
+            </dict>
+    </array>
+</dict>
+</plist>

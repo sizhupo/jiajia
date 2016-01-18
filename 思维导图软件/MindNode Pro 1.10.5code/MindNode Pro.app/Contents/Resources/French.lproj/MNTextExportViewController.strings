@@ -1,0 +1,18 @@
+/* Class = "NSTextFieldCell"; title = "Format:"; ObjectID = "5"; */
+"Format:" = "Format :";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "20"; */
+"OtherViews" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "21"; */
+"Item 3" = "Item 3";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "22"; */
+"Item 2" = "Item 2";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "23"; */
+"Item 1" = "Item 1";
+
+/* Class = "NSTextFieldCell"; title = "Create a text outline that can be viewed and edited with a text editor."; ObjectID = "31"; */
+"Create a text outline that can be viewed and edited with a text editor." = "Créer un texte descriptif qui peut être affiché et modifié avec un éditeur de texte.";
+

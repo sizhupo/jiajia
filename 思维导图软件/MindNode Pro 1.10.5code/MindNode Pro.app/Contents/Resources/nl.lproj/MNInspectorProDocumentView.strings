@@ -1,0 +1,36 @@
+/* Class = "NSTextFieldCell"; title = "Comments:"; ObjectID = "16"; */
+"Comments:" = "Opmerkingen:";
+
+/* Class = "NSTextFieldCell"; title = "Keywords:"; ObjectID = "19"; */
+"Keywords:" = "Trefwoorden:";
+
+/* Class = "NSTextFieldCell"; title = "Title:"; ObjectID = "20"; */
+"Title:" = "Titel:";
+
+/* Class = "NSTextFieldCell"; title = "Author:"; ObjectID = "22"; */
+"Author:" = "Auteur:";
+
+/* Class = "NSTextFieldCell"; title = "Info"; ObjectID = "23"; */
+"Info" = "Info";
+
+/* Class = "NSTextFieldCell"; title = "Background Color:"; ObjectID = "24"; */
+"Background Color:" = "Achtergrondkleur:";
+
+/* Class = "NSTextFieldCell"; title = "Document"; ObjectID = "25"; */
+"Document" = "Document";
+
+/* Class = "NSTextFieldCell"; title = "Color Style"; ObjectID = "47"; */
+"Color Style" = "Kleurstijl";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "50"; */
+"OtherViews" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "51"; */
+"Item 1" = "Item 1";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "52"; */
+"Item 2" = "Item 2";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "53"; */
+"Item 3" = "Item 3";
+

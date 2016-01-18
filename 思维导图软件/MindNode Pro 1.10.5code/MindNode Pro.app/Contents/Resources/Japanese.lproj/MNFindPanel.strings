@@ -1,0 +1,42 @@
+/* Class = "NSPanel"; title = "Find"; ObjectID = "1"; */
+"Find" = "検索";
+
+/* Class = "NSTextFieldCell"; title = "Replace with:"; ObjectID = "7"; */
+"Replace with:" = "置換文字列：";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Find next occurrence of the Find string"; ObjectID = "12"; */
+"Find next occurrence of the Find string" = "検索文字列が次に出てくる場所を探します";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Replace next occurrence of Find string with replacement string"; ObjectID = "13"; */
+"Replace next occurrence of Find string with replacement string" = "次に検索文字列が出てくる場所を置換文字列で置き換えます";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Replace next occurrence of Find string with replacement string and find next again occurrence of the Find string"; ObjectID = "14"; */
+"Replace next occurrence of Find string with replacement string and find next again occurrence of the Find string" = "次に検索文字列が出てくる場所を置換文字列で置き換え、さらに検索文字列が出てくる場所を探します。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Replace all occurrences of the Find string with replacement string"; ObjectID = "15"; */
+"Replace all occurrences of the Find string with replacement string" = "検索文字列が出てくる場所をすべて置換文字列で置き換えます";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Find previous occurrence of the Find string"; ObjectID = "16"; */
+"Find previous occurrence of the Find string" = "検索文字列が出てくる場所を逆方向に探します";
+
+/* Class = "NSButtonCell"; title = "Previous"; ObjectID = "17"; */
+"Previous" = "前へ";
+
+/* Class = "NSButtonCell"; title = "Replace All"; ObjectID = "18"; */
+"Replace All" = "すべて置き換え";
+
+/* Class = "NSButtonCell"; title = "Replace & Find"; ObjectID = "19"; */
+"Replace & Find" = "検索と置換";
+
+/* Class = "NSButtonCell"; title = "Replace"; ObjectID = "20"; */
+"Replace" = "置き換え";
+
+/* Class = "NSButtonCell"; title = "Next"; ObjectID = "21"; */
+"Next" = "次へ";
+
+/* Class = "NSTextFieldCell"; title = "Find:"; ObjectID = "29"; */
+"Find:" = "検索文字列：";
+
+/* Class = "NSTextFieldCell"; title = "Not Found"; ObjectID = "78"; */
+"Not Found" = "見つかりません";
+

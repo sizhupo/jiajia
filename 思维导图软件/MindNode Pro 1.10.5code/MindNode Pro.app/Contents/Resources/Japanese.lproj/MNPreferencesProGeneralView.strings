@@ -1,0 +1,65 @@
+﻿/* Class = "NSButtonCell"; title = "Animate changes"; ObjectID = "26"; */
+"Animate changes" = "変更をアニメーションする";
+
+/* Class = "NSButtonCell"; title = "Create a new document"; ObjectID = "43"; */
+"Create a new document" = "新規書類を作成する";
+
+/* Class = "NSTextFieldCell"; title = "Starting:"; ObjectID = "45"; */
+"Starting:" = "起動時:";
+
+/* Class = "NSButtonCell"; title = "Remember workspace"; ObjectID = "47"; */
+"Remember workspace" = "ワークスペースを復元する";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Specify how often MindNode Pro should save side-copies of documents being modified. These \"autosave\" copies can be used to recover contents of unsaved documents."; ObjectID = "59"; */
+"Specify how often MindNode Pro should save side-copies of documents being modified. These \"autosave\" copies can be used to recover contents of unsaved documents." = "MindNode Pro が変更がある書類のコピーを保存する間隔を指定します。\"自動保存\" で保存されるコピーは、未保存書類のリカバリに使用できます。";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "61"; */
+"OtherViews" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Every 15 seconds"; ObjectID = "62"; */
+"Every 15 seconds" = "15 秒ごと";
+
+/* Class = "NSMenuItem"; title = "Every 5 minutes"; ObjectID = "63"; */
+"Every 5 minutes" = "5 分ごと";
+
+/* Class = "NSMenuItem"; title = "Every minute"; ObjectID = "64"; */
+"Every minute" = "1 分ごと";
+
+/* Class = "NSMenuItem"; title = "Never"; ObjectID = "65"; */
+"Never" = "自動保存しない";
+
+/* Class = "NSMenuItem"; title = "Every 30 seconds"; ObjectID = "66"; */
+"Every 30 seconds" = "30 秒ごと";
+
+/* Class = "NSTextFieldCell"; title = "Autosave:"; ObjectID = "68"; */
+"Autosave:" = "自動保存:";
+
+/* Class = "NSTextFieldCell"; title = "General:"; ObjectID = "77"; */
+"General:" = "一般:";
+
+/* Class = "NSButtonCell"; title = "Check Now"; ObjectID = "83"; */
+"Check Now" = "今すぐ確認";
+
+/* Class = "NSTextFieldCell"; title = "When checking for updates, MindNode Pro will not send information about your system."; ObjectID = "87"; */
+"When checking for updates, MindNode Pro will not send information about your system." = "アップデートを確認する際、MindNode Pro がシステムに関する情報を送信することはありません。";
+
+/* Class = "NSButtonCell"; title = "Automatically check for updates"; ObjectID = "88"; */
+"Automatically check for updates" = "アップデートを自動で確認する";
+
+/* Class = "NSTextFieldCell"; title = "Software Update:"; ObjectID = "90"; */
+"Software Update:" = "アップデート:";
+
+/* Class = "NSButtonCell"; title = "Active hyperlinks"; ObjectID = "97"; */
+"Active hyperlinks" = "ハイパーリンクを有効にする";
+
+/* Class = "NSButtonCell"; title = "Restore Defaults"; ObjectID = "105"; */
+"Restore Defaults" = "初期設定値に戻す";
+
+/* Class = "NSButtonCell"; title = "Smart link detection"; ObjectID = "109"; */
+"Smart link detection" = "リンクを自動的に検出する";
+
+/* Class = "NSButtonCell"; title = "Enable smart layout for new documents"; ObjectID = "132"; */
+"Enable smart layout for new documents" = "新規書類でスマートレイアウトを有効にする";
+
+/* Class = "NSButtonCell"; title = "Inherit style when reconnecting"; ObjectID = "141"; */
+"Inherit style when reconnecting" = "再接続時にスタイルを継承する";

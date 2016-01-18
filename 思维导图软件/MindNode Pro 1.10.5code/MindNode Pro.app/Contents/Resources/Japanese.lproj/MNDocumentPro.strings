@@ -1,0 +1,129 @@
+/* Class = "NSWindow"; title = "MindNode Pro"; ObjectID = "5"; */
+"MindNode Pro" = "MindNode Pro";
+
+/* Class = "NSSegmentedCell"; 194.ibShadowedToolTips[0] = "Add a new node"; ObjectID = "194"; */
+"Add a new node" = "新規ノードを追加";
+
+/* Class = "NSSegmentedCell"; 194.ibShadowedToolTips[1] = "Delete all selected nodes"; ObjectID = "194"; */
+"Delete all selected nodes" = "選択したノードをすべて削除";
+
+/* Class = "NSToolbarItem"; label = "Node"; ObjectID = "195"; */
+"Node" = "ノード";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Node"; ObjectID = "195"; */
+"Node" = "ノード";
+
+/* Class = "NSToolbarItem"; label = "New Node"; ObjectID = "261"; */
+"New Node" = "新規ノード";
+
+/* Class = "NSToolbarItem"; paletteLabel = "New Node"; ObjectID = "261"; */
+"New Node" = "新規ノード";
+
+/* Class = "NSToolbarItem"; toolTip = "Create a new node"; ObjectID = "261"; */
+"Create a new node" = "新規ノードを作成";
+
+/* Class = "NSToolbarItem"; label = "Delete Node"; ObjectID = "262"; */
+"Delete Node" = "ノードを削除";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Delete Node"; ObjectID = "262"; */
+"Delete Node" = "ノードを削除";
+
+/* Class = "NSToolbarItem"; toolTip = "Delete all selected nodes"; ObjectID = "262"; */
+"Delete all selected nodes" = "選択したノードをすべて削除";
+
+/* Class = "NSToolbarItem"; label = "Share"; ObjectID = "298"; */
+"Share" = "共有";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Share"; ObjectID = "298"; */
+"Share" = "共有";
+
+/* Class = "NSToolbarItem"; toolTip = "Share"; ObjectID = "298"; */
+"Share" = "共有";
+
+/* Class = "NSSegmentedControl"; ibShadowedToolTip = "Fold nodes"; ObjectID = "309"; */
+"Fold nodes" = "ノードをたたむ";
+
+/* Class = "NSSegmentedCell"; 310.ibShadowedToolTips[0] = "Fold nodes"; ObjectID = "310"; */
+"Fold nodes" = "ノードをたたむ";
+
+/* Class = "NSSegmentedCell"; 310.ibShadowedToolTips[1] = "Unfold nodes"; ObjectID = "310"; */
+"Unfold nodes" = "ノードを展開する";
+
+/* Class = "NSToolbarItem"; label = "Folding"; ObjectID = "311"; */
+"Folding" = "たたむ";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Folding"; ObjectID = "311"; */
+"Folding" = "たたむ";
+
+/* Class = "NSToolbarItem"; label = "Connect"; ObjectID = "317"; */
+"Connect" = "接続";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Connect"; ObjectID = "317"; */
+"Connect" = "接続";
+
+/* Class = "NSToolbarItem"; toolTip = "Create a cross connection"; ObjectID = "317"; */
+"Create a cross connection" = "クロス接続を作成";
+
+/* Class = "NSToolbarItem"; label = "iPhone Sharing"; ObjectID = "320"; */
+"iPhone Sharing" = "iPhone 共有";
+
+/* Class = "NSToolbarItem"; paletteLabel = "iPhone Sharing"; ObjectID = "320"; */
+"iPhone Sharing" = "iPhone 共有";
+
+/* Class = "NSToolbarItem"; toolTip = "Show or hide the iPhone Sharing window"; ObjectID = "320"; */
+"Show or hide the iPhone Sharing window" = "iPhone 共有ウインドウを表示／隠す";
+
+/* Class = "NSToolbarItem"; label = "iCloud"; ObjectID = "323"; */
+"iCloud" = "iCloud";
+
+/* Class = "NSToolbarItem"; paletteLabel = "iCloud"; ObjectID = "323"; */
+"iCloud" = "iCloud";
+
+/* Class = "NSToolbarItem"; toolTip = "Show or hide the iCloud browser"; ObjectID = "323"; */
+"Show or hide the iCloud browser" = "iCloud ブラウザを表示／隠す";
+
+/* Class = "NSToolbarItem"; label = "Inspector"; ObjectID = "326"; */
+"Inspector" = "インスペクタ";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Inspector"; ObjectID = "326"; */
+"Inspector" = "インスペクタ";
+
+/* Class = "NSToolbarItem"; toolTip = "Show or hide the Inspector window"; ObjectID = "326"; */
+"Show or hide the Inspector window" = "インスペクタウインドウを表示／隠す";
+
+/* Class = "NSToolbarItem"; label = "Media"; ObjectID = "329"; */
+"Media" = "メディア";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Media"; ObjectID = "329"; */
+"Media" = "メディア";
+
+/* Class = "NSToolbarItem"; toolTip = "Show or hide the Media window"; ObjectID = "329"; */
+"Show or hide the Media window" = "メディアウインドウを表示／隠す";
+
+/* Class = "NSToolbarItem"; label = "Colors"; ObjectID = "332"; */
+"Colors" = "カラー";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Colors"; ObjectID = "332"; */
+"Colors" = "カラー";
+
+/* Class = "NSToolbarItem"; toolTip = "Show or hide the Colors window"; ObjectID = "332"; */
+"Show or hide the Colors window" = "カラーウインドウを表示／隠す";
+
+/* Class = "NSToolbarItem"; label = "Fonts"; ObjectID = "335"; */
+"Fonts" = "フォント";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Fonts"; ObjectID = "335"; */
+"Fonts" = "フォント";
+
+/* Class = "NSToolbarItem"; toolTip = "Show or hide the Fonts window"; ObjectID = "335"; */
+"Show or hide the Fonts window" = "フォントウインドウを表示／隠す";
+
+/* Class = "NSToolbarItem"; label = "Print"; ObjectID = "338"; */
+"Print" = "プリント";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Print"; ObjectID = "338"; */
+"Print" = "プリント";
+
+/* Class = "NSToolbarItem"; toolTip = "Print the document"; ObjectID = "338"; */
+"Print the document" = "書類をプリント";
+

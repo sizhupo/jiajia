@@ -1,0 +1,177 @@
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "27"; */
+"OtherViews" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Return Key"; ObjectID = "28"; */
+"Return Key" = "Eingabetaste";
+
+/* Class = "NSMenuItem"; title = "Command - Return Key"; ObjectID = "29"; */
+"Command - Return Key" = "Befehlstaste - Eingabetaste";
+
+/* Class = "NSMenuItem"; title = "Shift - Return Key"; ObjectID = "30"; */
+"Shift - Return Key" = "Umschalttaste - Eingabetaste";
+
+/* Class = "NSTextFieldCell"; title = "Create new child node:"; ObjectID = "32"; */
+"Create new child node:" = "Kindknoten:";
+
+/* Class = "NSTextFieldCell"; title = "Create new sibling node:"; ObjectID = "36"; */
+"Create new sibling node:" = "Geschwisterknoten:";
+
+/* Class = "NSTextFieldCell"; title = "Create new main node:"; ObjectID = "38"; */
+"Create new main node:" = "Hauptknoten:";
+
+/* Class = "NSTextFieldCell"; title = "Option...⌥  Command...⌘  Shift...⇧"; ObjectID = "44"; */
+"Option...⌥  Command...⌘  Shift...⇧" = "Wahltaste...⌥ Befehlstaste...⌘ Umschalttaste...⇧";
+
+/* Class = "NSMenuItem"; title = "Tab Key"; ObjectID = "47"; */
+"Tab Key" = "Tabulatortaste";
+
+/* Class = "NSMenuItem"; title = "Option - Tab Key"; ObjectID = "49"; */
+"Option - Tab Key" = "Wahltaste - Tabulatortaste";
+
+/* Class = "NSMenuItem"; title = "Shift - Tab Key"; ObjectID = "50"; */
+"Shift - Tab Key" = "Umschalttaste - Tabulatortaste";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "53"; */
+"OtherViews" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Shift - Tab Key"; ObjectID = "54"; */
+"Shift - Tab Key" = "Umschalttaste - Tabulatortaste";
+
+/* Class = "NSMenuItem"; title = "Option - Tab Key"; ObjectID = "55"; */
+"Option - Tab Key" = "Wahltaste - Tabulatortaste";
+
+/* Class = "NSMenuItem"; title = "Tab Key"; ObjectID = "57"; */
+"Tab Key" = "Tabulatortaste";
+
+/* Class = "NSMenuItem"; title = "Return Key"; ObjectID = "59"; */
+"Return Key" = "Eingabetaste";
+
+/* Class = "NSMenuItem"; title = "Command - Return Key"; ObjectID = "60"; */
+"Command - Return Key" = "Befehlstaste - Eingabetaste";
+
+/* Class = "NSMenuItem"; title = "Shift - Return Key"; ObjectID = "61"; */
+"Shift - Return Key" = "Umschalttaste - Eingabetaste";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "64"; */
+"OtherViews" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Shift - Return Key"; ObjectID = "65"; */
+"Shift - Return Key" = "Umschalttaste - Eingabetaste";
+
+/* Class = "NSMenuItem"; title = "Command - Return Key"; ObjectID = "66"; */
+"Command - Return Key" = "Befehlstaste - Eingabetaste";
+
+/* Class = "NSMenuItem"; title = "Return Key"; ObjectID = "67"; */
+"Return Key" = "Eingabetaste";
+
+/* Class = "NSMenuItem"; title = "Tab Key"; ObjectID = "69"; */
+"Tab Key" = "Tabulatortaste";
+
+/* Class = "NSMenuItem"; title = "Option - Tab Key"; ObjectID = "71"; */
+"Option - Tab Key" = "Wahltaste - Tabulatortaste";
+
+/* Class = "NSMenuItem"; title = "Shift - Tab Key"; ObjectID = "72"; */
+"Shift - Tab Key" = "Umschalttaste - Tabulatortaste";
+
+/* Class = "NSTextFieldCell"; title = "Node Creation:"; ObjectID = "82"; */
+"Node Creation:" = "Knoten erstellen:";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "84"; */
+"None" = "Keine";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "89"; */
+"None" = "Keine";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "90"; */
+"None" = "Keine";
+
+/* Class = "NSTextFieldCell"; title = "Editing:"; ObjectID = "101"; */
+"Editing:" = "Bearbeitung:";
+
+/* Class = "NSTextFieldCell"; title = "Edit Node:"; ObjectID = "102"; */
+"Edit Node:" = "Knoten bearbeiten:";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "104"; */
+"OtherViews" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Option - Tab Key"; ObjectID = "105"; */
+"Option - Tab Key" = "Wahltaste - Tabulatortaste";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "106"; */
+"None" = "Keine";
+
+/* Class = "NSMenuItem"; title = "Shift - Tab Key"; ObjectID = "108"; */
+"Shift - Tab Key" = "Umschalttaste - Tabulatortaste";
+
+/* Class = "NSMenuItem"; title = "Tab Key"; ObjectID = "109"; */
+"Tab Key" = "Tabulatortaste";
+
+/* Class = "NSMenuItem"; title = "Return Key"; ObjectID = "111"; */
+"Return Key" = "Eingabetaste";
+
+/* Class = "NSMenuItem"; title = "Command - Return Key"; ObjectID = "112"; */
+"Command - Return Key" = "Befehlstaste - Eingabetaste";
+
+/* Class = "NSMenuItem"; title = "Shift - Return Key"; ObjectID = "113"; */
+"Shift - Return Key" = "Umschalttaste - Eingabetaste";
+
+/* Class = "NSMenuItem"; title = "Option - Return Key"; ObjectID = "114"; */
+"Option - Return Key" = "Wahltaste - Eingabetaste";
+
+/* Class = "NSMenuItem"; title = "Option - Return Key"; ObjectID = "115"; */
+"Option - Return Key" = "Wahltaste - Eingabetaste";
+
+/* Class = "NSMenuItem"; title = "Option - Return Key"; ObjectID = "116"; */
+"Option - Return Key" = "Wahltaste - Eingabetaste";
+
+/* Class = "NSMenuItem"; title = "Option - Return Key"; ObjectID = "117"; */
+"Option - Return Key" = "Wahltaste - Eingabetaste";
+
+/* Class = "NSButtonCell"; title = "Restore Defaults"; ObjectID = "124"; */
+"Restore Defaults" = "Standardeinstellungen";
+
+/* Class = "NSTextFieldCell"; title = "Insert new parent node:"; ObjectID = "151"; */
+"Insert new parent node:" = "Elternknoten einfügen:";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "153"; */
+"OtherViews" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "155"; */
+"None" = "Keine";
+
+/* Class = "NSMenuItem"; title = "Option - Return Key"; ObjectID = "156"; */
+"Option - Return Key" = "Wahltaste - Eingabetaste";
+
+/* Class = "NSMenuItem"; title = "Shift - Tab Key"; ObjectID = "157"; */
+"Shift - Tab Key" = "Umschalttaste - Tabulatortaste";
+
+/* Class = "NSMenuItem"; title = "Option - Tab Key"; ObjectID = "158"; */
+"Option - Tab Key" = "Wahltaste - Tabulatortaste";
+
+/* Class = "NSMenuItem"; title = "Tab Key"; ObjectID = "159"; */
+"Tab Key" = "Tabulatortaste";
+
+/* Class = "NSMenuItem"; title = "Return Key"; ObjectID = "161"; */
+"Return Key" = "Eingabetaste";
+
+/* Class = "NSMenuItem"; title = "Command - Return Key"; ObjectID = "162"; */
+"Command - Return Key" = "Befehlstaste - Eingabetaste";
+
+/* Class = "NSMenuItem"; title = "Shift - Return Key"; ObjectID = "163"; */
+"Shift - Return Key" = "Umschalttaste - Eingabetaste";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "173"; */
+"OtherViews" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Hand-Tool"; ObjectID = "176"; */
+"Hand-Tool" = "Hand-Werkzeug";
+
+/* Class = "NSMenuItem"; title = "Quick Look Preview"; ObjectID = "178"; */
+"Quick Look Preview" = "Quick Look Fenster";
+
+/* Class = "NSTextFieldCell"; title = "Space Key behavior:"; ObjectID = "184"; */
+"Space Key behavior:" = "Leertaste:";
+
+/* Class = "NSTextFieldCell"; title = "Other:"; ObjectID = "185"; */
+"Other:" = "Andere:";
+

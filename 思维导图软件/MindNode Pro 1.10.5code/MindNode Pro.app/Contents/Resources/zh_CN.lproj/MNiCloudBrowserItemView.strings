@@ -1,0 +1,21 @@
+/* Class = "NSMenuItem"; title = "Copy iCloud URL to Pasteboard"; ObjectID = "64"; */
+"Copy iCloud URL to Pasteboard" = "将iCloud的网址复制到剪贴板";
+
+/* Class = "NSMenuItem"; title = "Open"; ObjectID = "65"; */
+"Open" = "打开";
+
+/* Class = "NSMenuItem"; title = "Quick Look"; ObjectID = "82"; */
+"Quick Look" = "Quick Look";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "145"; */
+"Box" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "149"; */
+"Label" = "标签";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "152"; */
+"Label" = "标签";
+
+/* Class = "NSMenuItem"; title = "Move to Trash"; ObjectID = "167"; */
+"Move to Trash" = "移到废纸篓";
+

@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BuildMachineOSBuild</key>
+	<string>13A2093</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleDocumentTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeExtensions</key>
+			<array>
+				<string>mindnode</string>
+			</array>
+			<key>CFBundleTypeIconFile</key>
+			<string>documentIcon.icns</string>
+			<key>CFBundleTypeName</key>
+			<string>MindNode Document</string>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>LSCanProvideIMVideoDataSource</key>
+			<true/>
+			<key>LSHandlerRank</key>
+			<string>Owner</string>
+			<key>LSItemContentTypes</key>
+			<array>
+				<string>com.mindnode.mindnode.mindmap</string>
+			</array>
+			<key>LSTypeIsPackage</key>
+			<true/>
+			<key>NSDocumentClass</key>
+			<string>MNDocument</string>
+			<key>NSExportableTypes</key>
+			<array>
+				<string>com.adobe.pdf</string>
+				<string>org.freemind.mm</string>
+				<string>public.png</string>
+				<string>public.tiff</string>
+				<string>org.opml.opml</string>
+				<string>public.html</string>
+				<string>public.rtf</string>
+				<string>public.plain-text</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeExtensions</key>
+			<array>
+				<string>mindnode</string>
+			</array>
+			<key>CFBundleTypeIconFile</key>
+			<string>documentIcon.icns</string>
+			<key>CFBundleTypeName</key>
+			<string>MindNode Document</string>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>LSCanProvideIMVideoDataSource</key>
+			<true/>
+			<key>LSHandlerRank</key>
+			<string>Owner</string>
+			<key>LSItemContentTypes</key>
+			<array>
+				<string>com.mindnode.mindnode.sffmindmap</string>
+			</array>
+			<key>LSTypeIsPackage</key>
+			<false/>
+			<key>NSDocumentClass</key>
+			<string>MNDocument</string>
+			<key>NSExportableTypes</key>
+			<array>
+				<string>com.adobe.pdf</string>
+				<string>org.freemind.mm</string>
+				<string>public.png</string>
+				<string>public.tiff</string>
+				<string>org.opml.opml</string>
+				<string>public.html</string>
+				<string>public.rtf</string>
+				<string>public.plain-text</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeExtensions</key>
+			<array>
+				<string>mindnodetouch</string>
+			</array>
+			<key>CFBundleTypeName</key>
+			<string>MindNode Document</string>
+			<key>CFBundleTypeRole</key>
+			<string>Viewer</string>
+			<key>LSItemContentTypes</key>
+			<array>
+				<string>com.mindnode.mindnode.touch</string>
+			</array>
+			<key>LSTypeIsPackage</key>
+			<false/>
+			<key>NSDocumentClass</key>
+			<string>MNDocument</string>
+		</dict>
+		<dict>
+			<key>CFBundleTypeExtensions</key>
+			<array>
+				<string>mm</string>
+			</array>
+			<key>CFBundleTypeName</key>
+			<string>FreeMind document</string>
+			<key>CFBundleTypeRole</key>
+			<string>Viewer</string>
+			<key>LSItemContentTypes</key>
+			<array>
+				<string>org.freemind.mm</string>
+				<string>public.objective-c-plus-plus-source</string>
+			</array>
+			<key>LSTypeIsPackage</key>
+			<false/>
+			<key>NSDocumentClass</key>
+			<string>MNDocument</string>
+		</dict>
+		<dict>
+			<key>CFBundleTypeExtensions</key>
+			<array>
+				<string>opml</string>
+			</array>
+			<key>CFBundleTypeName</key>
+			<string>OPML document</string>
+			<key>CFBundleTypeRole</key>
+			<string>Viewer</string>
+			<key>LSTypeIsPackage</key>
+			<false/>
+			<key>NSDocumentClass</key>
+			<string>MNDocument</string>
+		</dict>
+	</array>
+	<key>CFBundleExecutable</key>
+	<string>MindNode Pro</string>
+	<key>CFBundleHelpBookFolder</key>
+	<string>Help</string>
+	<key>CFBundleHelpBookName</key>
+	<string>MindNodeHelp</string>
+	<key>CFBundleIconFile</key>
+	<string>mnp-icon</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.mindnode.MindNodePro</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>MindNode Pro</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.10.5</string>
+	<key>CFBundleSignature</key>
+	<string>MNPo</string>
+	<key>CFBundleVersion</key>
+	<string>2451</string>
+	<key>DTCompiler</key>
+	<string>com.apple.compilers.llvm.clang.1_0</string>
+	<key>DTPlatformBuild</key>
+	<string>5A3005</string>
+	<key>DTPlatformVersion</key>
+	<string>GM</string>
+	<key>DTSDKBuild</key>
+	<string>13A595</string>
+	<key>DTSDKName</key>
+	<string>macosx10.9</string>
+	<key>DTXcode</key>
+	<string>0502</string>
+	<key>DTXcodeBuild</key>
+	<string>5A3005</string>
+	<key>LSApplicationCategoryType</key>
+	<string>public.app-category.productivity</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>10.7.3</string>
+	<key>LSMinimumSystemVersionByArchitecture</key>
+	<dict>
+		<key>i386</key>
+		<string>10.7.3</string>
+		<key>x86_64</key>
+		<string>10.7.3</string>
+	</dict>
+	<key>NSAppleScriptEnabled</key>
+	<true/>
+	<key>NSMainNibFile</key>
+	<string>MainMenuPro</string>
+	<key>NSPrincipalClass</key>
+	<string>NSApplication</string>
+	<key>NSSupportsAutomaticGraphicsSwitching</key>
+	<true/>
+	<key>NSSupportsAutomaticTermination</key>
+	<false/>
+	<key>NSSupportsSuddenTermination</key>
+	<true/>
+	<key>SUExpectsDSASignature</key>
+	<true/>
+	<key>SUFeedURL</key>
+	<string>https://www.mindnode.com/softwareupdate/mindnodepro.xml</string>
+	<key>SUPublicDSAKey</key>
+	<string>-----BEGIN PUBLIC KEY-----
+MIIDOjCCAi0GByqGSM44BAEwggIgAoIBAQCN1K4wsgg5q+6pi6u5DjqUjvyW3CMo
+Kp7F1R6mqjxcnKrpylGytAgxQ73/h/lt2G2YPK4nXE9g7yYaOMtuhE4qLZHcgH/P
+Q187EUzQSh0X8QgL07rQw3caqo8YGN4j1YH8OBgnMdrMFCXP1lyAHbgdpswed6pH
+6nbHg7L4ZsTcsFIGEMG2lKke/Xa/t/Ot7/hi+L/RBnxS4QqcsW9syjM7TS0JaAAf
+5Xu/KhRLXOT3K66ldtumCKNtuIBRhOhnEIjv4hY51x8PbFEIlDMohr4/GYEbpFPT
+dPe9hewKLbrbzk1NYxZtMHrySTdJhes0PWF0iGdwOw9KlnauO9pol787AhUApG19
+SW1YKIJG1gKap21p7H+WjC0CggEAP5LRAgSxppsOr/LugCNynEshFRdiqUYgsdWq
+2ENu3+IScW0bY8fDRcqosqGWiD0cDP2Zu7P997iMuaZ1e3uN4mzJQ+Lo/6SBeQwg
+gVNBqDaCLluXGaMN52fYVE3/UkSaOLivZZZBlJex0bg02QtwF+fgha5WnCk/tvWA
+t8wC5dP4zhg3MTSJuD2oxmxFrMnMhOhnIqfAUTapCbbuaOv3ziBxfqSd++8DjDeO
+bk1++7Vl5ramQanszgJl48LjSO0j77vq6Nh+m7kCYpupc4HZTcecI59t2GpqFJuG
+fSAXSOdvaR5X+mCXGi6RBQI+x0YNrOZuyc7k2tq8y8mKRbwTuwOCAQUAAoIBAHtz
+py8dpZZsbIxMg9XWTW9hOcxWoSszocUTG+coMWpZy4kiyf6KZaYSf49QqK3LLJFw
+XGkZoZlf3PiBUvU/QlEwdHYKI/+ELTc/JG0Qmi+Lpjc4y3NuM/FgTYCX6rKn5m5i
+EAFa26supDMtqQjek95pZSnJ2DliQpB7b0aWM4PEj6Nw+Gn2FB2NDOP0LZ+bLLOT
+d2lEyH6U5a8WGMNy9sVdK9LDbjCZfyeWuMNj+1AnxImxrSeevSi0FuPCaCf20SpR
+3ch8g/jRPf2ybnVpTDz4UN+mUdFK9bWxCk6CdFRUgemZaTSTXbU+IuVi9HuOgNeN
+x2Rxz+lhn5jCUyMNgDw=
+-----END PUBLIC KEY-----</string>
+	<key>UTExportedTypeDeclarations</key>
+	<array>
+		<dict>
+			<key>UTTypeConformsTo</key>
+			<array>
+				<string>com.apple.package</string>
+				<string>public.composite-content</string>
+			</array>
+			<key>UTTypeDescription</key>
+			<string>MindNode document</string>
+			<key>UTTypeIconFile</key>
+			<string>MindModeFile</string>
+			<key>UTTypeIdentifier</key>
+			<string>com.mindnode.mindnode.mindmap</string>
+			<key>UTTypeReferenceURL</key>
+			<string>http://www.mindnode.com/</string>
+			<key>UTTypeTagSpecification</key>
+			<dict>
+				<key>public.filename-extension</key>
+				<array>
+					<string>mindnode</string>
+				</array>
+			</dict>
+		</dict>
+		<dict>
+			<key>UTTypeConformsTo</key>
+			<array>
+				<string>public.data</string>
+				<string>public.composite-content</string>
+			</array>
+			<key>UTTypeDescription</key>
+			<string>MindNode document</string>
+			<key>UTTypeIconFile</key>
+			<string>MindModeFile</string>
+			<key>UTTypeIdentifier</key>
+			<string>com.mindnode.mindnode.sffmindmap</string>
+			<key>UTTypeReferenceURL</key>
+			<string>http://www.mindnode.com/</string>
+			<key>UTTypeTagSpecification</key>
+			<dict>
+				<key>public.filename-extension</key>
+				<array>
+					<string>mindnode</string>
+				</array>
+			</dict>
+		</dict>
+		<dict>
+			<key>UTTypeConformsTo</key>
+			<array>
+				<string>public.xml</string>
+			</array>
+			<key>UTTypeDescription</key>
+			<string>MindNode (touch) document</string>
+			<key>UTTypeIconFile</key>
+			<string>MindModeTouchFile</string>
+			<key>UTTypeIdentifier</key>
+			<string>com.mindnode.mindnode.touch</string>
+			<key>UTTypeTagSpecification</key>
+			<dict>
+				<key>public.filename-extension</key>
+				<array>
+					<string>mindnodetouch</string>
+				</array>
+			</dict>
+		</dict>
+	</array>
+	<key>UTImportedTypeDeclarations</key>
+	<array>
+		<dict>
+			<key>UTTypeConformsTo</key>
+			<array>
+				<string>public.xml</string>
+			</array>
+			<key>UTTypeDescription</key>
+			<string>FreeMind document</string>
+			<key>UTTypeIdentifier</key>
+			<string>org.freemind.mm</string>
+			<key>UTTypeTagSpecification</key>
+			<dict>
+				<key>public.filename-extension</key>
+				<array>
+					<string>mm</string>
+				</array>
+			</dict>
+		</dict>
+		<dict>
+			<key>UTTypeConformsTo</key>
+			<array>
+				<string>public.xml</string>
+			</array>
+			<key>UTTypeDescription</key>
+			<string>Mellel OPML document</string>
+			<key>UTTypeIdentifier</key>
+			<string>com.redlex.opml</string>
+			<key>UTTypeTagSpecification</key>
+			<dict>
+				<key>public.filename-extension</key>
+				<array>
+					<string>opml</string>
+				</array>
+			</dict>
+		</dict>
+		<dict>
+			<key>UTTypeConformsTo</key>
+			<array>
+				<string>public.xml</string>
+			</array>
+			<key>UTTypeDescription</key>
+			<string>OPML document</string>
+			<key>UTTypeIdentifier</key>
+			<string>org.opml.opml</string>
+			<key>UTTypeTagSpecification</key>
+			<dict>
+				<key>public.filename-extension</key>
+				<array>
+					<string>opml</string>
+				</array>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

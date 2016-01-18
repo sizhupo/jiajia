@@ -1,0 +1,129 @@
+/* Class = "NSPanel"; title = "Debug Window"; ObjectID = "46"; */
+"Debug Window" = "Finestra di debug";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "57"; */
+"Text Cell" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Nodes"; ObjectID = "73"; */
+"Nodes" = "Nodi";
+
+/* Class = "NSTextFieldCell"; title = "Warning: This window allows access to experimental features. Only use them if you know what you are doing!"; ObjectID = "80"; */
+"Warning: This window allows access to experimental features. Only use them if you know what you are doing!" = "Attenzione: questa finestra consente l'accesso a funzioni sperimentali. Usale solo se sai cosa stai facendo!";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "88"; */
+"Text Cell" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Root Nodes"; ObjectID = "89"; */
+"Root Nodes" = "Nodi iniziali";
+
+/* Class = "NSTabViewItem"; label = "Canvas"; ObjectID = "148"; */
+"Canvas" = "Sfondo";
+
+/* Class = "NSTabViewItem"; label = "Node"; ObjectID = "150"; */
+"Node" = "Nodo";
+
+/* Class = "NSTextFieldCell"; title = "Size"; ObjectID = "157"; */
+"Size" = "Dimensione";
+
+/* Class = "NSTextFieldCell"; title = "Location"; ObjectID = "159"; */
+"Location" = "Posizione";
+
+/* Class = "NSTextFieldCell"; title = "Storage"; ObjectID = "160"; */
+"Storage" = "Storage";
+
+/* Class = "NSTextFieldCell"; title = "Attributes"; ObjectID = "178"; */
+"Attributes" = "Attributi";
+
+/* Class = "NSTextFieldCell"; title = "ID"; ObjectID = "181"; */
+"ID" = "ID";
+
+/* Class = "NSButtonCell"; title = "foldSubnodes"; ObjectID = "190"; */
+"foldSubnodes" = "foldSubnodes";
+
+/* Class = "NSButtonCell"; title = "isFolded"; ObjectID = "192"; */
+"isFolded" = "isFolded";
+
+/* Class = "NSTextFieldCell"; title = "Fill"; ObjectID = "194"; */
+"Fill" = "Riempimento";
+
+/* Class = "NSTextFieldCell"; title = "Title"; ObjectID = "196"; */
+"Title" = "Titolo";
+
+/* Class = "NSButtonCell"; title = "Is Resizing Due To Title Update"; ObjectID = "198"; */
+"Is Resizing Due To Title Update" = "Is Resizing Due To Title Update";
+
+/* Class = "NSTextFieldCell"; title = "Graphical Attributes"; ObjectID = "200"; */
+"Graphical Attributes" = "Attributi grafici";
+
+/* Class = "NSTextFieldCell"; title = "Node Width"; ObjectID = "204"; */
+"Node Width" = "Larghezza nodo";
+
+/* Class = "NSButtonCell"; title = "Is Drawing Fill"; ObjectID = "206"; */
+"Is Drawing Fill" = "Is Drawing Fill";
+
+/* Class = "NSTextFieldCell"; title = "Fill Color"; ObjectID = "209"; */
+"Fill Color" = "Colore di riempimento";
+
+/* Class = "NSTextFieldCell"; title = "Folding"; ObjectID = "211"; */
+"Folding" = "Folding";
+
+/* Class = "NSButtonCell"; title = "Is Constraining Node Width"; ObjectID = "213"; */
+"Is Constraining Node Width" = "Is Constraining Node Width";
+
+/* Class = "NSButtonCell"; title = "Is Drawing Inverse"; ObjectID = "215"; */
+"Is Drawing Inverse" = "Is Drawing Inverse";
+
+/* Class = "NSTextFieldCell"; title = "Stroke"; ObjectID = "217"; */
+"Stroke" = "Tratto";
+
+/* Class = "NSButtonCell"; title = "Decreasing Branch Thickness"; ObjectID = "226"; */
+"Decreasing Branch Thickness" = "Spessore ramo decrescente";
+
+/* Class = "NSTextFieldCell"; title = "1 pt"; ObjectID = "234"; */
+"1 pt" = "1 pt";
+
+/* Class = "NSTabViewItem"; label = "Features"; ObjectID = "285"; */
+"Features" = "Funzioni";
+
+/* Class = "NSButtonCell"; title = "Crash MindNode"; ObjectID = "291"; */
+"Crash MindNode" = "Crash MindNode";
+
+/* Class = "NSSegmentedCell"; 292.ibShadowedLabels[0] = "<"; ObjectID = "292"; */
+"<" = "<";
+
+/* Class = "NSSegmentedCell"; 292.ibShadowedLabels[1] = ">"; ObjectID = "292"; */
+">" = ">";
+
+/* Class = "NSTextFieldCell"; title = "Crash Reporter Testing"; ObjectID = "293"; */
+"Crash Reporter Testing" = "Test segnalazione di arresto anomalo";
+
+/* Class = "NSTextFieldCell"; title = "Alignment"; ObjectID = "294"; */
+"Alignment" = "Allineamento";
+
+/* Class = "NSButtonCell"; title = "iPhone Sharing"; ObjectID = "360"; */
+"iPhone Sharing" = "Condivisione iPhone";
+
+/* Class = "NSTextFieldCell"; title = "Sharing"; ObjectID = "362"; */
+"Sharing" = "Condivisione";
+
+/* Class = "NSTabViewItem"; label = "Application"; ObjectID = "365"; */
+"Application" = "Applicazione";
+
+/* Class = "NSButtonCell"; title = "Show user guide when creating new documents"; ObjectID = "370"; */
+"Show user guide when creating new documents" = "Mostra il manuale utente durante la creazione di documenti nuovi";
+
+/* Class = "NSTextFieldCell"; title = "General"; ObjectID = "371"; */
+"General" = "Generale";
+
+/* Class = "NSButtonCell"; title = "Ignore background when drawing off screen"; ObjectID = "372"; */
+"Ignore background when drawing off screen" = "Ignora sfondo quando disegni fuori dallo schermo";
+
+/* Class = "NSButtonCell"; title = "Also check for unstable and beta releases (requires restart)"; ObjectID = "374"; */
+"Also check for unstable and beta releases (requires restart)" = "Verifica versioni instabili e beta (richiede il riavvio)";
+
+/* Class = "NSTextFieldCell"; title = "Software Update"; ObjectID = "376"; */
+"Software Update" = "Aggiornamento software";
+
+/* Class = "NSButtonCell"; title = "Enable developer features"; ObjectID = "384"; */
+"Enable developer features" = "Abilita funzioni da sviluppatore";
+

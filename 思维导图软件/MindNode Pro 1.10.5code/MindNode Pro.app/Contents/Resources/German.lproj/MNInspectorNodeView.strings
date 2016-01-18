@@ -1,0 +1,29 @@
+﻿/* Class = "NSTextFieldCell"; title = "Stroke Color and Style"; ObjectID = "31"; */
+"Stroke Color and Style" = "Strichfarbe und -stil";
+
+/* Class = "NSButtonCell"; title = "Decreasing Branch Thickness"; ObjectID = "32"; */
+"Decreasing Branch Thickness" = "Abnehmende Zweigdicke";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "34"; */
+"OtherViews" = "OtherViews";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "36"; */
+"OtherViews" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "1 pt"; ObjectID = "37"; */
+"1 pt" = "1 pt";
+
+/* Class = "NSMenuItem"; title = "2 pt"; ObjectID = "38"; */
+"2 pt" = "2 pt";
+
+/* Class = "NSMenuItem"; title = "3 pt"; ObjectID = "39"; */
+"3 pt" = "3 pt";
+
+/* Class = "NSMenuItem"; title = "4 pt"; ObjectID = "40"; */
+"4 pt" = "4 pt";
+
+/* Class = "NSMenuItem"; title = "5 pt"; ObjectID = "41"; */
+"5 pt" = "5 pt";
+
+/* Class = "NSMenuItem"; title = "6 pt"; ObjectID = "42"; */
+"6 pt" = "6 pt";

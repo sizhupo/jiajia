@@ -1,0 +1,26 @@
+﻿/* Class = "NSPanel"; title = "Crash Reporter"; ObjectID = "1"; */
+"Crash Reporter" = "崩溃报告器";
+
+/* Class = "NSTextFieldCell"; title = "Email address (optional):"; ObjectID = "12"; */
+"Email address (optional):" = "电子邮件地址（可选）：";
+
+/* Class = "NSButtonCell"; title = "Send Report"; ObjectID = "28"; */
+"Send Report" = "发生报告";
+
+/* Class = "NSButtonCell"; title = "Ignore"; ObjectID = "30"; */
+"Ignore" = "忽略";
+
+/* Class = "NSTabViewItem"; label = "Comments"; ObjectID = "38"; */
+"Comments" = "评论";
+
+/* Class = "NSTabViewItem"; label = "Crash Log"; ObjectID = "40"; */
+"Crash Log" = "崩溃日志";
+
+/* Class = "NSTextFieldCell"; title = "%@ quit unexpectedly."; ObjectID = "52"; */
+"%@ quit unexpectedly." = "%@ 意外退出。";
+
+/* Class = "NSTextFieldCell"; title = "You can help improve %@ by sending the crash log."; ObjectID = "53"; */
+"You can help improve %@ by sending the crash log." = "您可以通过发送崩溃日志来帮助 %@ 改进。";
+
+/* Class = "NSTextFieldCell"; title = "Please describe any steps needed to trigger the problem:"; ObjectID = "78"; */
+"Please describe any steps needed to trigger the problem:" = "请描述重现问题的必要步骤：";

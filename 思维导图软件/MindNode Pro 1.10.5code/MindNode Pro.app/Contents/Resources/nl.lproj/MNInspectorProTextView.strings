@@ -1,0 +1,18 @@
+/* Class = "NSTextFieldCell"; title = "Text Alignment"; ObjectID = "11"; */
+"Text Alignment" = "Tekstuitlijning";
+
+/* Class = "NSTextFieldCell"; title = "Width"; ObjectID = "20"; */
+"Width" = "Breedte";
+
+/* Class = "NSButtonCell"; title = "Shrink Width To Fit"; ObjectID = "26"; */
+"Shrink Width To Fit" = "Versmal en maak passend";
+
+/* Class = "NSTextFieldCell"; title = "Weblink"; ObjectID = "74"; */
+"Weblink" = "Weblink";
+
+/* Class = "NSTextFieldCell"; title = "URL:"; ObjectID = "81"; */
+"URL:" = "URL:";
+
+/* Class = "NSButtonCell"; title = "Enable as hyperlink"; ObjectID = "84"; */
+"Enable as hyperlink" = "Activeer als hyperlink";
+

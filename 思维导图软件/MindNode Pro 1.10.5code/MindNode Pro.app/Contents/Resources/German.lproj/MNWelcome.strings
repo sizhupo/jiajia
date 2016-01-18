@@ -1,0 +1,17 @@
+﻿/* Class = "NSPanel"; title = "Welcome to MindNode"; ObjectID = "3"; */
+"Welcome to MindNode" = "Welcome to MindNode";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "7"; */
+"Box" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "Welcome to MindNode"; ObjectID = "20"; */
+"Welcome to MindNode" = "Willkommen bei MindNode";
+
+/* Class = "NSButtonCell"; title = "Continue"; ObjectID = "26"; */
+"Continue" = "Fortfahren";
+
+/* Class = "NSButtonCell"; title = "More Information…"; ObjectID = "67"; */
+"More Information…" = "Weitere Informationen …";
+
+/* Class = "NSTextFieldCell"; title = "Thank you for trying out MindNode, an elegant and easy to use mindmapping application.\n\nIf you like MindNode, please consider supporting me by purchasing MindNode Pro."; ObjectID = "70"; */
+"Thank you for trying out MindNode, an elegant and easy to use mindmapping application.\n\nIf you like MindNode, please consider supporting me by purchasing MindNode Pro." = "Vielen Dank, dass Sie MindNode - ein elegantes und einfach zu bedienendes Programm für das Erstellen von Mind Maps - ausprobieren.\n\nWenn Sie MindNode mögen, werfen Sie bitte auch einen Blick auf MindNode Pro.";

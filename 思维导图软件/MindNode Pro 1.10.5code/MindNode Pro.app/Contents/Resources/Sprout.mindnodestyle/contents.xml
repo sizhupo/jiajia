@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    
+	<key>backgroundColor</key>
+	<string>{0.951,0.990,0.938,1.000}</string>
+    <key>ColorVariations</key>
+    <true/>
+    <key>mainNodes</key>
+    <array>
+        <dict>
+            <key>title</key>
+            <dict>
+                <key>name</key>
+                <string>HelveticaNeue-CondensedBold</string>
+                <key>size</key>
+                <integer>18</integer>
+                <key>color</key>
+                <string>{0.046, 0.097, 0.027, 1.000}</string>
+            </dict>
+            <key>drawFilled</key>
+            <true/>
+            <key>fillStyle</key>
+            <dict>
+                <key>color</key>
+                <string>{0.928,0.966,0.821,1.000}</string>
+            </dict>
+            <key>strokeStyle</key>
+            <dict>
+                <key>dash</key>
+                <integer>0</integer>
+                <key>color</key>
+                <string>{0.046,0.097,0.027,1.000}</string>
+                <key>width</key>
+                <integer>2</integer>
+            </dict>
+        </dict>
+    </array>
+    
+    <key>subNodes</key>
+    <array>
+        <dict>
+            <key>title</key>
+            <dict>
+                <key>name</key>
+                <string>HelveticaNeue-Light</string>
+                <key>size</key>
+                <integer>14</integer>
+                <key>color</key>
+                <string>{0.027, 0.208, 0.202, 1.000}</string>
+            </dict>
+            <key>drawFilled</key>
+            <false/>
+            <key>fillStyle</key>
+            <dict>
+                <key>color</key>
+                <string>{0.951,0.990,0.938,1.000}</string>
+            </dict>
+            <key>strokeStyle</key>
+            <dict>
+                <key>dash</key>
+                <integer>0</integer>
+                <key>color</key>
+                <string>{0.097, 0.155, 0.154, 1.000}</string>
+                <key>width</key>
+                <integer>2</integer>
+            </dict>
+        </dict>
+        <dict>
+            <key>title</key>
+            <dict>
+                <key>name</key>
+                <string>HelveticaNeue-Light</string>
+                <key>size</key>
+                <integer>14</integer>
+                <key>color</key>
+                <string>{0.027, 0.208, 0.202, 1.000}</string>
+            </dict>
+            <key>drawFilled</key>
+            <false/>
+            <key>fillStyle</key>
+            <dict>
+                <key>color</key>
+                <string>{0.951,0.990,0.938,1.000}</string>
+            </dict>
+            <key>strokeStyle</key>
+            <dict>
+                <key>dash</key>
+                <integer>0</integer>
+                <key>color</key>
+                <string>{0.216, 0.341, 0.285, 1.000}</string>
+                <key>width</key>
+                <integer>2</integer>
+            </dict>
+        </dict>
+        <dict>
+            <key>title</key>
+            <dict>
+                <key>name</key>
+                <string>HelveticaNeue-Light</string>
+                <key>size</key>
+                <integer>14</integer>
+                <key>color</key>
+                <string>{0.027, 0.208, 0.202, 1.000}</string>
+            </dict>
+            <key>drawFilled</key>
+            <false/>
+            <key>fillStyle</key>
+            <dict>
+                <key>color</key>
+                <string>{0.951,0.990,0.938,1.000}</string>
+            </dict>
+            <key>strokeStyle</key>
+            <dict>
+                <key>dash</key>
+                <integer>0</integer>
+                <key>color</key>
+                <string>{0.323, 0.474, 0.319, 1.000}</string>
+                <key>width</key>
+                <integer>2</integer>
+            </dict>
+        </dict>
+        <dict>
+            <key>title</key>
+            <dict>
+                <key>name</key>
+                <string>HelveticaNeue-Light</string>
+                <key>size</key>
+                <integer>14</integer>
+                <key>color</key>
+                <string>{0.027, 0.208, 0.202, 1.000}</string>
+            </dict>
+            <key>drawFilled</key>
+            <false/>
+            <key>fillStyle</key>
+            <dict>
+                <key>color</key>
+                <string>{0.951,0.990,0.938,1.000}</string>
+            </dict>
+            <key>strokeStyle</key>
+            <dict>
+                <key>dash</key>
+                <integer>0</integer>
+                <key>color</key>
+                <string>{0.584, 0.677, 0.443, 1.000}</string>
+                <key>width</key>
+                <integer>2</integer>
+            </dict>
+        </dict>
+        <dict>
+            <key>title</key>
+            <dict>
+                <key>name</key>
+                <string>HelveticaNeue-Light</string>
+                <key>size</key>
+                <integer>14</integer>
+                <key>color</key>
+                <string>{0.027, 0.208, 0.202, 1.000}</string>
+            </dict>
+            <key>drawFilled</key>
+            <false/>
+            <key>fillStyle</key>
+            <dict>
+                <key>color</key>
+                <string>{0.951,0.990,0.938,1.000}</string>
+            </dict>
+            <key>strokeStyle</key>
+            <dict>
+                <key>dash</key>
+                <integer>0</integer>
+                <key>color</key>
+                <string>{0.745, 0.852, 0.469, 1.000}</string>
+                <key>width</key>
+                <integer>2</integer>
+            </dict>
+        </dict>
+        <dict>
+            <key>title</key>
+            <dict>
+                <key>name</key>
+                <string>HelveticaNeue-Light</string>
+                <key>size</key>
+                <integer>14</integer>
+                <key>color</key>
+                <string>{0.027, 0.208, 0.202, 1.000}</string>
+            </dict>
+            <key>drawFilled</key>
+            <false/>
+            <key>fillStyle</key>
+            <dict>
+                <key>color</key>
+                <string>{0.951,0.990,0.938,1.000}</string>
+            </dict>
+            <key>strokeStyle</key>
+            <dict>
+                <key>dash</key>
+                <integer>0</integer>
+                <key>color</key>
+                <string>{0.700,0.829, 0.625, 1.000}</string>
+                <key>width</key>
+                <integer>2</integer>
+            </dict>
+        </dict>
+
+    </array>
+
+		<key>crossConnections</key>
+		<array>
+			<dict>
+                <key>strokeStyle</key>
+                <dict>
+                    <key>dash</key>
+                    <integer>3</integer>
+                    <key>color</key>
+                    <string>{0.112, 0.539, 0.418, 1.000}</string>
+                    <key>width</key>
+                    <integer>1</integer>
+                </dict>
+				<key>startArrow</key>
+				<integer>0</integer>
+				<key>endArrow</key>
+				<integer>1</integer>
+			</dict>
+		</array>
+	</dict>
+</plist>

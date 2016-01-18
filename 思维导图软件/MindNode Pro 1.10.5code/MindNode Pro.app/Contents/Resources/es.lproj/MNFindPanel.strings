@@ -1,0 +1,42 @@
+/* Class = "NSPanel"; title = "Find"; ObjectID = "1"; */
+"Find" = "Buscar";
+
+/* Class = "NSTextFieldCell"; title = "Replace with:"; ObjectID = "7"; */
+"Replace with:" = "Reemplazar con:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Find next occurrence of the Find string"; ObjectID = "12"; */
+"Find next occurrence of the Find string" = "Buscar la siguiente aparición del texto de búsqueda";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Replace next occurrence of Find string with replacement string"; ObjectID = "13"; */
+"Replace next occurrence of Find string with replacement string" = "Reemplazar la siguiente aparición del texto buscado con el texto de reemplazo";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Replace next occurrence of Find string with replacement string and find next again occurrence of the Find string"; ObjectID = "14"; */
+"Replace next occurrence of Find string with replacement string and find next again occurrence of the Find string" = "Reemplazar la siguiente aparición del texto buscado con el texto de reemplazo y buscar la siguiente aparición del texto buscado";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Replace all occurrences of the Find string with replacement string"; ObjectID = "15"; */
+"Replace all occurrences of the Find string with replacement string" = "Reemplazar todas las apariciones del texto buscado con el texto de reemplazo";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Find previous occurrence of the Find string"; ObjectID = "16"; */
+"Find previous occurrence of the Find string" = "Buscar la aparición anterior del texto de búsqueda";
+
+/* Class = "NSButtonCell"; title = "Previous"; ObjectID = "17"; */
+"Previous" = "Anterior";
+
+/* Class = "NSButtonCell"; title = "Replace All"; ObjectID = "18"; */
+"Replace All" = "Reemplazar todo";
+
+/* Class = "NSButtonCell"; title = "Replace & Find"; ObjectID = "19"; */
+"Replace & Find" = "Reemplazar y buscar";
+
+/* Class = "NSButtonCell"; title = "Replace"; ObjectID = "20"; */
+"Replace" = "Reemplazar";
+
+/* Class = "NSButtonCell"; title = "Next"; ObjectID = "21"; */
+"Next" = "Siguiente";
+
+/* Class = "NSTextFieldCell"; title = "Find:"; ObjectID = "29"; */
+"Find:" = "Buscar:";
+
+/* Class = "NSTextFieldCell"; title = "Not Found"; ObjectID = "78"; */
+"Not Found" = "No se ha encontrado";
+

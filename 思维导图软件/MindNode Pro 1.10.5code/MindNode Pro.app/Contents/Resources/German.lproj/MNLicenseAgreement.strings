@@ -1,0 +1,8 @@
+﻿/* Class = "NSWindow"; title = "SOFTWARE LICENSE AGREEMENT"; ObjectID = "1"; */
+"SOFTWARE LICENSE AGREEMENT" = "SOFTWARE-LIZENZVEREINBARUNG";
+
+/* Class = "NSButtonCell"; title = "Accept"; ObjectID = "8"; */
+"Accept" = "Akzeptieren";
+
+/* Class = "NSButtonCell"; title = "Decline"; ObjectID = "10"; */
+"Decline" = "Ablehnen";

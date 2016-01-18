@@ -1,0 +1,21 @@
+/* Class = "NSPanel"; title = "Preferences"; ObjectID = "2"; */
+"Preferences" = "Preferenze";
+
+/* Class = "NSToolbarItem"; label = "General"; ObjectID = "212"; */
+"General" = "Generale";
+
+/* Class = "NSToolbarItem"; paletteLabel = "General"; ObjectID = "212"; */
+"General" = "Generale";
+
+/* Class = "NSToolbarItem"; label = "Style"; ObjectID = "216"; */
+"Style" = "Stile";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Style"; ObjectID = "216"; */
+"Style" = "Stile";
+
+/* Class = "NSToolbarItem"; label = "Shortcuts"; ObjectID = "327"; */
+"Shortcuts" = "Abbreviazioni";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Shortcuts"; ObjectID = "327"; */
+"Shortcuts" = "Abbreviazioni";
+

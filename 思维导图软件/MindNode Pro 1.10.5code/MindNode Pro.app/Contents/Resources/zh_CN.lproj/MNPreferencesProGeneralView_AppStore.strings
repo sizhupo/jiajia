@@ -1,0 +1,27 @@
+/* Class = "NSButtonCell"; title = "Animate changes"; ObjectID = "26"; */
+"Animate changes" = "动画更改";
+
+/* Class = "NSButtonCell"; title = "Create a new document"; ObjectID = "43"; */
+"Create a new document" = "创建新文档";
+
+/* Class = "NSTextFieldCell"; title = "Starting:"; ObjectID = "45"; */
+"Starting:" = "开启时：";
+
+/* Class = "NSTextFieldCell"; title = "General:"; ObjectID = "77"; */
+"General:" = "常规：";
+
+/* Class = "NSButtonCell"; title = "Active hyperlinks"; ObjectID = "97"; */
+"Active hyperlinks" = "开启超级链接";
+
+/* Class = "NSButtonCell"; title = "Restore Defaults"; ObjectID = "105"; */
+"Restore Defaults" = "恢复默认";
+
+/* Class = "NSButtonCell"; title = "Smart link detection"; ObjectID = "109"; */
+"Smart link detection" = "智能链接检查";
+
+/* Class = "NSButtonCell"; title = "Enable smart layout for new documents"; ObjectID = "132"; */
+"Enable smart layout for new documents" = "对新文档启用智能板式";
+
+/* Class = "NSButtonCell"; title = "Inherit style when reconnecting"; ObjectID = "141"; */
+"Inherit style when reconnecting" = "在重新连接时继承原来的样式";
+

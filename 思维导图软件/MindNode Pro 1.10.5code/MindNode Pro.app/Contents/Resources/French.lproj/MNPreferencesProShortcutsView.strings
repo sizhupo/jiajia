@@ -1,0 +1,177 @@
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "27"; */
+"OtherViews" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Return Key"; ObjectID = "28"; */
+"Return Key" = "Touche Entrée";
+
+/* Class = "NSMenuItem"; title = "Command - Return Key"; ObjectID = "29"; */
+"Command - Return Key" = "Commande - Touche Entrée";
+
+/* Class = "NSMenuItem"; title = "Shift - Return Key"; ObjectID = "30"; */
+"Shift - Return Key" = "Majuscule - Touche Entrée";
+
+/* Class = "NSTextFieldCell"; title = "Create new child node:"; ObjectID = "32"; */
+"Create new child node:" = "Créer nouveau nœud enfant :";
+
+/* Class = "NSTextFieldCell"; title = "Create new sibling node:"; ObjectID = "36"; */
+"Create new sibling node:" = "Créer nouveau nœud frère :";
+
+/* Class = "NSTextFieldCell"; title = "Create new main node:"; ObjectID = "38"; */
+"Create new main node:" = "Créer nouveau nœud principal :";
+
+/* Class = "NSTextFieldCell"; title = "Option...⌥  Command...⌘  Shift...⇧"; ObjectID = "44"; */
+"Option...⌥  Command...⌘  Shift...⇧" = "Option...⌥  Commande...⌘  Majuscule...⇧";
+
+/* Class = "NSMenuItem"; title = "Tab Key"; ObjectID = "47"; */
+"Tab Key" = "Touche Tabulation";
+
+/* Class = "NSMenuItem"; title = "Option - Tab Key"; ObjectID = "49"; */
+"Option - Tab Key" = "Option - Touche Tabulation";
+
+/* Class = "NSMenuItem"; title = "Shift - Tab Key"; ObjectID = "50"; */
+"Shift - Tab Key" = "Majuscule - Touche Tabulation";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "53"; */
+"OtherViews" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Shift - Tab Key"; ObjectID = "54"; */
+"Shift - Tab Key" = "Majuscule - Touche Tabulation";
+
+/* Class = "NSMenuItem"; title = "Option - Tab Key"; ObjectID = "55"; */
+"Option - Tab Key" = "Option - Touche Tabulation";
+
+/* Class = "NSMenuItem"; title = "Tab Key"; ObjectID = "57"; */
+"Tab Key" = "Touche Tabulation";
+
+/* Class = "NSMenuItem"; title = "Return Key"; ObjectID = "59"; */
+"Return Key" = "Touche Entrée";
+
+/* Class = "NSMenuItem"; title = "Command - Return Key"; ObjectID = "60"; */
+"Command - Return Key" = "Commande - Touche Entrée";
+
+/* Class = "NSMenuItem"; title = "Shift - Return Key"; ObjectID = "61"; */
+"Shift - Return Key" = "Majuscule - Touche Entrée";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "64"; */
+"OtherViews" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Shift - Return Key"; ObjectID = "65"; */
+"Shift - Return Key" = "Majuscule - Touche Entrée";
+
+/* Class = "NSMenuItem"; title = "Command - Return Key"; ObjectID = "66"; */
+"Command - Return Key" = "Commande - Touche Entrée";
+
+/* Class = "NSMenuItem"; title = "Return Key"; ObjectID = "67"; */
+"Return Key" = "Touche Entrée";
+
+/* Class = "NSMenuItem"; title = "Tab Key"; ObjectID = "69"; */
+"Tab Key" = "Touche Tabulation";
+
+/* Class = "NSMenuItem"; title = "Option - Tab Key"; ObjectID = "71"; */
+"Option - Tab Key" = "Option - Touche Tabulation";
+
+/* Class = "NSMenuItem"; title = "Shift - Tab Key"; ObjectID = "72"; */
+"Shift - Tab Key" = "Majuscule - Touche Tabulation";
+
+/* Class = "NSTextFieldCell"; title = "Node Creation:"; ObjectID = "82"; */
+"Node Creation:" = "Création de nœud :";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "84"; */
+"None" = "Aucun";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "89"; */
+"None" = "Aucun";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "90"; */
+"None" = "Aucun";
+
+/* Class = "NSTextFieldCell"; title = "Editing:"; ObjectID = "101"; */
+"Editing:" = "Traitement :";
+
+/* Class = "NSTextFieldCell"; title = "Edit Node:"; ObjectID = "102"; */
+"Edit Node:" = "Modifier le nœud :";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "104"; */
+"OtherViews" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Option - Tab Key"; ObjectID = "105"; */
+"Option - Tab Key" = "Option - Touche Tabulation";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "106"; */
+"None" = "Aucun";
+
+/* Class = "NSMenuItem"; title = "Shift - Tab Key"; ObjectID = "108"; */
+"Shift - Tab Key" = "Majuscule - Touche Tabulation";
+
+/* Class = "NSMenuItem"; title = "Tab Key"; ObjectID = "109"; */
+"Tab Key" = "Touche Tabulation";
+
+/* Class = "NSMenuItem"; title = "Return Key"; ObjectID = "111"; */
+"Return Key" = "Touche Entrée";
+
+/* Class = "NSMenuItem"; title = "Command - Return Key"; ObjectID = "112"; */
+"Command - Return Key" = "Commande - Touche Entrée";
+
+/* Class = "NSMenuItem"; title = "Shift - Return Key"; ObjectID = "113"; */
+"Shift - Return Key" = "Majuscule - Touche Entrée";
+
+/* Class = "NSMenuItem"; title = "Option - Return Key"; ObjectID = "114"; */
+"Option - Return Key" = "Option - Touche Entrée";
+
+/* Class = "NSMenuItem"; title = "Option - Return Key"; ObjectID = "115"; */
+"Option - Return Key" = "Option - Touche Entrée";
+
+/* Class = "NSMenuItem"; title = "Option - Return Key"; ObjectID = "116"; */
+"Option - Return Key" = "Option - Touche Entrée";
+
+/* Class = "NSMenuItem"; title = "Option - Return Key"; ObjectID = "117"; */
+"Option - Return Key" = "Option - Touche Entrée";
+
+/* Class = "NSButtonCell"; title = "Restore Defaults"; ObjectID = "124"; */
+"Restore Defaults" = "Valeurs par défaut";
+
+/* Class = "NSTextFieldCell"; title = "Insert new parent node:"; ObjectID = "151"; */
+"Insert new parent node:" = "Insérer nouveau nœud parent :";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "153"; */
+"OtherViews" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "155"; */
+"None" = "Aucun";
+
+/* Class = "NSMenuItem"; title = "Option - Return Key"; ObjectID = "156"; */
+"Option - Return Key" = "Option - Touche Entrée";
+
+/* Class = "NSMenuItem"; title = "Shift - Tab Key"; ObjectID = "157"; */
+"Shift - Tab Key" = "Majuscule - Touche Tabulation";
+
+/* Class = "NSMenuItem"; title = "Option - Tab Key"; ObjectID = "158"; */
+"Option - Tab Key" = "Option - Touche Tabulation";
+
+/* Class = "NSMenuItem"; title = "Tab Key"; ObjectID = "159"; */
+"Tab Key" = "Touche Tabulation";
+
+/* Class = "NSMenuItem"; title = "Return Key"; ObjectID = "161"; */
+"Return Key" = "Touche Entrée";
+
+/* Class = "NSMenuItem"; title = "Command - Return Key"; ObjectID = "162"; */
+"Command - Return Key" = "Commande - Touche Entrée";
+
+/* Class = "NSMenuItem"; title = "Shift - Return Key"; ObjectID = "163"; */
+"Shift - Return Key" = "Majuscule - Touche Entrée";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "173"; */
+"OtherViews" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Hand-Tool"; ObjectID = "176"; */
+"Hand-Tool" = "Outil-main";
+
+/* Class = "NSMenuItem"; title = "Quick Look Preview"; ObjectID = "178"; */
+"Quick Look Preview" = "Aperçu Quick Look";
+
+/* Class = "NSTextFieldCell"; title = "Space Key behavior:"; ObjectID = "184"; */
+"Space Key behavior:" = "Comportement barre espace :";
+
+/* Class = "NSTextFieldCell"; title = "Other:"; ObjectID = "185"; */
+"Other:" = "Autre :";
+

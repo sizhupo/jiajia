@@ -1,0 +1,42 @@
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "14"; */
+"OtherViews" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "15"; */
+"Item 1" = "Item 1";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "16"; */
+"Item 2" = "Item 2";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "17"; */
+"Item 3" = "Item 3";
+
+/* Class = "NSButtonCell"; title = "Customize…"; ObjectID = "24"; */
+"Customize…" = "Anpassen …";
+
+/* Class = "NSButtonCell"; title = "Automatic decrease branch width"; ObjectID = "28"; */
+"Automatic decrease branch width" = "Zweigbreite automatisch verkleinern";
+
+/* Class = "NSTextFieldCell"; title = "Long"; ObjectID = "42"; */
+"Long" = "Lang";
+
+/* Class = "NSButtonCell"; title = "Shrink to fit content"; ObjectID = "43"; */
+"Shrink to fit content" = "Auf Inhaltsgröße verkleinern";
+
+/* Class = "NSTextFieldCell"; title = "Short"; ObjectID = "44"; */
+"Short" = "Kurz";
+
+/* Class = "NSTextFieldCell"; title = "Medium"; ObjectID = "45"; */
+"Medium" = "Medium";
+
+/* Class = "NSTextFieldCell"; title = "Default Color Style:"; ObjectID = "115"; */
+"Default Color Style:" = "Standard-Farbstil:";
+
+/* Class = "NSTextFieldCell"; title = "Default Branch Settings:"; ObjectID = "117"; */
+"Default Branch Settings:" = "Zweig-Standardeinstellungen:";
+
+/* Class = "NSButtonCell"; title = "Restore Defaults"; ObjectID = "120"; */
+"Restore Defaults" = "Standardeinstellungen";
+
+/* Class = "NSTextFieldCell"; title = "Default Node Width:"; ObjectID = "138"; */
+"Default Node Width:" = "Standard-Knotenbreite:";
+

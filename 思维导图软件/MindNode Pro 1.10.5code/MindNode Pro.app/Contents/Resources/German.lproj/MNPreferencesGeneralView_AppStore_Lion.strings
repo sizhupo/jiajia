@@ -1,0 +1,44 @@
+﻿/* Class = "NSButtonCell"; title = "Animate Changes"; ObjectID = "26"; */
+"Animate Changes" = "Änderungen animieren";
+
+/* Class = "NSPopUpButton"; gToolTip = "Specify how often MindNode should save side-copies of documents being modified. These \"autosave\" copies can be used to recover contents of unsaved documents."; ObjectID = "59"; */
+"Specify how often MindNode should save side-copies of documents being modified. These \"autosave\" copies can be used to recover contents of unsaved documents." = "Legen Sie fest, wie oft MindNode Pro Sicherungskopien eines Dokuments erstellen soll, das gerade bearbeitet wird. Diese „automatischen Sicherungskopien“ können verwendet werden, um Inhalte von nicht gesicherten Dokumenten wiederherzustellen.";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "61"; */
+"OtherViews" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Every 15 seconds"; ObjectID = "62"; */
+"Every 15 seconds" = "Alle 15 Sekunden";
+
+/* Class = "NSMenuItem"; title = "Every 5 minutes"; ObjectID = "63"; */
+"Every 5 minutes" = "Alle 5 Minuten";
+
+/* Class = "NSMenuItem"; title = "Every minute"; ObjectID = "64"; */
+"Every minute" = "Minütlich";
+
+/* Class = "NSMenuItem"; title = "Never"; ObjectID = "65"; */
+"Never" = "Niemals";
+
+/* Class = "NSMenuItem"; title = "Every 30 seconds"; ObjectID = "66"; */
+"Every 30 seconds" = "Alle 30 Sekunden";
+
+/* Class = "NSTextFieldCell"; title = "Autosave:"; ObjectID = "68"; */
+"Autosave:" = "Automatisch sichern:";
+
+/* Class = "NSTextFieldCell"; title = "General:"; ObjectID = "77"; */
+"General:" = "Allgemein:";
+
+/* Class = "NSButtonCell"; title = "Check Now"; ObjectID = "83"; */
+"Check Now" = "Jetzt suchen";
+
+/* Class = "NSTextFieldCell"; title = "When checking for updates, MindNode Pro will not send information about your system."; ObjectID = "87"; */
+"When checking for updates, MindNode Pro will not send information about your system." = "Beim Suchen von Updates sendet MindNode Pro keine Informationen über das System.";
+
+/* Class = "NSButtonCell"; title = "Automatically check for updates"; ObjectID = "88"; */
+"Automatically check for updates" = "Automatisch nach Updates suchen";
+
+/* Class = "NSTextFieldCell"; title = "Software Update:"; ObjectID = "90"; */
+"Software Update:" = "Aktualisierung:";
+
+/* Class = "NSButtonCell"; title = "Restore Defaults"; ObjectID = "105"; */
+"Restore Defaults" = "Standardeinstellungen";

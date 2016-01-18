@@ -1,0 +1,21 @@
+/* Class = "NSPanel"; title = "Welcome to MindNode Pro"; ObjectID = "1"; */
+"Welcome to MindNode Pro" = "MindNode Pro へようこそ";
+
+/* Class = "NSButtonCell"; title = "Try Out"; ObjectID = "5"; */
+"Try Out" = "試用する";
+
+/* Class = "NSButtonCell"; title = "Register"; ObjectID = "15"; */
+"Register" = "登録";
+
+/* Class = "NSButtonCell"; title = "Purchase License Key"; ObjectID = "20"; */
+"Purchase License Key" = "ライセンスキーを購入";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "42"; */
+"Box" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "Welcome to MindNode Pro"; ObjectID = "47"; */
+"Welcome to MindNode Pro" = "MindNode Pro へようこそ";
+
+/* Class = "NSTextFieldCell"; title = "Thank you for trying out MindNode Pro, an elegant and simple-to-use mindmapping application.\n\nThe unregistered version has no time limit and allows you to use every feature of the registered version. The only difference is a 20-node limit and a watermark when printing."; ObjectID = "48"; */
+"Thank you for trying out MindNode Pro, an elegant and simple-to-use mindmapping application.\n\nThe unregistered version has no time limit and allows you to use every feature of the registered version. The only difference is a 20-node limit and a watermark when printing." = "エレガントで使いやすいマインドマッピングアプリケーション、MindNode Pro をお試し頂きありがとうございます。\n\n未登録でも使用期間に制限はなく、登録版と同じ機能がすべてお使い頂けますが、作成可能なノード数は 20 までに制限され、プリント時に透かしが入ります。";
+

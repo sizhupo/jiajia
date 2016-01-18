@@ -1,0 +1,42 @@
+/* Class = "NSPanel"; title = "Window"; ObjectID = "1"; */
+"Window" = "窗口";
+
+/* Class = "NSToolbarItem"; label = "PDF"; ObjectID = "11"; */
+"PDF" = "PDF";
+
+/* Class = "NSToolbarItem"; paletteLabel = "PDF"; ObjectID = "11"; */
+"PDF" = "PDF";
+
+/* Class = "NSToolbarItem"; label = "OPML"; ObjectID = "12"; */
+"OPML" = "OPML";
+
+/* Class = "NSToolbarItem"; paletteLabel = "OPML"; ObjectID = "12"; */
+"OPML" = "OPML";
+
+/* Class = "NSToolbarItem"; label = "Freemind"; ObjectID = "13"; */
+"Freemind" = "Freemind";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Freemind"; ObjectID = "13"; */
+"Freemind" = "Freemind";
+
+/* Class = "NSToolbarItem"; label = "Image"; ObjectID = "14"; */
+"Image" = "图像";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Image"; ObjectID = "14"; */
+"Image" = "图像";
+
+/* Class = "NSToolbarItem"; label = "Text"; ObjectID = "16"; */
+"Text" = "文本";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Text"; ObjectID = "16"; */
+"Text" = "文本";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "71"; */
+"Cancel" = "取消";
+
+/* Class = "NSButtonCell"; title = "Next…"; ObjectID = "72"; */
+"Next…" = "下一步...";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "75"; */
+"Box" = "Box";
+

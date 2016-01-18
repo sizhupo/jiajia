@@ -1,0 +1,18 @@
+/* Class = "NSTextFieldCell"; title = "Text Alignment"; ObjectID = "11"; */
+"Text Alignment" = "文本对齐";
+
+/* Class = "NSTextFieldCell"; title = "Width"; ObjectID = "20"; */
+"Width" = "宽度";
+
+/* Class = "NSButtonCell"; title = "Shrink Width To Fit"; ObjectID = "26"; */
+"Shrink Width To Fit" = "伸缩宽度来适应";
+
+/* Class = "NSTextFieldCell"; title = "Weblink"; ObjectID = "74"; */
+"Weblink" = "网络链接";
+
+/* Class = "NSTextFieldCell"; title = "URL:"; ObjectID = "81"; */
+"URL:" = "URL：";
+
+/* Class = "NSButtonCell"; title = "Enable as hyperlink"; ObjectID = "84"; */
+"Enable as hyperlink" = "作为超链接启用";
+

@@ -1,0 +1,42 @@
+/* Class = "NSPanel"; title = "Window"; ObjectID = "1"; */
+"Window" = "Finestra";
+
+/* Class = "NSToolbarItem"; label = "PDF"; ObjectID = "11"; */
+"PDF" = "PDF";
+
+/* Class = "NSToolbarItem"; paletteLabel = "PDF"; ObjectID = "11"; */
+"PDF" = "PDF";
+
+/* Class = "NSToolbarItem"; label = "OPML"; ObjectID = "12"; */
+"OPML" = "OPML";
+
+/* Class = "NSToolbarItem"; paletteLabel = "OPML"; ObjectID = "12"; */
+"OPML" = "OPML";
+
+/* Class = "NSToolbarItem"; label = "Freemind"; ObjectID = "13"; */
+"Freemind" = "Freemind";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Freemind"; ObjectID = "13"; */
+"Freemind" = "Freemind";
+
+/* Class = "NSToolbarItem"; label = "Image"; ObjectID = "14"; */
+"Image" = "Immagine";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Image"; ObjectID = "14"; */
+"Image" = "Immagine";
+
+/* Class = "NSToolbarItem"; label = "Text"; ObjectID = "16"; */
+"Text" = "Testo";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Text"; ObjectID = "16"; */
+"Text" = "Testo";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "71"; */
+"Cancel" = "Annulla";
+
+/* Class = "NSButtonCell"; title = "Next…"; ObjectID = "72"; */
+"Next…" = "Successivo…";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "75"; */
+"Box" = "Box";
+

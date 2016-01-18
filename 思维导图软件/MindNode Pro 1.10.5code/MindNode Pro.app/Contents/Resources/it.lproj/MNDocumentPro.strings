@@ -1,0 +1,129 @@
+/* Class = "NSWindow"; title = "MindNode Pro"; ObjectID = "5"; */
+"MindNode Pro" = "MindNode Pro";
+
+/* Class = "NSSegmentedCell"; 194.ibShadowedToolTips[0] = "Add a new node"; ObjectID = "194"; */
+"Add a new node" = "Aggiungi nuovo nodo";
+
+/* Class = "NSSegmentedCell"; 194.ibShadowedToolTips[1] = "Delete all selected nodes"; ObjectID = "194"; */
+"Delete all selected nodes" = "Elimina tutti i nodi selezionati";
+
+/* Class = "NSToolbarItem"; label = "Node"; ObjectID = "195"; */
+"Node" = "Nodo";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Node"; ObjectID = "195"; */
+"Node" = "Nodo";
+
+/* Class = "NSToolbarItem"; label = "New Node"; ObjectID = "261"; */
+"New Node" = "Nuovo nodo";
+
+/* Class = "NSToolbarItem"; paletteLabel = "New Node"; ObjectID = "261"; */
+"New Node" = "Nuovo nodo";
+
+/* Class = "NSToolbarItem"; toolTip = "Create a new node"; ObjectID = "261"; */
+"Create a new node" = "Crea un nuovo nodo";
+
+/* Class = "NSToolbarItem"; label = "Delete Node"; ObjectID = "262"; */
+"Delete Node" = "Elimina nodo";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Delete Node"; ObjectID = "262"; */
+"Delete Node" = "Elimina nodo";
+
+/* Class = "NSToolbarItem"; toolTip = "Delete all selected nodes"; ObjectID = "262"; */
+"Delete all selected nodes" = "Elimina tutti i nodi selezionati";
+
+/* Class = "NSToolbarItem"; label = "Share"; ObjectID = "298"; */
+"Share" = "Condividi";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Share"; ObjectID = "298"; */
+"Share" = "Condividi";
+
+/* Class = "NSToolbarItem"; toolTip = "Share"; ObjectID = "298"; */
+"Share" = "Condividi";
+
+/* Class = "NSSegmentedControl"; ibShadowedToolTip = "Fold nodes"; ObjectID = "309"; */
+"Fold nodes" = "Comprimi nodi";
+
+/* Class = "NSSegmentedCell"; 310.ibShadowedToolTips[0] = "Fold nodes"; ObjectID = "310"; */
+"Fold nodes" = "Comprimi nodi";
+
+/* Class = "NSSegmentedCell"; 310.ibShadowedToolTips[1] = "Unfold nodes"; ObjectID = "310"; */
+"Unfold nodes" = "Espandi nodi";
+
+/* Class = "NSToolbarItem"; label = "Folding"; ObjectID = "311"; */
+"Folding" = "Comprimi/Espandi";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Folding"; ObjectID = "311"; */
+"Folding" = "Comprimi/Espandi";
+
+/* Class = "NSToolbarItem"; label = "Connect"; ObjectID = "317"; */
+"Connect" = "Collega";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Connect"; ObjectID = "317"; */
+"Connect" = "Collega";
+
+/* Class = "NSToolbarItem"; toolTip = "Create a cross connection"; ObjectID = "317"; */
+"Create a cross connection" = "Crea collegamento trasversale";
+
+/* Class = "NSToolbarItem"; label = "iPhone Sharing"; ObjectID = "320"; */
+"iPhone Sharing" = "Condivisione iPhone";
+
+/* Class = "NSToolbarItem"; paletteLabel = "iPhone Sharing"; ObjectID = "320"; */
+"iPhone Sharing" = "Condivisione iPhone";
+
+/* Class = "NSToolbarItem"; toolTip = "Show or hide the iPhone Sharing window"; ObjectID = "320"; */
+"Show or hide the iPhone Sharing window" = "Mostra o nascondi la finestra Condivisione iPhone";
+
+/* Class = "NSToolbarItem"; label = "iCloud"; ObjectID = "323"; */
+"iCloud" = "iCloud";
+
+/* Class = "NSToolbarItem"; paletteLabel = "iCloud"; ObjectID = "323"; */
+"iCloud" = "iCloud";
+
+/* Class = "NSToolbarItem"; toolTip = "Show or hide the iCloud browser"; ObjectID = "323"; */
+"Show or hide the iCloud browser" = "Mostra o nascondi il browser iCloud";
+
+/* Class = "NSToolbarItem"; label = "Inspector"; ObjectID = "326"; */
+"Inspector" = "Impostazioni";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Inspector"; ObjectID = "326"; */
+"Inspector" = "Impostazioni";
+
+/* Class = "NSToolbarItem"; toolTip = "Show or hide the Inspector window"; ObjectID = "326"; */
+"Show or hide the Inspector window" = "Mostra o nascondi la finestra Impostazioni";
+
+/* Class = "NSToolbarItem"; label = "Media"; ObjectID = "329"; */
+"Media" = "Media";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Media"; ObjectID = "329"; */
+"Media" = "Media";
+
+/* Class = "NSToolbarItem"; toolTip = "Show or hide the Media window"; ObjectID = "329"; */
+"Show or hide the Media window" = "Mostra o nascondi la finestra Media";
+
+/* Class = "NSToolbarItem"; label = "Colors"; ObjectID = "332"; */
+"Colors" = "Colori";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Colors"; ObjectID = "332"; */
+"Colors" = "Colori";
+
+/* Class = "NSToolbarItem"; toolTip = "Show or hide the Colors window"; ObjectID = "332"; */
+"Show or hide the Colors window" = "Mostra o nascondi la finestra Colori";
+
+/* Class = "NSToolbarItem"; label = "Fonts"; ObjectID = "335"; */
+"Fonts" = "Font";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Fonts"; ObjectID = "335"; */
+"Fonts" = "Font";
+
+/* Class = "NSToolbarItem"; toolTip = "Show or hide the Fonts window"; ObjectID = "335"; */
+"Show or hide the Fonts window" = "Mostra o nascondi la finestra Font";
+
+/* Class = "NSToolbarItem"; label = "Print"; ObjectID = "338"; */
+"Print" = "Stampa";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Print"; ObjectID = "338"; */
+"Print" = "Stampa";
+
+/* Class = "NSToolbarItem"; toolTip = "Print the document"; ObjectID = "338"; */
+"Print the document" = "Stampa documento";
+

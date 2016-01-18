@@ -1,0 +1,42 @@
+/* Class = "NSButtonCell"; title = "Animate changes"; ObjectID = "26"; */
+"Animate changes" = "Animate changes";
+
+/* Class = "NSButtonCell"; title = "Create a new document"; ObjectID = "43"; */
+"Create a new document" = "Create a new document";
+
+/* Class = "NSTextFieldCell"; title = "Starting:"; ObjectID = "45"; */
+"Starting:" = "Starting:";
+
+/* Class = "NSTextFieldCell"; title = "General:"; ObjectID = "77"; */
+"General:" = "General:";
+
+/* Class = "NSButtonCell"; title = "Check Now"; ObjectID = "83"; */
+"Check Now" = "Check Now";
+
+/* Class = "NSTextFieldCell"; title = "When checking for updates, MindNode Pro will not send information about your system."; ObjectID = "87"; */
+"When checking for updates, MindNode Pro will not send information about your system." = "When checking for updates, MindNode Pro will not send information about your system.";
+
+/* Class = "NSButtonCell"; title = "Automatically check for updates"; ObjectID = "88"; */
+"Automatically check for updates" = "Automatically check for updates";
+
+/* Class = "NSTextFieldCell"; title = "Software Update:"; ObjectID = "90"; */
+"Software Update:" = "Software Update:";
+
+/* Class = "NSButtonCell"; title = "Active hyperlinks"; ObjectID = "97"; */
+"Active hyperlinks" = "Active hyperlinks";
+
+/* Class = "NSButtonCell"; title = "Restore Defaults"; ObjectID = "105"; */
+"Restore Defaults" = "Restore Defaults";
+
+/* Class = "NSButtonCell"; title = "Smart link detection"; ObjectID = "109"; */
+"Smart link detection" = "Smart link detection";
+
+/* Class = "NSButtonCell"; title = "Enable smart layout for new documents"; ObjectID = "132"; */
+"Enable smart layout for new documents" = "Enable smart layout for new documents";
+
+/* Class = "NSButtonCell"; title = "Inherit style when reconnecting"; ObjectID = "141"; */
+"Inherit style when reconnecting" = "Inherit style when reconnecting";
+
+/* Class = "NSButtonCell"; title = "Check for important announcements"; ObjectID = "146"; */
+"Check for important announcements" = "Check for important announcements";
+

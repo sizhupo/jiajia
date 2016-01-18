@@ -1,0 +1,26 @@
+﻿/* Class = "NSPanel"; title = "Crash Reporter"; ObjectID = "1"; */
+"Crash Reporter" = "クラッシュレポーター";
+
+/* Class = "NSTextFieldCell"; title = "Email address (optional):"; ObjectID = "12"; */
+"Email address (optional):" = "メールアドレス (任意):";
+
+/* Class = "NSButtonCell"; title = "Send Report"; ObjectID = "28"; */
+"Send Report" = "レポートを送信";
+
+/* Class = "NSButtonCell"; title = "Ignore"; ObjectID = "30"; */
+"Ignore" = "無視";
+
+/* Class = "NSTabViewItem"; label = "Comments"; ObjectID = "38"; */
+"Comments" = "コメント";
+
+/* Class = "NSTabViewItem"; label = "Crash Log"; ObjectID = "40"; */
+"Crash Log" = "クラッシュログ";
+
+/* Class = "NSTextFieldCell"; title = "%@ quit unexpectedly."; ObjectID = "52"; */
+"%@ quit unexpectedly." = "%@ は予期しない理由で終了しました。";
+
+/* Class = "NSTextFieldCell"; title = "You can help improve %@ by sending the crash log."; ObjectID = "53"; */
+"You can help improve %@ by sending the crash log." = "%@ の改良に役立てますのでクラッシュログの送信をお願いします。";
+
+/* Class = "NSTextFieldCell"; title = "Please describe any steps needed to trigger the problem:"; ObjectID = "78"; */
+"Please describe any steps needed to trigger the problem:" = "問題が起きた時の操作手順をすべて入力して下さい (英語かドイツ語で) :";

@@ -1,0 +1,42 @@
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "14"; */
+"OtherViews" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "15"; */
+"Item 1" = "Item 1";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "16"; */
+"Item 2" = "Item 2";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "17"; */
+"Item 3" = "Item 3";
+
+/* Class = "NSButtonCell"; title = "Customize…"; ObjectID = "24"; */
+"Customize…" = "自定义...";
+
+/* Class = "NSButtonCell"; title = "Automatic decrease branch width"; ObjectID = "28"; */
+"Automatic decrease branch width" = "自动减少分支宽度";
+
+/* Class = "NSTextFieldCell"; title = "Long"; ObjectID = "42"; */
+"Long" = "长";
+
+/* Class = "NSButtonCell"; title = "Shrink to fit content"; ObjectID = "43"; */
+"Shrink to fit content" = "缩进来匹配内容";
+
+/* Class = "NSTextFieldCell"; title = "Short"; ObjectID = "44"; */
+"Short" = "短";
+
+/* Class = "NSTextFieldCell"; title = "Medium"; ObjectID = "45"; */
+"Medium" = "中等";
+
+/* Class = "NSTextFieldCell"; title = "Default Color Style:"; ObjectID = "115"; */
+"Default Color Style:" = "默认颜色风格";
+
+/* Class = "NSTextFieldCell"; title = "Default Branch Settings:"; ObjectID = "117"; */
+"Default Branch Settings:" = "默认分支样式：";
+
+/* Class = "NSButtonCell"; title = "Restore Defaults"; ObjectID = "120"; */
+"Restore Defaults" = "恢复默认";
+
+/* Class = "NSTextFieldCell"; title = "Default Node Width:"; ObjectID = "138"; */
+"Default Node Width:" = "默认节点宽度：";
+

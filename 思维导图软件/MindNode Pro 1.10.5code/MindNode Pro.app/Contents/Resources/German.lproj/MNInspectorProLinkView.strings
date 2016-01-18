@@ -1,0 +1,41 @@
+﻿/* Class = "NSButtonCell"; title = "Enable as hyperlink"; ObjectID = "7"; */
+"Enable as hyperlink" = "Als Link aktivieren";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "10"; */
+"OtherViews" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Web Page"; ObjectID = "11"; */
+"Web Page" = "Web Page";
+
+/* Class = "NSMenuItem"; title = "File"; ObjectID = "12"; */
+"File" = "File";
+
+/* Class = "NSTextFieldCell"; title = "Link to:"; ObjectID = "77"; */
+"Link to:" = "Ziel:";
+
+/* Class = "NSTextFieldCell"; title = "URL:"; ObjectID = "79"; */
+"URL:" = "URL:";
+
+/* Class = "NSTabViewItem"; label = "Web Page"; ObjectID = "111"; */
+"Web Page" = "Webseite";
+
+/* Class = "NSTabViewItem"; label = "File"; ObjectID = "113"; */
+"File" = "Datei";
+
+/* Class = "NSTabViewItem"; label = "Mail"; ObjectID = "115"; */
+"Mail" = "E-Mail-Nachricht";
+
+/* Class = "NSTextFieldCell"; title = "File:"; ObjectID = "120"; */
+"File:" = "Datei:";
+
+/* Class = "NSButtonCell"; title = "Choose..."; ObjectID = "121"; */
+"Choose..." = "Auswählen …";
+
+/* Class = "NSTextFieldCell"; title = "Subject:"; ObjectID = "127"; */
+"Subject:" = "Betreff:";
+
+/* Class = "NSTextFieldCell"; title = "To:"; ObjectID = "129"; */
+"To:" = "An:";
+
+/* Class = "NSMenuItem"; title = "Mail Message"; ObjectID = "138"; */
+"Mail Message" = "E-Mail-Nachricht";

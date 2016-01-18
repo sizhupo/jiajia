@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allowNodeStrokeColorVariation</key>
+	<false/>
+	<key>backgroundColor</key>
+	<string>{0.956, 0.966, 0.956, 1.000}</string>
+	<key>crossConnections</key>
+	<array>
+		<dict>
+			<key>endArrow</key>
+			<integer>2</integer>
+			<key>startArrow</key>
+			<integer>0</integer>
+			<key>strokeStyle</key>
+			<dict>
+				<key>color</key>
+				<string>{0.997, 0.355, 0.184, 1.000}</string>
+				<key>dash</key>
+				<integer>3</integer>
+				<key>width</key>
+				<integer>2</integer>
+			</dict>
+		</dict>
+	</array>
+	<key>mainNodes</key>
+	<array>
+		<dict>
+			<key>autoDecreaseStrokeWidth</key>
+			<true/>
+			<key>drawFilled</key>
+			<true/>
+			<key>fillStyle</key>
+			<dict>
+				<key>color</key>
+				<string>{1.000, 1.000, 1.000, 1.000}</string>
+			</dict>
+			<key>strokeStyle</key>
+			<dict>
+				<key>color</key>
+				<string>{0.965, 0.965, 0.965, 1.000}</string>
+				<key>dash</key>
+				<integer>0</integer>
+				<key>width</key>
+				<integer>2</integer>
+			</dict>
+			<key>title</key>
+			<dict>
+				<key>color</key>
+				<string>{0.086, 0.482, 0.592, 1.000}</string>
+				<key>name</key>
+				<string>HelveticaNeue-Light</string>
+				<key>size</key>
+				<real>21</real>
+			</dict>
+		</dict>
+	</array>
+	<key>subNodes</key>
+	<array>
+		<dict>
+			<key>autoDecreaseStrokeWidth</key>
+			<true/>
+			<key>drawFilled</key>
+			<false/>
+			<key>fillStyle</key>
+			<dict>
+				<key>color</key>
+				<string>{1.000, 1.000, 1.000, 1.000}</string>
+			</dict>
+			<key>strokeStyle</key>
+			<dict>
+				<key>color</key>
+				<string>{0.689, 0.215, 0.952, 1.000}</string>
+				<key>dash</key>
+				<integer>0</integer>
+				<key>width</key>
+				<integer>2</integer>
+			</dict>
+			<key>title</key>
+			<dict>
+				<key>color</key>
+				<string>{0.357, 0.357, 0.357, 1.000}</string>
+				<key>name</key>
+				<string>HelveticaNeue</string>
+				<key>size</key>
+				<real>18</real>
+			</dict>
+		</dict>
+		<dict>
+			<key>autoDecreaseStrokeWidth</key>
+			<true/>
+			<key>drawFilled</key>
+			<false/>
+			<key>fillStyle</key>
+			<dict>
+				<key>color</key>
+				<string>{1.000, 1.000, 1.000, 1.000}</string>
+			</dict>
+			<key>strokeStyle</key>
+			<dict>
+				<key>color</key>
+				<string>{0.144, 0.670, 1.000, 1.000}</string>
+				<key>dash</key>
+				<integer>0</integer>
+				<key>width</key>
+				<integer>2</integer>
+			</dict>
+			<key>title</key>
+			<dict>
+				<key>color</key>
+				<string>{0.357, 0.357, 0.357, 1.000}</string>
+				<key>name</key>
+				<string>HelveticaNeue</string>
+				<key>size</key>
+				<real>18</real>
+			</dict>
+		</dict>
+		<dict>
+			<key>autoDecreaseStrokeWidth</key>
+			<true/>
+			<key>drawFilled</key>
+			<false/>
+			<key>fillStyle</key>
+			<dict>
+				<key>color</key>
+				<string>{1.000, 1.000, 1.000, 1.000}</string>
+			</dict>
+			<key>strokeStyle</key>
+			<dict>
+				<key>color</key>
+				<string>{1.000, 0.742, 0.041, 1.000}</string>
+				<key>dash</key>
+				<integer>0</integer>
+				<key>width</key>
+				<integer>2</integer>
+			</dict>
+			<key>title</key>
+			<dict>
+				<key>color</key>
+				<string>{0.357, 0.357, 0.357, 1.000}</string>
+				<key>name</key>
+				<string>HelveticaNeue</string>
+				<key>size</key>
+				<real>18</real>
+			</dict>
+		</dict>
+		<dict>
+			<key>autoDecreaseStrokeWidth</key>
+			<true/>
+			<key>drawFilled</key>
+			<false/>
+			<key>fillStyle</key>
+			<dict>
+				<key>color</key>
+				<string>{1.000, 1.000, 1.000, 1.000}</string>
+			</dict>
+			<key>strokeStyle</key>
+			<dict>
+				<key>color</key>
+				<string>{0.136, 0.807, 0.880, 1.000}</string>
+				<key>dash</key>
+				<integer>0</integer>
+				<key>width</key>
+				<integer>2</integer>
+			</dict>
+			<key>title</key>
+			<dict>
+				<key>color</key>
+				<string>{0.357, 0.357, 0.357, 1.000}</string>
+				<key>name</key>
+				<string>HelveticaNeue</string>
+				<key>size</key>
+				<real>18</real>
+			</dict>
+		</dict>
+		<dict>
+			<key>autoDecreaseStrokeWidth</key>
+			<true/>
+			<key>drawFilled</key>
+			<false/>
+			<key>fillStyle</key>
+			<dict>
+				<key>color</key>
+				<string>{1.000, 1.000, 1.000, 1.000}</string>
+			</dict>
+			<key>strokeStyle</key>
+			<dict>
+				<key>color</key>
+				<string>{0.822, 0.084, 0.348, 1.000}</string>
+				<key>dash</key>
+				<integer>0</integer>
+				<key>width</key>
+				<integer>2</integer>
+			</dict>
+			<key>title</key>
+			<dict>
+				<key>color</key>
+				<string>{0.357, 0.357, 0.357, 1.000}</string>
+				<key>name</key>
+				<string>HelveticaNeue</string>
+				<key>size</key>
+				<real>18</real>
+			</dict>
+		</dict>
+		<dict>
+			<key>autoDecreaseStrokeWidth</key>
+			<true/>
+			<key>drawFilled</key>
+			<false/>
+			<key>fillStyle</key>
+			<dict>
+				<key>color</key>
+				<string>{1.000, 1.000, 1.000, 1.000}</string>
+			</dict>
+			<key>strokeStyle</key>
+			<dict>
+				<key>color</key>
+				<string>{0.194, 0.734, 0.282, 1.000}</string>
+				<key>dash</key>
+				<integer>0</integer>
+				<key>width</key>
+				<integer>2</integer>
+			</dict>
+			<key>title</key>
+			<dict>
+				<key>color</key>
+				<string>{0.357, 0.357, 0.357, 1.000}</string>
+				<key>name</key>
+				<string>HelveticaNeue</string>
+				<key>size</key>
+				<real>18</real>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

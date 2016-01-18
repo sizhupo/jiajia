@@ -1,0 +1,141 @@
+/* Class = "NSTabViewItem"; label = "Document"; ObjectID = "466"; */
+"Document" = "Documento";
+
+/* Class = "NSTabViewItem"; label = "Node"; ObjectID = "467"; */
+"Node" = "Nodo";
+
+/* Class = "NSTabViewItem"; label = "Cross Connection"; ObjectID = "470"; */
+"Cross Connection" = "Interconexión";
+
+/* Class = "NSTextFieldCell"; title = "Stroke:"; ObjectID = "481"; */
+"Stroke:" = "Trazo:";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "483"; */
+"OtherViews" = "OtherViews";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "489"; */
+"OtherViews" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "1 pt"; ObjectID = "490"; */
+"1 pt" = "1 pt";
+
+/* Class = "NSMenuItem"; title = "2 pt"; ObjectID = "491"; */
+"2 pt" = "2 pt";
+
+/* Class = "NSMenuItem"; title = "3 pt"; ObjectID = "492"; */
+"3 pt" = "3 pt";
+
+/* Class = "NSMenuItem"; title = "4 pt"; ObjectID = "493"; */
+"4 pt" = "4 pt";
+
+/* Class = "NSMenuItem"; title = "5 pt"; ObjectID = "494"; */
+"5 pt" = "5 pt";
+
+/* Class = "NSMenuItem"; title = "6 pt"; ObjectID = "495"; */
+"6 pt" = "6 pt";
+
+/* Class = "NSTextFieldCell"; title = "Endpoints:"; ObjectID = "496"; */
+"Endpoints:" = "Extremos:";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "498"; */
+"OtherViews" = "OtherViews";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "505"; */
+"OtherViews" = "OtherViews";
+
+/* Class = "NSTextFieldCell"; title = "Background Color:"; ObjectID = "520"; */
+"Background Color:" = "Color de fondo:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "MindNode Pro can variate colors to prevent duplicate colors."; ObjectID = "526"; */
+"MindNode Pro can variate colors to prevent duplicate colors." = "MindNode Pro puede variar los colores para evitar que se repitan.";
+
+/* Class = "NSTextFieldCell"; title = "Branch Style:"; ObjectID = "562"; */
+"Branch Style:" = "Estilo de la rama:";
+
+/* Class = "NSTextFieldCell"; title = "Branch Color:"; ObjectID = "565"; */
+"Branch Color:" = "Color de la rama:";
+
+/* Class = "NSButtonCell"; title = "Select..."; ObjectID = "569"; */
+"Select..." = "Seleccionar...";
+
+/* Class = "NSTextFieldCell"; title = "Font:"; ObjectID = "574"; */
+"Font:" = "Tipo de letra:";
+
+/* Class = "NSTextFieldCell"; title = "Text Color:"; ObjectID = "590"; */
+"Text Color:" = "Color del texto:";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "592"; */
+"OtherViews" = "OtherViews";
+
+/* Class = "NSButtonCell"; title = "Allow branch color variations"; ObjectID = "597"; */
+"Allow branch color variations" = "Permitir variaciones del color de la rama";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "599"; */
+"OtherViews" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "1 pt"; ObjectID = "600"; */
+"1 pt" = "1 pt";
+
+/* Class = "NSMenuItem"; title = "2 pt"; ObjectID = "601"; */
+"2 pt" = "2 pt";
+
+/* Class = "NSMenuItem"; title = "3 pt"; ObjectID = "602"; */
+"3 pt" = "3 pt";
+
+/* Class = "NSMenuItem"; title = "4 pt"; ObjectID = "603"; */
+"4 pt" = "4 pt";
+
+/* Class = "NSMenuItem"; title = "5 pt"; ObjectID = "604"; */
+"5 pt" = "5 pt";
+
+/* Class = "NSMenuItem"; title = "6 pt"; ObjectID = "605"; */
+"6 pt" = "6 pt";
+
+/* Class = "NSTabViewItem"; label = "Main Node"; ObjectID = "643"; */
+"Main Node" = "Nodo principal";
+
+/* Class = "NSTextFieldCell"; title = "Font:"; ObjectID = "656"; */
+"Font:" = "Tipo de letra:";
+
+/* Class = "NSTextFieldCell"; title = "Text Color:"; ObjectID = "657"; */
+"Text Color:" = "Color del texto:";
+
+/* Class = "NSTextFieldCell"; title = "Fill Color:"; ObjectID = "658"; */
+"Fill Color:" = "Color de relleno:";
+
+/* Class = "NSTextFieldCell"; title = "Stroke:"; ObjectID = "659"; */
+"Stroke:" = "Trazo:";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "661"; */
+"OtherViews" = "OtherViews";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "667"; */
+"OtherViews" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "1 pt"; ObjectID = "668"; */
+"1 pt" = "1 pt";
+
+/* Class = "NSMenuItem"; title = "2 pt"; ObjectID = "669"; */
+"2 pt" = "2 pt";
+
+/* Class = "NSMenuItem"; title = "3 pt"; ObjectID = "670"; */
+"3 pt" = "3 pt";
+
+/* Class = "NSMenuItem"; title = "4 pt"; ObjectID = "671"; */
+"4 pt" = "4 pt";
+
+/* Class = "NSMenuItem"; title = "5 pt"; ObjectID = "672"; */
+"5 pt" = "5 pt";
+
+/* Class = "NSMenuItem"; title = "6 pt"; ObjectID = "673"; */
+"6 pt" = "6 pt";
+
+/* Class = "NSButtonCell"; title = "Select..."; ObjectID = "674"; */
+"Select..." = "Seleccionar...";
+
+/* Class = "MNCustomStylePanel"; title = "Window"; ObjectID = "701"; */
+"Window" = "Ventana";
+
+/* Class = "NSButtonCell"; title = "Close"; ObjectID = "705"; */
+"Close" = "Cerrar";
+

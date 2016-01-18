@@ -1,0 +1,42 @@
+/* Class = "NSPanel"; title = "Find"; ObjectID = "1"; */
+"Find" = "查找";
+
+/* Class = "NSTextFieldCell"; title = "Replace with:"; ObjectID = "7"; */
+"Replace with:" = "替换为：";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Find next occurrence of the Find string"; ObjectID = "12"; */
+"Find next occurrence of the Find string" = "查找被查找字串的下一次出现";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Replace next occurrence of Find string with replacement string"; ObjectID = "13"; */
+"Replace next occurrence of Find string with replacement string" = "下次出现时用替换字串替换被查找字串";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Replace next occurrence of Find string with replacement string and find next again occurrence of the Find string"; ObjectID = "14"; */
+"Replace next occurrence of Find string with replacement string and find next again occurrence of the Find string" = "下次出现时用替换字串替换被查找字串并查找被查找字串的再下一次出现";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Replace all occurrences of the Find string with replacement string"; ObjectID = "15"; */
+"Replace all occurrences of the Find string with replacement string" = "用替换字串替换所有被查找字串";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Find previous occurrence of the Find string"; ObjectID = "16"; */
+"Find previous occurrence of the Find string" = "查找被查找字串的上一次出现";
+
+/* Class = "NSButtonCell"; title = "Previous"; ObjectID = "17"; */
+"Previous" = "上一个";
+
+/* Class = "NSButtonCell"; title = "Replace All"; ObjectID = "18"; */
+"Replace All" = "全部替换";
+
+/* Class = "NSButtonCell"; title = "Replace & Find"; ObjectID = "19"; */
+"Replace & Find" = "查找并替换";
+
+/* Class = "NSButtonCell"; title = "Replace"; ObjectID = "20"; */
+"Replace" = "替换";
+
+/* Class = "NSButtonCell"; title = "Next"; ObjectID = "21"; */
+"Next" = "下一个";
+
+/* Class = "NSTextFieldCell"; title = "Find:"; ObjectID = "29"; */
+"Find:" = "查找：";
+
+/* Class = "NSTextFieldCell"; title = "Not Found"; ObjectID = "78"; */
+"Not Found" = "无法找到";
+

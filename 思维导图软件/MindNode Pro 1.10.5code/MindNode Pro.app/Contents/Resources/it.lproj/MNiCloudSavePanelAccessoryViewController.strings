@@ -1,0 +1,6 @@
+/* Class = "NSButtonCell"; title = "Move Document to iCloud"; ObjectID = "4"; */
+"Move Document to iCloud" = "Sposta documento su iCloud";
+
+/* Class = "NSTextFieldCell"; title = "iCloud Documents will not appear in Finder. They can be accessed via the iCloud Document Browser."; ObjectID = "14"; */
+"iCloud Documents will not appear in Finder. They can be accessed via the iCloud Document Browser." = "I documenti iCloud non appaiono nel Finder. È possibile accedervi tramite il browser dei documenti iCloud.";
+

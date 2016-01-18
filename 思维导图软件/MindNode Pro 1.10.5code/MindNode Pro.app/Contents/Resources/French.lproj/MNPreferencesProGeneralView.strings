@@ -1,0 +1,65 @@
+﻿/* Class = "NSButtonCell"; title = "Animate changes"; ObjectID = "26"; */
+"Animate changes" = "Animer les changements";
+
+/* Class = "NSButtonCell"; title = "Create a new document"; ObjectID = "43"; */
+"Create a new document" = "Créer un nouveau document :";
+
+/* Class = "NSTextFieldCell"; title = "Starting:"; ObjectID = "45"; */
+"Starting:" = "Début :";
+
+/* Class = "NSButtonCell"; title = "Remember workspace"; ObjectID = "47"; */
+"Remember workspace" = "Mémoriser l'espace de travail";
+
+/* Class = "NSPopUpButton"; gToolTip = "Specify how often MindNode Pro should save side-copies of documents being modified. These \"autosave\" copies can be used to recover contents of unsaved documents."; ObjectID = "59"; */
+"Specify how often MindNode Pro should save side-copies of documents being modified. These \"autosave\" copies can be used to recover contents of unsaved documents." = "Choisir la fréquence à laquelle MindNode Pro doit enregistrer des copies de sauvegarde des documents en cours de modification. Ces copies automaqtiques peuvent être utilisés pour récupérer le contenu des documents non enregistrés.";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "61"; */
+"OtherViews" = "Autres vues";
+
+/* Class = "NSMenuItem"; title = "Every 15 seconds"; ObjectID = "62"; */
+"Every 15 seconds" = "Toutes les 15 secondes";
+
+/* Class = "NSMenuItem"; title = "Every 5 minutes"; ObjectID = "63"; */
+"Every 5 minutes" = "Toutes les 5 minutes";
+
+/* Class = "NSMenuItem"; title = "Every minute"; ObjectID = "64"; */
+"Every minute" = "A chaque minute";
+
+/* Class = "NSMenuItem"; title = "Never"; ObjectID = "65"; */
+"Never" = "Jamais";
+
+/* Class = "NSMenuItem"; title = "Every 30 seconds"; ObjectID = "66"; */
+"Every 30 seconds" = "Toutes les 30 secondes";
+
+/* Class = "NSTextFieldCell"; title = "Autosave:"; ObjectID = "68"; */
+"Autosave:" = "Enregistrement automatique :";
+
+/* Class = "NSTextFieldCell"; title = "General:"; ObjectID = "77"; */
+"General:" = "Général :";
+
+/* Class = "NSButtonCell"; title = "Check Now"; ObjectID = "83"; */
+"Check Now" = "Vérifier maintenant";
+
+/* Class = "NSTextFieldCell"; title = "When checking for updates, MindNode Pro will not send information about your system."; ObjectID = "87"; */
+"When checking for updates, MindNode Pro will not send information about your system." = "Lors de la vérification des mises à jour, MindNode Pro n'envoie pas d'informations concernant votre système.";
+
+/* Class = "NSButtonCell"; title = "Automatically check for updates"; ObjectID = "88"; */
+"Automatically check for updates" = "Vérifier automatiquement les mises à jour";
+
+/* Class = "NSTextFieldCell"; title = "Software Update:"; ObjectID = "90"; */
+"Software Update:" = "Mise à jour du logiciel";
+
+/* Class = "NSButtonCell"; title = "Active hyperlinks"; ObjectID = "97"; */
+"Active hyperlinks" = "Activer les hyperliens";
+
+/* Class = "NSButtonCell"; title = "Restore Defaults"; ObjectID = "105"; */
+"Restore Defaults" = "Restaurer les valeurs par défaut";
+
+/* Class = "NSButtonCell"; title = "Smart link detection"; ObjectID = "109"; */
+"Smart link detection" = "Détection des liens \"intelligents\"";
+
+/* Class = "NSButtonCell"; title = "Enable smart layout for new documents"; ObjectID = "132"; */
+"Enable smart layout for new documents" = "Réorganiser automatiquement les nouveaux documents";
+
+/* Class = "NSButtonCell"; title = "Inherit style when reconnecing"; ObjectID = "141"; */
+"Inherit style when reconnecing" = "Conserver le style lors de la reconnexion";

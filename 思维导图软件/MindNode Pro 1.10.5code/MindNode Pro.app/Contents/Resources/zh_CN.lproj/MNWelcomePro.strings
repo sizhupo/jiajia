@@ -1,0 +1,21 @@
+/* Class = "NSPanel"; title = "Welcome to MindNode Pro"; ObjectID = "1"; */
+"Welcome to MindNode Pro" = "欢迎使用 MindNode Pro";
+
+/* Class = "NSButtonCell"; title = "Try Out"; ObjectID = "5"; */
+"Try Out" = "尝试";
+
+/* Class = "NSButtonCell"; title = "Register"; ObjectID = "15"; */
+"Register" = "注册";
+
+/* Class = "NSButtonCell"; title = "Purchase License Key"; ObjectID = "20"; */
+"Purchase License Key" = "购买许可密钥";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "42"; */
+"Box" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "Welcome to MindNode Pro"; ObjectID = "47"; */
+"Welcome to MindNode Pro" = "欢迎使用 MindNode Pro";
+
+/* Class = "NSTextFieldCell"; title = "Thank you for trying out MindNode Pro, an elegant and simple-to-use mindmapping application.\n\nThe unregistered version has no time limit and allows you to use every feature of the registered version. The only difference is a 20-node limit and a watermark when printing."; ObjectID = "48"; */
+"Thank you for trying out MindNode Pro, an elegant and simple-to-use mindmapping application.\n\nThe unregistered version has no time limit and allows you to use every feature of the registered version. The only difference is a 20-node limit and a watermark when printing." = "感谢您试用 MindNode Pro，一个优雅易用的思维导图程序。\n\n未注册的版本没有时间限制并且允许您使用注册版的每一个功能。唯一的区别是 20 个节点的限制和打印时的水印。";
+

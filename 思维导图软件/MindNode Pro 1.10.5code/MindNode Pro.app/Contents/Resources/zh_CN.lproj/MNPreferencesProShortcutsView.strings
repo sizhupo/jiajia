@@ -1,0 +1,177 @@
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "27"; */
+"OtherViews" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Return Key"; ObjectID = "28"; */
+"Return Key" = "回车键";
+
+/* Class = "NSMenuItem"; title = "Command - Return Key"; ObjectID = "29"; */
+"Command - Return Key" = "Command - 回车键";
+
+/* Class = "NSMenuItem"; title = "Shift - Return Key"; ObjectID = "30"; */
+"Shift - Return Key" = "Shift - 回车键";
+
+/* Class = "NSTextFieldCell"; title = "Create new child node:"; ObjectID = "32"; */
+"Create new child node:" = "新建子结点：";
+
+/* Class = "NSTextFieldCell"; title = "Create new sibling node:"; ObjectID = "36"; */
+"Create new sibling node:" = "新建附属节点：";
+
+/* Class = "NSTextFieldCell"; title = "Create new main node:"; ObjectID = "38"; */
+"Create new main node:" = "新建主节点：";
+
+/* Class = "NSTextFieldCell"; title = "Option...⌥  Command...⌘  Shift...⇧"; ObjectID = "44"; */
+"Option...⌥  Command...⌘  Shift...⇧" = "Option...⌥  Command...⌘  Shift...⇧";
+
+/* Class = "NSMenuItem"; title = "Tab Key"; ObjectID = "47"; */
+"Tab Key" = "Tab 键";
+
+/* Class = "NSMenuItem"; title = "Option - Tab Key"; ObjectID = "49"; */
+"Option - Tab Key" = "Option - Tab 键";
+
+/* Class = "NSMenuItem"; title = "Shift - Tab Key"; ObjectID = "50"; */
+"Shift - Tab Key" = "Shift - Tab 键";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "53"; */
+"OtherViews" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Shift - Tab Key"; ObjectID = "54"; */
+"Shift - Tab Key" = "Shift - Tab 键";
+
+/* Class = "NSMenuItem"; title = "Option - Tab Key"; ObjectID = "55"; */
+"Option - Tab Key" = "Option - Tab 键";
+
+/* Class = "NSMenuItem"; title = "Tab Key"; ObjectID = "57"; */
+"Tab Key" = "Tab 键";
+
+/* Class = "NSMenuItem"; title = "Return Key"; ObjectID = "59"; */
+"Return Key" = "回车键";
+
+/* Class = "NSMenuItem"; title = "Command - Return Key"; ObjectID = "60"; */
+"Command - Return Key" = "Command - 回车键";
+
+/* Class = "NSMenuItem"; title = "Shift - Return Key"; ObjectID = "61"; */
+"Shift - Return Key" = "Shift - 回车键";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "64"; */
+"OtherViews" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Shift - Return Key"; ObjectID = "65"; */
+"Shift - Return Key" = "Shift - 回车键";
+
+/* Class = "NSMenuItem"; title = "Command - Return Key"; ObjectID = "66"; */
+"Command - Return Key" = "Command - 回车键";
+
+/* Class = "NSMenuItem"; title = "Return Key"; ObjectID = "67"; */
+"Return Key" = "回车键";
+
+/* Class = "NSMenuItem"; title = "Tab Key"; ObjectID = "69"; */
+"Tab Key" = "Tab 键";
+
+/* Class = "NSMenuItem"; title = "Option - Tab Key"; ObjectID = "71"; */
+"Option - Tab Key" = "Option - Tab 键";
+
+/* Class = "NSMenuItem"; title = "Shift - Tab Key"; ObjectID = "72"; */
+"Shift - Tab Key" = "Shift - Tab 键";
+
+/* Class = "NSTextFieldCell"; title = "Node Creation:"; ObjectID = "82"; */
+"Node Creation:" = "节点创建：";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "84"; */
+"None" = "无";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "89"; */
+"None" = "无";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "90"; */
+"None" = "无";
+
+/* Class = "NSTextFieldCell"; title = "Editing:"; ObjectID = "101"; */
+"Editing:" = "编辑中：";
+
+/* Class = "NSTextFieldCell"; title = "Edit Node:"; ObjectID = "102"; */
+"Edit Node:" = "编辑节点：";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "104"; */
+"OtherViews" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Option - Tab Key"; ObjectID = "105"; */
+"Option - Tab Key" = "Option - Tab 键";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "106"; */
+"None" = "无";
+
+/* Class = "NSMenuItem"; title = "Shift - Tab Key"; ObjectID = "108"; */
+"Shift - Tab Key" = "Shift - Tab 键";
+
+/* Class = "NSMenuItem"; title = "Tab Key"; ObjectID = "109"; */
+"Tab Key" = "Tab 键";
+
+/* Class = "NSMenuItem"; title = "Return Key"; ObjectID = "111"; */
+"Return Key" = "回车键";
+
+/* Class = "NSMenuItem"; title = "Command - Return Key"; ObjectID = "112"; */
+"Command - Return Key" = "Command - 回车键";
+
+/* Class = "NSMenuItem"; title = "Shift - Return Key"; ObjectID = "113"; */
+"Shift - Return Key" = "Shift - 回车键";
+
+/* Class = "NSMenuItem"; title = "Option - Return Key"; ObjectID = "114"; */
+"Option - Return Key" = "Option - 回车键";
+
+/* Class = "NSMenuItem"; title = "Option - Return Key"; ObjectID = "115"; */
+"Option - Return Key" = "Option - 回车键";
+
+/* Class = "NSMenuItem"; title = "Option - Return Key"; ObjectID = "116"; */
+"Option - Return Key" = "Option - 回车键";
+
+/* Class = "NSMenuItem"; title = "Option - Return Key"; ObjectID = "117"; */
+"Option - Return Key" = "Option - 回车键";
+
+/* Class = "NSButtonCell"; title = "Restore Defaults"; ObjectID = "124"; */
+"Restore Defaults" = "恢复默认";
+
+/* Class = "NSTextFieldCell"; title = "Insert new parent node:"; ObjectID = "151"; */
+"Insert new parent node:" = "插入新的上级节点：";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "153"; */
+"OtherViews" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "155"; */
+"None" = "无";
+
+/* Class = "NSMenuItem"; title = "Option - Return Key"; ObjectID = "156"; */
+"Option - Return Key" = "Option - 回车键";
+
+/* Class = "NSMenuItem"; title = "Shift - Tab Key"; ObjectID = "157"; */
+"Shift - Tab Key" = "Shift - Tab 键";
+
+/* Class = "NSMenuItem"; title = "Option - Tab Key"; ObjectID = "158"; */
+"Option - Tab Key" = "Option - Tab 键";
+
+/* Class = "NSMenuItem"; title = "Tab Key"; ObjectID = "159"; */
+"Tab Key" = "Tab 键";
+
+/* Class = "NSMenuItem"; title = "Return Key"; ObjectID = "161"; */
+"Return Key" = "回车键";
+
+/* Class = "NSMenuItem"; title = "Command - Return Key"; ObjectID = "162"; */
+"Command - Return Key" = "Command - 回车键";
+
+/* Class = "NSMenuItem"; title = "Shift - Return Key"; ObjectID = "163"; */
+"Shift - Return Key" = "Shift - 回车键";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "173"; */
+"OtherViews" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Hand-Tool"; ObjectID = "176"; */
+"Hand-Tool" = "手形工具";
+
+/* Class = "NSMenuItem"; title = "Quick Look Preview"; ObjectID = "178"; */
+"Quick Look Preview" = "Quick Look 预览";
+
+/* Class = "NSTextFieldCell"; title = "Space Key behavior:"; ObjectID = "184"; */
+"Space Key behavior:" = "空格键行为：";
+
+/* Class = "NSTextFieldCell"; title = "Other:"; ObjectID = "185"; */
+"Other:" = "其他：";
+

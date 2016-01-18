@@ -1,0 +1,129 @@
+/* Class = "NSWindow"; title = "MindNode Pro"; ObjectID = "5"; */
+"MindNode Pro" = "MindNode Pro";
+
+/* Class = "NSSegmentedCell"; 194.ibShadowedToolTips[0] = "Add a new node"; ObjectID = "194"; */
+"Add a new node" = "Nieuwe knoop";
+
+/* Class = "NSSegmentedCell"; 194.ibShadowedToolTips[1] = "Delete all selected nodes"; ObjectID = "194"; */
+"Delete all selected nodes" = "Verwijder alle geselecteerde knopen";
+
+/* Class = "NSToolbarItem"; label = "Node"; ObjectID = "195"; */
+"Node" = "Knoop";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Node"; ObjectID = "195"; */
+"Node" = "Knoop";
+
+/* Class = "NSToolbarItem"; label = "New Node"; ObjectID = "261"; */
+"New Node" = "Nieuwe knoop";
+
+/* Class = "NSToolbarItem"; paletteLabel = "New Node"; ObjectID = "261"; */
+"New Node" = "Nieuwe knoop";
+
+/* Class = "NSToolbarItem"; toolTip = "Create a new node"; ObjectID = "261"; */
+"Create a new node" = "Maak een nieuwe knoop aan";
+
+/* Class = "NSToolbarItem"; label = "Delete Node"; ObjectID = "262"; */
+"Delete Node" = "Verwijder knoop";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Delete Node"; ObjectID = "262"; */
+"Delete Node" = "Verwijder knoop";
+
+/* Class = "NSToolbarItem"; toolTip = "Delete all selected nodes"; ObjectID = "262"; */
+"Delete all selected nodes" = "Verwijder alle geselecteerde knopen";
+
+/* Class = "NSToolbarItem"; label = "Share"; ObjectID = "298"; */
+"Share" = "Deel";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Share"; ObjectID = "298"; */
+"Share" = "Deel";
+
+/* Class = "NSToolbarItem"; toolTip = "Share"; ObjectID = "298"; */
+"Share" = "Deel";
+
+/* Class = "NSSegmentedControl"; ibShadowedToolTip = "Fold nodes"; ObjectID = "309"; */
+"Fold nodes" = "Klap knopen in";
+
+/* Class = "NSSegmentedCell"; 310.ibShadowedToolTips[0] = "Fold nodes"; ObjectID = "310"; */
+"Fold nodes" = "Klap knopen in";
+
+/* Class = "NSSegmentedCell"; 310.ibShadowedToolTips[1] = "Unfold nodes"; ObjectID = "310"; */
+"Unfold nodes" = "Klap knopen uit";
+
+/* Class = "NSToolbarItem"; label = "Folding"; ObjectID = "311"; */
+"Folding" = "Inklappen";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Folding"; ObjectID = "311"; */
+"Folding" = "Inklappen";
+
+/* Class = "NSToolbarItem"; label = "Connect"; ObjectID = "317"; */
+"Connect" = "Verbind";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Connect"; ObjectID = "317"; */
+"Connect" = "Verbind";
+
+/* Class = "NSToolbarItem"; toolTip = "Create a cross connection"; ObjectID = "317"; */
+"Create a cross connection" = "Maak een kruisschakeling aan";
+
+/* Class = "NSToolbarItem"; label = "iPhone Sharing"; ObjectID = "320"; */
+"iPhone Sharing" = "iPhone-deling";
+
+/* Class = "NSToolbarItem"; paletteLabel = "iPhone Sharing"; ObjectID = "320"; */
+"iPhone Sharing" = "iPhone-deling";
+
+/* Class = "NSToolbarItem"; toolTip = "Show or hide the iPhone Sharing window"; ObjectID = "320"; */
+"Show or hide the iPhone Sharing window" = "Toon of verberg het iPhone-delingsvenster";
+
+/* Class = "NSToolbarItem"; label = "iCloud"; ObjectID = "323"; */
+"iCloud" = "iCloud";
+
+/* Class = "NSToolbarItem"; paletteLabel = "iCloud"; ObjectID = "323"; */
+"iCloud" = "iCloud";
+
+/* Class = "NSToolbarItem"; toolTip = "Show or hide the iCloud browser"; ObjectID = "323"; */
+"Show or hide the iCloud browser" = "Toon of verberg iCloud-browser";
+
+/* Class = "NSToolbarItem"; label = "Inspector"; ObjectID = "326"; */
+"Inspector" = "Infovenster";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Inspector"; ObjectID = "326"; */
+"Inspector" = "Infovenster";
+
+/* Class = "NSToolbarItem"; toolTip = "Show or hide the Inspector window"; ObjectID = "326"; */
+"Show or hide the Inspector window" = "Toon of verberg het infovenster";
+
+/* Class = "NSToolbarItem"; label = "Media"; ObjectID = "329"; */
+"Media" = "Media";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Media"; ObjectID = "329"; */
+"Media" = "Media";
+
+/* Class = "NSToolbarItem"; toolTip = "Show or hide the Media window"; ObjectID = "329"; */
+"Show or hide the Media window" = "Toon of verberg het mediavenster";
+
+/* Class = "NSToolbarItem"; label = "Colors"; ObjectID = "332"; */
+"Colors" = "Kleuren";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Colors"; ObjectID = "332"; */
+"Colors" = "Kleuren";
+
+/* Class = "NSToolbarItem"; toolTip = "Show or hide the Colors window"; ObjectID = "332"; */
+"Show or hide the Colors window" = "Toon of verberg het kleurenvenster";
+
+/* Class = "NSToolbarItem"; label = "Fonts"; ObjectID = "335"; */
+"Fonts" = "Lettertypen";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Fonts"; ObjectID = "335"; */
+"Fonts" = "Lettertypen";
+
+/* Class = "NSToolbarItem"; toolTip = "Show or hide the Fonts window"; ObjectID = "335"; */
+"Show or hide the Fonts window" = "Toon of verberg het lettertypevenster";
+
+/* Class = "NSToolbarItem"; label = "Print"; ObjectID = "338"; */
+"Print" = "Druk af";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Print"; ObjectID = "338"; */
+"Print" = "Druk af";
+
+/* Class = "NSToolbarItem"; toolTip = "Print the document"; ObjectID = "338"; */
+"Print the document" = "Druk document af";
+

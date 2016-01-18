@@ -1,0 +1,21 @@
+/* Class = "NSPanel"; title = "Welcome to MindNode Pro"; ObjectID = "1"; */
+"Welcome to MindNode Pro" = "Willkommen bei MindNode Pro";
+
+/* Class = "NSButtonCell"; title = "Try Out"; ObjectID = "5"; */
+"Try Out" = "Ausprobieren";
+
+/* Class = "NSButtonCell"; title = "Register"; ObjectID = "15"; */
+"Register" = "Registrieren";
+
+/* Class = "NSButtonCell"; title = "Purchase License Key"; ObjectID = "20"; */
+"Purchase License Key" = "Lizenz-Schlüssel kaufen";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "42"; */
+"Box" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "Welcome to MindNode Pro"; ObjectID = "47"; */
+"Welcome to MindNode Pro" = "Willkommen bei MindNode Pro";
+
+/* Class = "NSTextFieldCell"; title = "Thank you for trying out MindNode Pro, an elegant and simple-to-use mindmapping application.\n\nThe unregistered version has no time limit and allows you to use every feature of the registered version. The only difference is a 20-node limit and a watermark when printing."; ObjectID = "48"; */
+"Thank you for trying out MindNode Pro, an elegant and simple-to-use mindmapping application.\n\nThe unregistered version has no time limit and allows you to use every feature of the registered version. The only difference is a 20-node limit and a watermark when printing." = "Vielen Dank, dass Sie MindNode Pro – ein elegantes und einfach zu bedienendes Programm für das Erstellen von Mind Maps – ausprobieren.\n\nDie unregistrierte Version hat kein Zeitlimit und erlaubt die Verwendung aller Funktionen der registrierten Version. Der einzige Unterscheid ist ein Limit von 20 Knoten und ein Wasserzeichen beim Drucken.";
+

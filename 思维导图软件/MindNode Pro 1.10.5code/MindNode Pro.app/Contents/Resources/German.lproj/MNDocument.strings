@@ -1,0 +1,35 @@
+﻿/* Class = "NSWindow"; title = "MindNode"; ObjectID = "5"; */
+"MindNode" = "MindNode";
+
+/* Class = "NSToolbarItem"; label = "Inspector"; ObjectID = "154"; */
+"Inspector" = "Inspector";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Inspector"; ObjectID = "154"; */
+"Inspector" = "Informationen";
+
+/* Class = "NSToolbarItem"; toolTip = "Show Inspector Panel"; ObjectID = "154"; */
+"Show Inspector Panel" = "Informationen einblenden";
+
+/* Class = "NSToolbarItem"; label = "Node"; ObjectID = "195"; */
+"Node" = "Node";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Node"; ObjectID = "195"; */
+"Node" = "Knoten";
+
+/* Class = "NSToolbarItem"; label = "Colors"; ObjectID = "225"; */
+"Colors" = "Colors";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Colors"; ObjectID = "225"; */
+"Colors" = "Farben";
+
+/* Class = "NSToolbarItem"; toolTip = "Show Color Panel"; ObjectID = "225"; */
+"Show Color Panel" = "Farbfenster anzeigen";
+
+/* Class = "NSToolbarItem"; label = "Fonts"; ObjectID = "227"; */
+"Fonts" = "Fonts";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Fonts"; ObjectID = "227"; */
+"Fonts" = "Schriften";
+
+/* Class = "NSToolbarItem"; toolTip = "Show Font Panel"; ObjectID = "227"; */
+"Show Font Panel" = "Schriften anzeigen";

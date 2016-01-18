@@ -1,0 +1,21 @@
+/* Class = "NSWindow"; title = "iCloud Documents"; ObjectID = "1"; */
+"iCloud Documents" = "iCloud 書類";
+
+/* Class = "NSToolbarItem"; label = "Search"; ObjectID = "24"; */
+"Search" = "検索";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Search"; ObjectID = "24"; */
+"Search" = "検索";
+
+/* Class = "NSToolbarItem"; label = "Sort by"; ObjectID = "25"; */
+"Sort by" = "表示順";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Sort by"; ObjectID = "25"; */
+"Sort by" = "表示順";
+
+/* Class = "NSSegmentedCell"; 30.ibShadowedLabels[0] = "Date"; ObjectID = "30"; */
+"Date" = "日時";
+
+/* Class = "NSSegmentedCell"; 30.ibShadowedLabels[1] = "Name"; ObjectID = "30"; */
+"Name" = "名前";
+

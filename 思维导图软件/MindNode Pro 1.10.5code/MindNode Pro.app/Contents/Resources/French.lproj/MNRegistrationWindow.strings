@@ -1,0 +1,44 @@
+﻿/* Class = "NSPanel"; title = "Register MindNode Pro"; ObjectID = "1"; */
+"Register MindNode Pro" = "Enregistrer MindNode Pro";
+
+/* Class = "NSButtonCell"; title = "Close"; ObjectID = "218"; */
+"Close" = "Fermer";
+
+/* Class = "NSTextFieldCell"; title = "License Type:"; ObjectID = "233"; */
+"License Type:" = "Type de licence :";
+
+/* Class = "NSTextFieldCell"; title = "Name:"; ObjectID = "234"; */
+"Name:" = "Name:";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Markus Müller"; ObjectID = "280"; */
+"Markus Müller" = "Markus Müller";
+
+/* Class = "NSTextFieldCell"; title = "Name:"; ObjectID = "281"; */
+"Name:" = "Nom :";
+
+/* Class = "NSTextFieldCell"; title = "License Key:"; ObjectID = "282"; */
+"License Key:" = "Clef de licence :";
+
+/* Class = "NSTextFieldCell"; title = "Copy and paste the license key from your purchase confirmation into this field."; ObjectID = "283"; */
+"Copy and paste the license key from your purchase confirmation into this field." = "Copiez et collez ici la clef de licence reçue avec votre confirmation d'achat.";
+
+/* Class = "NSTextFieldCell"; title = "Unable to verify license key."; ObjectID = "284"; */
+"Unable to verify license key." = "Impossible de vérifier la clef de licence.";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "285"; */
+"Cancel" = "Annuler";
+
+/* Class = "NSButtonCell"; title = "Purchase License"; ObjectID = "286"; */
+"Purchase License" = "Acheter une clef de licence";
+
+/* Class = "NSButtonCell"; title = "Register"; ObjectID = "287"; */
+"Register" = "S'enregistrer";
+
+/* Class = "NSTextFieldCell"; title = "Seats:"; ObjectID = "291"; */
+"Seats:" = "Nombre :";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "350"; */
+"Box" = "Box";
+
+/* Class = "NSButtonCell"; title = "Change License"; ObjectID = "370"; */
+"Change License" = "Changer de licence";

@@ -1,0 +1,5 @@
+﻿/* Class = "NSTextFieldCell"; title = "Width"; ObjectID = "20"; */
+"Width" = "Weite";
+
+/* Class = "NSButtonCell"; title = "Shrink Width To Fit"; ObjectID = "26"; */
+"Shrink Width To Fit" = "Weite an Inhalt anpassen";

@@ -1,0 +1,21 @@
+/* Class = "NSMenuItem"; title = "Copy iCloud URL to Pasteboard"; ObjectID = "64"; */
+"Copy iCloud URL to Pasteboard" = "Copiar URL de iCloud al portapapeles";
+
+/* Class = "NSMenuItem"; title = "Open"; ObjectID = "65"; */
+"Open" = "Abrir";
+
+/* Class = "NSMenuItem"; title = "Quick Look"; ObjectID = "82"; */
+"Quick Look" = "Vista rápida";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "145"; */
+"Box" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "149"; */
+"Label" = "Etiqueta";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "152"; */
+"Label" = "Etiqueta";
+
+/* Class = "NSMenuItem"; title = "Move to Trash"; ObjectID = "167"; */
+"Move to Trash" = "Mover a la Papelera";
+

@@ -1,0 +1,38 @@
+﻿/* Class = "NSButtonCell"; title = "Animate changes"; ObjectID = "26"; */
+"Animate changes" = "変更をアニメーションする";
+
+/* Class = "NSButtonCell"; title = "Create a new document"; ObjectID = "43"; */
+"Create a new document" = "新規書類を作成する";
+
+/* Class = "NSTextFieldCell"; title = "Starting:"; ObjectID = "45"; */
+"Starting:" = "起動時:";
+
+/* Class = "NSTextFieldCell"; title = "General:"; ObjectID = "77"; */
+"General:" = "一般:";
+
+/* Class = "NSButtonCell"; title = "Check Now"; ObjectID = "83"; */
+"Check Now" = "今すぐ確認";
+
+/* Class = "NSTextFieldCell"; title = "When checking for updates, MindNode Pro will not send information about your system."; ObjectID = "87"; */
+"When checking for updates, MindNode Pro will not send information about your system." = "アップデートを確認する際、MindNode Pro がシステムに関する情報を送信することはありません。";
+
+/* Class = "NSButtonCell"; title = "Automatically check for updates"; ObjectID = "88"; */
+"Automatically check for updates" = "アップデートを自動で確認する";
+
+/* Class = "NSTextFieldCell"; title = "Software Update:"; ObjectID = "90"; */
+"Software Update:" = "アップデート:";
+
+/* Class = "NSButtonCell"; title = "Active hyperlinks"; ObjectID = "97"; */
+"Active hyperlinks" = "ハイパーリンクを有効にする";
+
+/* Class = "NSButtonCell"; title = "Restore Defaults"; ObjectID = "105"; */
+"Restore Defaults" = "初期設定値に戻す";
+
+/* Class = "NSButtonCell"; title = "Smart link detection"; ObjectID = "109"; */
+"Smart link detection" = "リンクを自動的に検出する";
+
+/* Class = "NSButtonCell"; title = "Enable smart layout for new documents"; ObjectID = "132"; */
+"Enable smart layout for new documents" = "新規書類でスマートレイアウトを有効にする";
+
+/* Class = "NSButtonCell"; title = "Inherit style when reconnecting"; ObjectID = "141"; */
+"Inherit style when reconnecting" = "再接続時にスタイルを継承する";

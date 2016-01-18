@@ -1,0 +1,54 @@
+/* Class = "NSButton"; ibShadowedToolTip = "Automatically decrease the stroke thickness."; ObjectID = "6"; */
+"Automatically decrease the stroke thickness." = "Diminuer automatiquement l'épaisseur de trait.";
+
+/* Class = "NSTextFieldCell"; title = "Stroke Style"; ObjectID = "31"; */
+"Stroke Style" = "Couleur et style de trait";
+
+/* Class = "NSButtonCell"; title = "Decreasing Branch Thickness"; ObjectID = "32"; */
+"Decreasing Branch Thickness" = "Branches qui s'affinent";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "34"; */
+"OtherViews" = "OtherViews";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "36"; */
+"OtherViews" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "1 pt"; ObjectID = "37"; */
+"1 pt" = "1 pt";
+
+/* Class = "NSMenuItem"; title = "2 pt"; ObjectID = "38"; */
+"2 pt" = "2 pt";
+
+/* Class = "NSMenuItem"; title = "3 pt"; ObjectID = "39"; */
+"3 pt" = "3 pt";
+
+/* Class = "NSMenuItem"; title = "4 pt"; ObjectID = "40"; */
+"4 pt" = "4 pt";
+
+/* Class = "NSMenuItem"; title = "5 pt"; ObjectID = "41"; */
+"5 pt" = "5 pt";
+
+/* Class = "NSMenuItem"; title = "6 pt"; ObjectID = "42"; */
+"6 pt" = "6 pt";
+
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "454"; */
+"Radio" = "Radio";
+
+/* Class = "NSButtonCell"; title = "Filled"; ObjectID = "455"; */
+"Filled" = "Couleur";
+
+/* Class = "NSButtonCell"; title = "Branch"; ObjectID = "456"; */
+"Branch" = "Branche";
+
+/* Class = "NSTextFieldCell"; title = "Shape"; ObjectID = "457"; */
+"Shape" = "Forme";
+
+/* Class = "NSTextFieldCell"; title = "Endpoints:"; ObjectID = "514"; */
+"Endpoints:" = "Points de terminaison :";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "517"; */
+"OtherViews" = "OtherViews";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "523"; */
+"OtherViews" = "OtherViews";
+

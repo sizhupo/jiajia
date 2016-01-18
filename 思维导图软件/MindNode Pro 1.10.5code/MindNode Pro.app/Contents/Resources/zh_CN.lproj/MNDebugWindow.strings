@@ -1,0 +1,129 @@
+/* Class = "NSPanel"; title = "Debug Window"; ObjectID = "46"; */
+"Debug Window" = "调试窗口";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "57"; */
+"Text Cell" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Nodes"; ObjectID = "73"; */
+"Nodes" = "节点";
+
+/* Class = "NSTextFieldCell"; title = "Warning: This window allows access to experimental features. Only use them if you know what you are doing!"; ObjectID = "80"; */
+"Warning: This window allows access to experimental features. Only use them if you know what you are doing!" = "警告：此窗口允许使用实验性的功能。请在明白您在做什么的前提下使用他们。";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "88"; */
+"Text Cell" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Root Nodes"; ObjectID = "89"; */
+"Root Nodes" = "根节点";
+
+/* Class = "NSTabViewItem"; label = "Canvas"; ObjectID = "148"; */
+"Canvas" = "画布";
+
+/* Class = "NSTabViewItem"; label = "Node"; ObjectID = "150"; */
+"Node" = "节点";
+
+/* Class = "NSTextFieldCell"; title = "Size"; ObjectID = "157"; */
+"Size" = "大小";
+
+/* Class = "NSTextFieldCell"; title = "Location"; ObjectID = "159"; */
+"Location" = "位置";
+
+/* Class = "NSTextFieldCell"; title = "Storage"; ObjectID = "160"; */
+"Storage" = "储存";
+
+/* Class = "NSTextFieldCell"; title = "Attributes"; ObjectID = "178"; */
+"Attributes" = "属性";
+
+/* Class = "NSTextFieldCell"; title = "ID"; ObjectID = "181"; */
+"ID" = "ID";
+
+/* Class = "NSButtonCell"; title = "foldSubnodes"; ObjectID = "190"; */
+"foldSubnodes" = "折叠子结点";
+
+/* Class = "NSButtonCell"; title = "isFolded"; ObjectID = "192"; */
+"isFolded" = "已折叠";
+
+/* Class = "NSTextFieldCell"; title = "Fill"; ObjectID = "194"; */
+"Fill" = "填充";
+
+/* Class = "NSTextFieldCell"; title = "Title"; ObjectID = "196"; */
+"Title" = "标题";
+
+/* Class = "NSButtonCell"; title = "Is Resizing Due To Title Update"; ObjectID = "198"; */
+"Is Resizing Due To Title Update" = "正在由于标题更新而更改大小";
+
+/* Class = "NSTextFieldCell"; title = "Graphical Attributes"; ObjectID = "200"; */
+"Graphical Attributes" = "图像属性";
+
+/* Class = "NSTextFieldCell"; title = "Node Width"; ObjectID = "204"; */
+"Node Width" = "节点宽度";
+
+/* Class = "NSButtonCell"; title = "Is Drawing Fill"; ObjectID = "206"; */
+"Is Drawing Fill" = "正在绘制填充";
+
+/* Class = "NSTextFieldCell"; title = "Fill Color"; ObjectID = "209"; */
+"Fill Color" = "填充色";
+
+/* Class = "NSTextFieldCell"; title = "Folding"; ObjectID = "211"; */
+"Folding" = "折叠中";
+
+/* Class = "NSButtonCell"; title = "Is Constraining Node Width"; ObjectID = "213"; */
+"Is Constraining Node Width" = "正在约束节点宽度";
+
+/* Class = "NSButtonCell"; title = "Is Drawing Inverse"; ObjectID = "215"; */
+"Is Drawing Inverse" = "正在绘制反色";
+
+/* Class = "NSTextFieldCell"; title = "Stroke"; ObjectID = "217"; */
+"Stroke" = "划线";
+
+/* Class = "NSButtonCell"; title = "Decreasing Branch Thickness"; ObjectID = "226"; */
+"Decreasing Branch Thickness" = "降低分支厚度";
+
+/* Class = "NSTextFieldCell"; title = "1 pt"; ObjectID = "234"; */
+"1 pt" = "1 像素";
+
+/* Class = "NSTabViewItem"; label = "Features"; ObjectID = "285"; */
+"Features" = "功能";
+
+/* Class = "NSButtonCell"; title = "Crash MindNode"; ObjectID = "291"; */
+"Crash MindNode" = "崩溃 MindNode";
+
+/* Class = "NSSegmentedCell"; 292.ibShadowedLabels[0] = "<"; ObjectID = "292"; */
+"<" = "<";
+
+/* Class = "NSSegmentedCell"; 292.ibShadowedLabels[1] = ">"; ObjectID = "292"; */
+">" = ">";
+
+/* Class = "NSTextFieldCell"; title = "Crash Reporter Testing"; ObjectID = "293"; */
+"Crash Reporter Testing" = "崩溃报告测试";
+
+/* Class = "NSTextFieldCell"; title = "Alignment"; ObjectID = "294"; */
+"Alignment" = "对齐";
+
+/* Class = "NSButtonCell"; title = "iPhone Sharing"; ObjectID = "360"; */
+"iPhone Sharing" = "iPhone 共享";
+
+/* Class = "NSTextFieldCell"; title = "Sharing"; ObjectID = "362"; */
+"Sharing" = "共享";
+
+/* Class = "NSTabViewItem"; label = "Application"; ObjectID = "365"; */
+"Application" = "应用程序";
+
+/* Class = "NSButtonCell"; title = "Show user guide when creating new documents"; ObjectID = "370"; */
+"Show user guide when creating new documents" = "在新建文档时显示使用指导";
+
+/* Class = "NSTextFieldCell"; title = "General"; ObjectID = "371"; */
+"General" = "常规";
+
+/* Class = "NSButtonCell"; title = "Ignore background when drawing off screen"; ObjectID = "372"; */
+"Ignore background when drawing off screen" = "在退去屏幕时忽略背景";
+
+/* Class = "NSButtonCell"; title = "Also check for unstable and beta releases (requires restart)"; ObjectID = "374"; */
+"Also check for unstable and beta releases (requires restart)" = "也检查不稳定和测试版本（要求重启）";
+
+/* Class = "NSTextFieldCell"; title = "Software Update"; ObjectID = "376"; */
+"Software Update" = "软件更新";
+
+/* Class = "NSButtonCell"; title = "Enable developer features"; ObjectID = "384"; */
+"Enable developer features" = "启用开发者功能";
+

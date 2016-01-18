@@ -1,0 +1,21 @@
+/* Class = "NSPanel"; title = "Welcome to MindNode Pro"; ObjectID = "1"; */
+"Welcome to MindNode Pro" = "Welkom bij MindNode Pro";
+
+/* Class = "NSButtonCell"; title = "Try Out"; ObjectID = "5"; */
+"Try Out" = "Probeer";
+
+/* Class = "NSButtonCell"; title = "Register"; ObjectID = "15"; */
+"Register" = "Registreer";
+
+/* Class = "NSButtonCell"; title = "Purchase License Key"; ObjectID = "20"; */
+"Purchase License Key" = "Koop licentiesleutel";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "42"; */
+"Box" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "Welcome to MindNode Pro"; ObjectID = "47"; */
+"Welcome to MindNode Pro" = "Welkom bij MindNode Pro";
+
+/* Class = "NSTextFieldCell"; title = "Thank you for trying out MindNode Pro, an elegant and simple-to-use mindmapping application.\n\nThe unregistered version has no time limit and allows you to use every feature of the registered version. The only difference is a 20-node limit and a watermark when printing."; ObjectID = "48"; */
+"Thank you for trying out MindNode Pro, an elegant and simple-to-use mindmapping application.\n\nThe unregistered version has no time limit and allows you to use every feature of the registered version. The only difference is a 20-node limit and a watermark when printing." = "Dank u om MindNode Pro, een elegant en gebruiksvriendelijk programma voor mindmaps, uit te proberen.\n\nDe niet-geregistreerde versie heeft geen vervaldatum en laat u toe elke functie van de geregistreerde versie te gebruiken. Het enige verschil is de beperking van 20 knopen en een watermerk bij het afdrukken.";
+

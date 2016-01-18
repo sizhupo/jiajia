@@ -1,0 +1,486 @@
+/* Class = "NSMenu"; title = "MainMenu"; ObjectID = "29"; */
+"MainMenu" = "Hoofdmenu";
+
+/* Class = "NSMenuItem"; title = "MindNode Pro"; ObjectID = "56"; */
+"MindNode Pro" = "MindNode Pro";
+
+/* Class = "NSMenu"; title = "MindNode Pro"; ObjectID = "57"; */
+"MindNode Pro" = "MindNode Pro";
+
+/* Class = "NSMenuItem"; title = "About MindNode Pro"; ObjectID = "58"; */
+"About MindNode Pro" = "Over MindNode Pro";
+
+/* Class = "NSMenuItem"; title = "Open…"; ObjectID = "72"; */
+"Open…" = "Open…";
+
+/* Class = "NSMenuItem"; title = "Close"; ObjectID = "73"; */
+"Close" = "Stop";
+
+/* Class = "NSMenuItem"; title = "Save"; ObjectID = "75"; */
+"Save" = "Bewaar";
+
+/* Class = "NSMenuItem"; title = "Print…"; ObjectID = "78"; */
+"Print…" = "Druk af...";
+
+/* Class = "NSMenuItem"; title = "Save As…"; ObjectID = "80"; */
+"Save As…" = "Bewaar als...";
+
+/* Class = "NSMenu"; title = "File"; ObjectID = "81"; */
+"File" = "Archief";
+
+/* Class = "NSMenuItem"; title = "New"; ObjectID = "82"; */
+"New" = "Nieuw";
+
+/* Class = "NSMenuItem"; title = "File"; ObjectID = "83"; */
+"File" = "Archief";
+
+/* Class = "NSMenuItem"; title = "Help"; ObjectID = "103"; */
+"Help" = "Help";
+
+/* Class = "NSMenu"; title = "Help"; ObjectID = "106"; */
+"Help" = "Help";
+
+/* Class = "NSMenuItem"; title = "MindNode Pro Help"; ObjectID = "111"; */
+"MindNode Pro Help" = "MindNode Pro Help";
+
+/* Class = "NSMenuItem"; title = "Revert to Saved"; ObjectID = "112"; */
+"Revert to Saved" = "Laatst bewaarde versie";
+
+/* Class = "NSMenuItem"; title = "Open Recent"; ObjectID = "124"; */
+"Open Recent" = "Open recente bestanden";
+
+/* Class = "NSMenu"; title = "Open Recent"; ObjectID = "125"; */
+"Open Recent" = "Open recente bestanden";
+
+/* Class = "NSMenuItem"; title = "Clear Menu"; ObjectID = "126"; */
+"Clear Menu" = "Wis menu";
+
+/* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "129"; */
+"Preferences…" = "Voorkeuren...";
+
+/* Class = "NSMenu"; title = "Services"; ObjectID = "130"; */
+"Services" = "Voorzieningen";
+
+/* Class = "NSMenuItem"; title = "Services"; ObjectID = "131"; */
+"Services" = "Voorzieningen";
+
+/* Class = "NSMenuItem"; title = "Hide MindNode Pro"; ObjectID = "134"; */
+"Hide MindNode Pro" = "Verberg MindNode Pro";
+
+/* Class = "NSMenuItem"; title = "Quit MindNode Pro"; ObjectID = "136"; */
+"Quit MindNode Pro" = "Stop MindNode Pro";
+
+/* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "145"; */
+"Hide Others" = "Verberg andere";
+
+/* Class = "NSMenuItem"; title = "Show All"; ObjectID = "150"; */
+"Show All" = "Toon alles";
+
+/* Class = "NSMenuItem"; title = "Copy"; ObjectID = "157"; */
+"Copy" = "Kopieer";
+
+/* Class = "NSMenuItem"; title = "Undo"; ObjectID = "158"; */
+"Undo" = "Herstel";
+
+/* Class = "NSMenuItem"; title = "Cut"; ObjectID = "160"; */
+"Cut" = "Knip";
+
+/* Class = "NSMenuItem"; title = "Edit"; ObjectID = "163"; */
+"Edit" = "Wijzig";
+
+/* Class = "NSMenuItem"; title = "Delete"; ObjectID = "164"; */
+"Delete" = "Verwijder";
+
+/* Class = "NSMenu"; title = "Edit"; ObjectID = "169"; */
+"Edit" = "Wijzig";
+
+/* Class = "NSMenuItem"; title = "Paste"; ObjectID = "171"; */
+"Paste" = "Plak";
+
+/* Class = "NSMenuItem"; title = "Select All"; ObjectID = "172"; */
+"Select All" = "Selecteer alles";
+
+/* Class = "NSMenuItem"; title = "Redo"; ObjectID = "173"; */
+"Redo" = "Opnieuw\n";
+
+/* Class = "NSMenuItem"; title = "Spelling and Grammar"; ObjectID = "184"; */
+"Spelling and Grammar" = "Spelling en grammatica";
+
+/* Class = "NSMenu"; title = "Spelling and Grammar"; ObjectID = "185"; */
+"Spelling and Grammar" = "Spelling en grammatica";
+
+/* Class = "NSMenuItem"; title = "Show Spelling"; ObjectID = "187"; */
+"Show Spelling" = "Toon spelling";
+
+/* Class = "NSMenuItem"; title = "Check Spelling"; ObjectID = "189"; */
+"Check Spelling" = "Controleer spelling";
+
+/* Class = "NSMenuItem"; title = "Check Spelling While Typing"; ObjectID = "191"; */
+"Check Spelling While Typing" = "Controleer spelling tijdens typen";
+
+/* Class = "NSMenuItem"; title = "Speech"; ObjectID = "220"; */
+"Speech" = "Spraak";
+
+/* Class = "NSMenu"; title = "Speech"; ObjectID = "221"; */
+"Speech" = "Spraak";
+
+/* Class = "NSMenuItem"; title = "Start Speaking"; ObjectID = "222"; */
+"Start Speaking" = "Start spraakfunctie";
+
+/* Class = "NSMenuItem"; title = "Stop Speaking"; ObjectID = "223"; */
+"Stop Speaking" = "Stop spraakfunctie";
+
+/* Class = "NSMenuItem"; title = "Check Grammar With Spelling"; ObjectID = "228"; */
+"Check Grammar With Spelling" = "Controleer grammatica tegelijk met spelling";
+
+/* Class = "NSMenuItem"; title = "Window"; ObjectID = "239"; */
+"Window" = "Venster";
+
+/* Class = "NSMenu"; title = "Window"; ObjectID = "240"; */
+"Window" = "Venster";
+
+/* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "241"; */
+"Minimize" = "Minimaliseer";
+
+/* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "243"; */
+"Bring All to Front" = "Alles op voorgrond";
+
+/* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "244"; */
+"Zoom" = "Zoom";
+
+/* Class = "NSMenuItem"; title = "View"; ObjectID = "330"; */
+"View" = "Weergave";
+
+/* Class = "NSMenu"; title = "View"; ObjectID = "331"; */
+"View" = "Weergave";
+
+/* Class = "NSMenuItem"; title = "Show Toolbar"; ObjectID = "334"; */
+"Show Toolbar" = "Toon knoppenbalk";
+
+/* Class = "NSMenuItem"; title = "Customize Toolbar…"; ObjectID = "336"; */
+"Customize Toolbar…" = "Pas knoppenbalk aan...";
+
+/* Class = "NSMenuItem"; title = "Export..."; ObjectID = "425"; */
+"Export..." = "Exporteer...";
+
+/* Class = "NSMenuItem"; title = "Node"; ObjectID = "443"; */
+"Node" = "Knoop";
+
+/* Class = "NSMenu"; title = "Node"; ObjectID = "444"; */
+"Node" = "Knoop";
+
+/* Class = "NSMenuItem"; title = "New Child Node"; ObjectID = "445"; */
+"New Child Node" = "Nieuwe onderliggende knoop";
+
+/* Class = "NSMenuItem"; title = "New Sibling Node"; ObjectID = "462"; */
+"New Sibling Node" = "Nieuwe zusterknoop";
+
+/* Class = "NSMenuItem"; title = "Center Main Node"; ObjectID = "469"; */
+"Center Main Node" = "Centreer basisknoop";
+
+/* Class = "NSMenuItem"; title = "Paste And Match Style"; ObjectID = "496"; */
+"Paste And Match Style" = "Plak en pas stijl aan";
+
+/* Class = "NSMenuItem"; title = "Visit Website"; ObjectID = "498"; */
+"Visit Website" = "Bezoek website";
+
+/* Class = "NSMenuItem"; title = "Send Feedback"; ObjectID = "499"; */
+"Send Feedback" = "Verstuur feedback";
+
+/* Class = "NSMenuItem"; title = "Debug"; ObjectID = "513"; */
+"Debug" = "Foutopsporing";
+
+/* Class = "NSMenu"; title = "Debug"; ObjectID = "514"; */
+"Debug" = "Foutopsporing";
+
+/* Class = "NSMenuItem"; title = "Show Debug Window"; ObjectID = "515"; */
+"Show Debug Window" = "Toon venster voor foutopsporing";
+
+/* Class = "NSMenuItem"; title = "New Main Node"; ObjectID = "519"; */
+"New Main Node" = "Nieuwe basisknoop";
+
+/* Class = "NSMenuItem"; title = "Next Main Nodes"; ObjectID = "532"; */
+"Next Main Nodes" = "Volgende basisknopen";
+
+/* Class = "NSMenuItem"; title = "Previous Main Nodes"; ObjectID = "533"; */
+"Previous Main Nodes" = "Vorige basisknopen";
+
+/* Class = "NSMenuItem"; title = "Deselect All"; ObjectID = "536"; */
+"Deselect All" = "Maak selectie ongedaan";
+
+/* Class = "NSMenuItem"; title = "Duplicate"; ObjectID = "539"; */
+"Duplicate" = "Dupliceer";
+
+/* Class = "NSMenuItem"; ibShadowedToolTip = "Reorder the selected nodes to balance the subbranch"; ObjectID = "547"; */
+"Reorder the selected nodes to balance the subbranch" = "Wijzig volgorde van geselecteerde knopen om subtak in evenwicht te brengen";
+
+/* Class = "NSMenuItem"; title = "Reorganize Nodes"; ObjectID = "547"; */
+"Reorganize Nodes" = "Reorganiseer knopen";
+
+/* Class = "NSMenuItem"; title = "Fold Nodes"; ObjectID = "567"; */
+"Fold Nodes" = "Klap knopen in";
+
+/* Class = "NSMenuItem"; title = "Unfold Nodes"; ObjectID = "569"; */
+"Unfold Nodes" = "Klap knopen uit";
+
+/* Class = "NSMenuItem"; title = "Fold All Nodes"; ObjectID = "577"; */
+"Fold All Nodes" = "Klap alle knopen in";
+
+/* Class = "NSMenuItem"; title = "Unfold All Nodes"; ObjectID = "579"; */
+"Unfold All Nodes" = "Klap alle knopen uit";
+
+/* Class = "NSMenuItem"; title = "Detach Nodes"; ObjectID = "583"; */
+"Detach Nodes" = "Koppel knopen los";
+
+/* Class = "NSMenuItem"; title = "Page Setup…"; ObjectID = "672"; */
+"Page Setup…" = "Pagina-instelling";
+
+/* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "678"; */
+"Zoom" = "Zoom";
+
+/* Class = "NSMenu"; title = "Zoom"; ObjectID = "679"; */
+"Zoom" = "Zoom";
+
+/* Class = "NSMenuItem"; title = "Zoom In"; ObjectID = "680"; */
+"Zoom In" = "Zoom in";
+
+/* Class = "NSMenuItem"; title = "Zoom Out"; ObjectID = "681"; */
+"Zoom Out" = "Zoom uit";
+
+/* Class = "NSMenuItem"; title = "Actual Size"; ObjectID = "682"; */
+"Actual Size" = "Werkelijke grootte";
+
+/* Class = "NSMenuItem"; title = "Fit Mind Map"; ObjectID = "683"; */
+"Fit Mind Map" = "Mind Map passend maken";
+
+/* Class = "NSMenuItem"; title = "Fit Selection"; ObjectID = "690"; */
+"Fit Selection" = "Selectie passend maken";
+
+/* Class = "NSMenuItem"; title = "Create Connection"; ObjectID = "693"; */
+"Create Connection" = "Maak verbinding";
+
+/* Class = "NSMenuItem"; title = "Acknowledgments"; ObjectID = "700"; */
+"Acknowledgments" = "Colofon";
+
+/* Class = "NSMenuItem"; title = "Copy MindMap As Image"; ObjectID = "705"; */
+"Copy MindMap As Image" = "Kopieer MindMap als afbeelding";
+
+/* Class = "NSMenuItem"; title = "Insert New Parent Node"; ObjectID = "723"; */
+"Insert New Parent Node" = "Nieuwe bovenliggende knoop";
+
+/* Class = "NSMenuItem"; title = "Smart Layout"; ObjectID = "733"; */
+"Smart Layout" = "Slimme lay-out";
+
+/* Class = "NSMenuItem"; title = "Show Quick Look"; ObjectID = "761"; */
+"Show Quick Look" = "Toon snelle weergave";
+
+/* Class = "NSMenuItem"; title = "Show Inspector"; ObjectID = "771"; */
+"Show Inspector" = "Toon infovenster";
+
+/* Class = "NSMenuItem"; title = "Document Inspector"; ObjectID = "772"; */
+"Document Inspector" = "Documentinfo";
+
+/* Class = "NSMenuItem"; title = "Style Inspector"; ObjectID = "773"; */
+"Style Inspector" = "Stijl infovenster";
+
+/* Class = "NSMenuItem"; title = "Text Inspector"; ObjectID = "774"; */
+"Text Inspector" = "Tekstinfo";
+
+/* Class = "NSMenuItem"; title = "Show in Finder"; ObjectID = "780"; */
+"Show in Finder" = "Toon in Finder";
+
+/* Class = "NSMenuItem"; title = "Add Text Link…"; ObjectID = "789"; */
+"Add Text Link…" = "Voeg tekstkoppeling toe…";
+
+/* Class = "NSMenuItem"; title = "Unfold One Level"; ObjectID = "792"; */
+"Unfold One Level" = "Klap een niveau uit";
+
+/* Class = "NSMenuItem"; title = "Enter Full Screen"; ObjectID = "794"; */
+"Enter Full Screen" = "Schermvullende weergave aan";
+
+/* Class = "NSMenuItem"; title = "MindNode Pro User Guide"; ObjectID = "796"; */
+"MindNode Pro User Guide" = "MindNode Pro-gebruikershandleiding";
+
+/* Class = "NSMenuItem"; title = "Find"; ObjectID = "797"; */
+"Find" = "Zoek";
+
+/* Class = "NSMenu"; title = "Find"; ObjectID = "798"; */
+"Find" = "Zoek";
+
+/* Class = "NSMenuItem"; title = "Use Selection for Find"; ObjectID = "799"; */
+"Use Selection for Find" = "Gebruik selectie voor zoekactie";
+
+/* Class = "NSMenuItem"; title = "Find Previous"; ObjectID = "800"; */
+"Find Previous" = "Zoek vorige";
+
+/* Class = "NSMenuItem"; title = "Find Next"; ObjectID = "801"; */
+"Find Next" = "Zoek volgende";
+
+/* Class = "NSMenuItem"; title = "Find…"; ObjectID = "802"; */
+"Find…" = "Zoek...";
+
+/* Class = "NSMenuItem"; title = "Move to iCloud"; ObjectID = "850"; */
+"Move to iCloud" = "Verplaats naar iCloud";
+
+/* Class = "NSMenuItem"; title = "iCloud"; ObjectID = "863"; */
+"iCloud" = "iCloud";
+
+/* Class = "NSMenu"; title = "iCloud"; ObjectID = "864"; */
+"iCloud" = "iCloud";
+
+/* Class = "NSMenuItem"; title = "Open iCloud Document…"; ObjectID = "866"; */
+"Open iCloud Document…" = "Open iCloud-document...";
+
+/* Class = "NSMenuItem"; title = "iPhone Sharing…"; ObjectID = "871"; */
+"iPhone Sharing…" = "iPhone-deling...";
+
+/* Class = "NSMenuItem"; title = "Copy iCloud URL to Pasteboard"; ObjectID = "876"; */
+"Copy iCloud URL to Pasteboard" = "Kopieer URL van iCloud naar plakbord";
+
+/* Class = "NSMenuItem"; title = "Hide Status Bar"; ObjectID = "897"; */
+"Hide Status Bar" = "Verberg statusbalk";
+
+/* Class = "NSMenuItem"; title = "Format"; ObjectID = "953"; */
+"Format" = "Structuur";
+
+/* Class = "NSMenu"; title = "Format"; ObjectID = "954"; */
+"Format" = "Structuur";
+
+/* Class = "NSMenuItem"; title = "Font"; ObjectID = "955"; */
+"Font" = "Lettertype";
+
+/* Class = "NSMenuItem"; title = "Text"; ObjectID = "956"; */
+"Text" = "Tekst";
+
+/* Class = "NSMenu"; title = "Text"; ObjectID = "957"; */
+"Text" = "Tekst";
+
+/* Class = "NSMenuItem"; title = "Align Left"; ObjectID = "958"; */
+"Align Left" = "Lijn links uit";
+
+/* Class = "NSMenuItem"; title = "Center"; ObjectID = "959"; */
+"Center" = "Centreer";
+
+/* Class = "NSMenuItem"; title = "Justify"; ObjectID = "960"; */
+"Justify" = "Vul uit";
+
+/* Class = "NSMenuItem"; title = "Align Right"; ObjectID = "961"; */
+"Align Right" = "Lijn rechts uit";
+
+/* Class = "NSMenuItem"; title = "Writing Direction"; ObjectID = "963"; */
+"Writing Direction" = "Schrijfrichting";
+
+/* Class = "NSMenu"; title = "Writing Direction"; ObjectID = "968"; */
+"Writing Direction" = "Schrijfrichting";
+
+/* Class = "NSMenuItem"; title = "Paragraph"; ObjectID = "969"; */
+"Paragraph" = "Paragraaf";
+
+/* Class = "NSMenuItem"; title = "\tDefault"; ObjectID = "970"; */
+"\tDefault" = "Standaard";
+
+/* Class = "NSMenuItem"; title = "\tLeft to Right"; ObjectID = "971"; */
+"\tLeft to Right" = "\tLinks naar rechts";
+
+/* Class = "NSMenuItem"; title = "\tRight to Left"; ObjectID = "972"; */
+"\tRight to Left" = "\tRechts naar links";
+
+/* Class = "NSMenuItem"; title = "Selection"; ObjectID = "974"; */
+"Selection" = "Selectie";
+
+/* Class = "NSMenuItem"; title = "\tDefault"; ObjectID = "975"; */
+"\tDefault" = "Standaard";
+
+/* Class = "NSMenuItem"; title = "\tLeft to Right"; ObjectID = "976"; */
+"\tLeft to Right" = "\tLinks naar rechts";
+
+/* Class = "NSMenuItem"; title = "\tRight to Left"; ObjectID = "977"; */
+"\tRight to Left" = "\tRechts naar links";
+
+/* Class = "NSMenu"; title = "Font"; ObjectID = "978"; */
+"Font" = "Lettertype";
+
+/* Class = "NSMenuItem"; title = "Show Fonts"; ObjectID = "979"; */
+"Show Fonts" = "Toon lettertypen";
+
+/* Class = "NSMenuItem"; title = "Bold"; ObjectID = "980"; */
+"Bold" = "Vet";
+
+/* Class = "NSMenuItem"; title = "Italic"; ObjectID = "981"; */
+"Italic" = "Cursief";
+
+/* Class = "NSMenuItem"; title = "Underline"; ObjectID = "982"; */
+"Underline" = "Onderstreept";
+
+/* Class = "NSMenuItem"; title = "Bigger"; ObjectID = "984"; */
+"Bigger" = "Groter";
+
+/* Class = "NSMenuItem"; title = "Smaller"; ObjectID = "985"; */
+"Smaller" = "Kleiner";
+
+/* Class = "NSMenuItem"; title = "Kern"; ObjectID = "987"; */
+"Kern" = "Spatiëring";
+
+/* Class = "NSMenuItem"; title = "Ligatures"; ObjectID = "988"; */
+"Ligatures" = "Ligaturen";
+
+/* Class = "NSMenuItem"; title = "Baseline"; ObjectID = "989"; */
+"Baseline" = "Basislijn";
+
+/* Class = "NSMenuItem"; title = "Show Colors"; ObjectID = "991"; */
+"Show Colors" = "Toon kleuren";
+
+/* Class = "NSMenuItem"; title = "Copy Style"; ObjectID = "993"; */
+"Copy Style" = "Kopieer stijl";
+
+/* Class = "NSMenuItem"; title = "Paste Style"; ObjectID = "994"; */
+"Paste Style" = "Plak stijl";
+
+/* Class = "NSMenu"; title = "Baseline"; ObjectID = "995"; */
+"Baseline" = "Basislijn";
+
+/* Class = "NSMenuItem"; title = "Use Default"; ObjectID = "996"; */
+"Use Default" = "Gebruik standaard";
+
+/* Class = "NSMenuItem"; title = "Superscript"; ObjectID = "997"; */
+"Superscript" = "Superscript";
+
+/* Class = "NSMenuItem"; title = "Subscript"; ObjectID = "998"; */
+"Subscript" = "Subscript";
+
+/* Class = "NSMenuItem"; title = "Raise"; ObjectID = "999"; */
+"Raise" = "Omhoog";
+
+/* Class = "NSMenuItem"; title = "Lower"; ObjectID = "1000"; */
+"Lower" = "Lager";
+
+/* Class = "NSMenu"; title = "Ligatures"; ObjectID = "1001"; */
+"Ligatures" = "Ligaturen";
+
+/* Class = "NSMenuItem"; title = "Use Default"; ObjectID = "1002"; */
+"Use Default" = "Gebruik standaard";
+
+/* Class = "NSMenuItem"; title = "Use None"; ObjectID = "1003"; */
+"Use None" = "Geen";
+
+/* Class = "NSMenuItem"; title = "Use All"; ObjectID = "1004"; */
+"Use All" = "Alle";
+
+/* Class = "NSMenu"; title = "Kern"; ObjectID = "1005"; */
+"Kern" = "Spatiëring";
+
+/* Class = "NSMenuItem"; title = "Use Default"; ObjectID = "1006"; */
+"Use Default" = "Gebruik standaard";
+
+/* Class = "NSMenuItem"; title = "Use None"; ObjectID = "1007"; */
+"Use None" = "Geen";
+
+/* Class = "NSMenuItem"; title = "Tighten"; ObjectID = "1008"; */
+"Tighten" = "Versmald";
+
+/* Class = "NSMenuItem"; title = "Loosen"; ObjectID = "1009"; */
+"Loosen" = "Uitgerekt";
+
+/* Class = "NSMenuItem"; title = "Strikethrough"; ObjectID = "1044"; */
+"Strikethrough" = "Doorgehaald";
+

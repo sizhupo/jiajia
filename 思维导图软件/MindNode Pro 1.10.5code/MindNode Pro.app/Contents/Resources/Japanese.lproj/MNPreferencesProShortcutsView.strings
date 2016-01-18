@@ -1,0 +1,177 @@
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "27"; */
+"OtherViews" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Return Key"; ObjectID = "28"; */
+"Return Key" = "Return キー";
+
+/* Class = "NSMenuItem"; title = "Command - Return Key"; ObjectID = "29"; */
+"Command - Return Key" = "Command ＋ Return キー";
+
+/* Class = "NSMenuItem"; title = "Shift - Return Key"; ObjectID = "30"; */
+"Shift - Return Key" = "Shift ＋ Return キー";
+
+/* Class = "NSTextFieldCell"; title = "Create new child node:"; ObjectID = "32"; */
+"Create new child node:" = "新規子ノードを作成：";
+
+/* Class = "NSTextFieldCell"; title = "Create new sibling node:"; ObjectID = "36"; */
+"Create new sibling node:" = "新規兄弟ノードを作成：";
+
+/* Class = "NSTextFieldCell"; title = "Create new main node:"; ObjectID = "38"; */
+"Create new main node:" = "新規メインノードを作成：";
+
+/* Class = "NSTextFieldCell"; title = "Option...⌥  Command...⌘  Shift...⇧"; ObjectID = "44"; */
+"Option...⌥  Command...⌘  Shift...⇧" = "Option…⌥  Command…⌘  Shift…⇧";
+
+/* Class = "NSMenuItem"; title = "Tab Key"; ObjectID = "47"; */
+"Tab Key" = "Tab キー";
+
+/* Class = "NSMenuItem"; title = "Option - Tab Key"; ObjectID = "49"; */
+"Option - Tab Key" = "Option ＋ Tab キー";
+
+/* Class = "NSMenuItem"; title = "Shift - Tab Key"; ObjectID = "50"; */
+"Shift - Tab Key" = "Shift ＋ Tab キー";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "53"; */
+"OtherViews" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Shift - Tab Key"; ObjectID = "54"; */
+"Shift - Tab Key" = "Shift ＋ Tab キー";
+
+/* Class = "NSMenuItem"; title = "Option - Tab Key"; ObjectID = "55"; */
+"Option - Tab Key" = "Option ＋ Tab キー";
+
+/* Class = "NSMenuItem"; title = "Tab Key"; ObjectID = "57"; */
+"Tab Key" = "Tab キー";
+
+/* Class = "NSMenuItem"; title = "Return Key"; ObjectID = "59"; */
+"Return Key" = "Return キー";
+
+/* Class = "NSMenuItem"; title = "Command - Return Key"; ObjectID = "60"; */
+"Command - Return Key" = "Command ＋ Return キー";
+
+/* Class = "NSMenuItem"; title = "Shift - Return Key"; ObjectID = "61"; */
+"Shift - Return Key" = "Shift ＋ Return キー";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "64"; */
+"OtherViews" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Shift - Return Key"; ObjectID = "65"; */
+"Shift - Return Key" = "Shift ＋ Return キー";
+
+/* Class = "NSMenuItem"; title = "Command - Return Key"; ObjectID = "66"; */
+"Command - Return Key" = "Command ＋ Return キー";
+
+/* Class = "NSMenuItem"; title = "Return Key"; ObjectID = "67"; */
+"Return Key" = "Return キー";
+
+/* Class = "NSMenuItem"; title = "Tab Key"; ObjectID = "69"; */
+"Tab Key" = "Tab キー";
+
+/* Class = "NSMenuItem"; title = "Option - Tab Key"; ObjectID = "71"; */
+"Option - Tab Key" = "Option ＋ Tab キー";
+
+/* Class = "NSMenuItem"; title = "Shift - Tab Key"; ObjectID = "72"; */
+"Shift - Tab Key" = "Shift ＋ Tab キー";
+
+/* Class = "NSTextFieldCell"; title = "Node Creation:"; ObjectID = "82"; */
+"Node Creation:" = "ノード作成";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "84"; */
+"None" = "なし";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "89"; */
+"None" = "なし";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "90"; */
+"None" = "なし";
+
+/* Class = "NSTextFieldCell"; title = "Editing:"; ObjectID = "101"; */
+"Editing:" = "編集";
+
+/* Class = "NSTextFieldCell"; title = "Edit Node:"; ObjectID = "102"; */
+"Edit Node:" = "編集ノード：";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "104"; */
+"OtherViews" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Option - Tab Key"; ObjectID = "105"; */
+"Option - Tab Key" = "Option ＋ Tab キー";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "106"; */
+"None" = "なし";
+
+/* Class = "NSMenuItem"; title = "Shift - Tab Key"; ObjectID = "108"; */
+"Shift - Tab Key" = "Shift ＋ Tab キー";
+
+/* Class = "NSMenuItem"; title = "Tab Key"; ObjectID = "109"; */
+"Tab Key" = "Tab キー";
+
+/* Class = "NSMenuItem"; title = "Return Key"; ObjectID = "111"; */
+"Return Key" = "Return キー";
+
+/* Class = "NSMenuItem"; title = "Command - Return Key"; ObjectID = "112"; */
+"Command - Return Key" = "Command ＋ Return キー";
+
+/* Class = "NSMenuItem"; title = "Shift - Return Key"; ObjectID = "113"; */
+"Shift - Return Key" = "Shift ＋ Return キー";
+
+/* Class = "NSMenuItem"; title = "Option - Return Key"; ObjectID = "114"; */
+"Option - Return Key" = "Option ＋ Return キー";
+
+/* Class = "NSMenuItem"; title = "Option - Return Key"; ObjectID = "115"; */
+"Option - Return Key" = "Option ＋ Return キー";
+
+/* Class = "NSMenuItem"; title = "Option - Return Key"; ObjectID = "116"; */
+"Option - Return Key" = "Option ＋ Return キー";
+
+/* Class = "NSMenuItem"; title = "Option - Return Key"; ObjectID = "117"; */
+"Option - Return Key" = "Option ＋ Return キー";
+
+/* Class = "NSButtonCell"; title = "Restore Defaults"; ObjectID = "124"; */
+"Restore Defaults" = "デフォルトに戻す";
+
+/* Class = "NSTextFieldCell"; title = "Insert new parent node:"; ObjectID = "151"; */
+"Insert new parent node:" = "新規親ノードを挿入：";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "153"; */
+"OtherViews" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "155"; */
+"None" = "なし";
+
+/* Class = "NSMenuItem"; title = "Option - Return Key"; ObjectID = "156"; */
+"Option - Return Key" = "Option ＋ Return キー";
+
+/* Class = "NSMenuItem"; title = "Shift - Tab Key"; ObjectID = "157"; */
+"Shift - Tab Key" = "Shift ＋ Tab キー";
+
+/* Class = "NSMenuItem"; title = "Option - Tab Key"; ObjectID = "158"; */
+"Option - Tab Key" = "Option ＋ Tab キー";
+
+/* Class = "NSMenuItem"; title = "Tab Key"; ObjectID = "159"; */
+"Tab Key" = "Tab キー";
+
+/* Class = "NSMenuItem"; title = "Return Key"; ObjectID = "161"; */
+"Return Key" = "Return キー";
+
+/* Class = "NSMenuItem"; title = "Command - Return Key"; ObjectID = "162"; */
+"Command - Return Key" = "Command ＋ Return キー";
+
+/* Class = "NSMenuItem"; title = "Shift - Return Key"; ObjectID = "163"; */
+"Shift - Return Key" = "Shift ＋ Return キー";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "173"; */
+"OtherViews" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Hand-Tool"; ObjectID = "176"; */
+"Hand-Tool" = "手書きツール";
+
+/* Class = "NSMenuItem"; title = "Quick Look Preview"; ObjectID = "178"; */
+"Quick Look Preview" = "クイックルックでプレビュー";
+
+/* Class = "NSTextFieldCell"; title = "Space Key behavior:"; ObjectID = "184"; */
+"Space Key behavior:" = "スペースキーの動作：";
+
+/* Class = "NSTextFieldCell"; title = "Other:"; ObjectID = "185"; */
+"Other:" = "その他";
+

@@ -1,0 +1,42 @@
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "14"; */
+"OtherViews" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "15"; */
+"Item 1" = "Item 1";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "16"; */
+"Item 2" = "Item 2";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "17"; */
+"Item 3" = "Item 3";
+
+/* Class = "NSButtonCell"; title = "Customize…"; ObjectID = "24"; */
+"Customize…" = "Pas aan...";
+
+/* Class = "NSButtonCell"; title = "Automatic decrease branch width"; ObjectID = "28"; */
+"Automatic decrease branch width" = "Verklein automatisch takbreedte";
+
+/* Class = "NSTextFieldCell"; title = "Long"; ObjectID = "42"; */
+"Long" = "Lang";
+
+/* Class = "NSButtonCell"; title = "Shrink to fit content"; ObjectID = "43"; */
+"Shrink to fit content" = "Verklein en maak inhoud passend";
+
+/* Class = "NSTextFieldCell"; title = "Short"; ObjectID = "44"; */
+"Short" = "Kort";
+
+/* Class = "NSTextFieldCell"; title = "Medium"; ObjectID = "45"; */
+"Medium" = "Gemiddeld";
+
+/* Class = "NSTextFieldCell"; title = "Default Color Style:"; ObjectID = "115"; */
+"Default Color Style:" = "Standaard kleurstijl:";
+
+/* Class = "NSTextFieldCell"; title = "Default Branch Settings:"; ObjectID = "117"; */
+"Default Branch Settings:" = "Standaardinstellingen tak:";
+
+/* Class = "NSButtonCell"; title = "Restore Defaults"; ObjectID = "120"; */
+"Restore Defaults" = "Herstel standaardinstellingen";
+
+/* Class = "NSTextFieldCell"; title = "Default Node Width:"; ObjectID = "138"; */
+"Default Node Width:" = "Standaardbreedte knoop:";
+

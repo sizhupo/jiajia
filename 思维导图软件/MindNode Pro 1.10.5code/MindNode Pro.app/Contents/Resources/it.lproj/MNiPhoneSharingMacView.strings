@@ -1,0 +1,9 @@
+/* Class = "NSTableColumn"; headerCell.title = "Documents"; ObjectID = "19"; */
+"Documents" = "Documenti";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "20"; */
+"Text Cell" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "Export"; ObjectID = "62"; */
+"Export" = "Esporta";
+

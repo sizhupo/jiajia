@@ -1,0 +1,44 @@
+﻿/* Class = "NSPanel"; title = "Register MindNode Pro"; ObjectID = "1"; */
+"Register MindNode Pro" = "MindNode Pro を登録";
+
+/* Class = "NSButtonCell"; title = "Close"; ObjectID = "218"; */
+"Close" = "閉じる";
+
+/* Class = "NSTextFieldCell"; title = "License Type:"; ObjectID = "233"; */
+"License Type:" = "ライセンスタイプ:";
+
+/* Class = "NSTextFieldCell"; title = "Name:"; ObjectID = "234"; */
+"Name:" = "名前:";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Markus Müller"; ObjectID = "280"; */
+"Markus Müller" = "Markus Müller";
+
+/* Class = "NSTextFieldCell"; title = "Name:"; ObjectID = "281"; */
+"Name:" = "名前:";
+
+/* Class = "NSTextFieldCell"; title = "License Key:"; ObjectID = "282"; */
+"License Key:" = "ライセンスキー:";
+
+/* Class = "NSTextFieldCell"; title = "Copy and paste the license key from your purchase confirmation into this field."; ObjectID = "283"; */
+"Copy and paste the license key from your purchase confirmation into this field." = "この項目には購入確認情報からライセンスキーをコピー／ペーストして下さい。";
+
+/* Class = "NSTextFieldCell"; title = "Unable to verify license key."; ObjectID = "284"; */
+"Unable to verify license key." = "ライセンスキーを検証できません。";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "285"; */
+"Cancel" = "キャンセル";
+
+/* Class = "NSButtonCell"; title = "Purchase License"; ObjectID = "286"; */
+"Purchase License" = "ライセンスを購入";
+
+/* Class = "NSButtonCell"; title = "Register"; ObjectID = "287"; */
+"Register" = "登録";
+
+/* Class = "NSTextFieldCell"; title = "Seats:"; ObjectID = "291"; */
+"Seats:" = "シート数:";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "350"; */
+"Box" = "Box";
+
+/* Class = "NSButtonCell"; title = "Change License"; ObjectID = "370"; */
+"Change License" = "ライセンスを変更";

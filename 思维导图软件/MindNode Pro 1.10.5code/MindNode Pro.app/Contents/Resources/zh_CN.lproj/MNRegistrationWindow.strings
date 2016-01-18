@@ -1,0 +1,44 @@
+﻿/* Class = "NSPanel"; title = "Register MindNode Pro"; ObjectID = "1"; */
+"Register MindNode Pro" = "注册 MindNode Pro";
+
+/* Class = "NSButtonCell"; title = "Close"; ObjectID = "218"; */
+"Close" = "关闭";
+
+/* Class = "NSTextFieldCell"; title = "License Type:"; ObjectID = "233"; */
+"License Type:" = "许可证类型：";
+
+/* Class = "NSTextFieldCell"; title = "Name:"; ObjectID = "234"; */
+"Name:" = "Name:";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Markus Müller"; ObjectID = "280"; */
+"Markus Müller" = "Markus Müller";
+
+/* Class = "NSTextFieldCell"; title = "Name:"; ObjectID = "281"; */
+"Name:" = "姓名：";
+
+/* Class = "NSTextFieldCell"; title = "License Key:"; ObjectID = "282"; */
+"License Key:" = "许可证密钥：";
+
+/* Class = "NSTextFieldCell"; title = "Copy and paste the license key from your purchase confirmation into this field."; ObjectID = "283"; */
+"Copy and paste the license key from your purchase confirmation into this field." = "从您的购买确认中拷贝和粘贴许可证密钥到这里。";
+
+/* Class = "NSTextFieldCell"; title = "Unable to verify license key."; ObjectID = "284"; */
+"Unable to verify license key." = "无法验证许可证密钥。";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "285"; */
+"Cancel" = "取消";
+
+/* Class = "NSButtonCell"; title = "Purchase License"; ObjectID = "286"; */
+"Purchase License" = "购买许可证：";
+
+/* Class = "NSButtonCell"; title = "Register"; ObjectID = "287"; */
+"Register" = "注册";
+
+/* Class = "NSTextFieldCell"; title = "Seats:"; ObjectID = "291"; */
+"Seats:" = "数量：";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "350"; */
+"Box" = "Box";
+
+/* Class = "NSButtonCell"; title = "Change License"; ObjectID = "370"; */
+"Change License" = "更改许可证";
