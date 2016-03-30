@@ -8,7 +8,6 @@
 
 #import "SecondVC.h"
 #import "FirstVC.h"
-#import "ChangeLabelValueDelegate.h"
 
 #define KScreenW [UIScreen mainScreen].bounds.size.width
 #define KScreenH [UIScreen mainScreen].bounds.size.height

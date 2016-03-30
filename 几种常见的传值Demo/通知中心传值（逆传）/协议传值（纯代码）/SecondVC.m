@@ -58,7 +58,7 @@
     [self.view addSubview:Button];
 }
 
-
+//点击返回按钮所做的事
 - (void)ForwardPages:(UIButton *)Button
 {
    [self dismissViewControllerAnimated:YES completion:nil];

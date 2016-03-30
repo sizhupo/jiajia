@@ -38,7 +38,6 @@
 //通知的方法
 - (void)ChangeNextLabelValue:(NSNotification *)Notification
 {
-    //self.Label.text =
     NSLog(@"%@",Notification);
     NSDictionary *dic = Notification.userInfo;
     self.Label.text = dic[@"value"];
