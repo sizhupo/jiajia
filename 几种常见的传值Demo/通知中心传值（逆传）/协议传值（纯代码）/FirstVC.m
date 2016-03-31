@@ -97,6 +97,7 @@
     
 }
 
+//销毁通知
 - (void)CancelPages
 {
     [[NSNotificationCenter defaultCenter] removeObserver:self name:@"ChangeLabelValue" object:nil];
